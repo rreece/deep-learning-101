@@ -13,5 +13,5 @@ It takes a village to support AI applications, from data engineering to product.
 
 ### Author
 
-Ryan Reece ([@rreece](https://github.com/rreece))
+Ryan Reece ([@rreece](https://github.com/rreece))          
 Created: April 2, 2024
