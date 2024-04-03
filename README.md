@@ -2,7 +2,9 @@
 
 This is meant to be a high-level introduction to deep learning.
 
-It takes a village to support AI applications, from data engineering to machine learning to product teams. This is meant to help clarify some of the important language used in deep learning.
+It takes a village to support AI applications, from data engineering to machine learning to product teams.
+That village needs to communicate well.
+This is meant to help clarify some of the important language used in deep learning.
 
 
 ### Contents
