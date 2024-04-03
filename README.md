@@ -10,7 +10,7 @@ This is meant to help clarify some of the important language used in deep learni
 ### Contents
 
 1. [Introduction](introduction.md)
-2. Computer vision
+2. [Computer vision](computer-vision.md)
 3. Natural language processing
 4. Parallelism and hardware
 5. AI in products
