@@ -4,9 +4,11 @@ This is meant to be a high-level introduction to deep learning.
 
 It takes a village to support AI applications, from data engineering to product. This is meant to help clarify some of the important language used in deep learning.
 
+
 ### Contents
 
-1. TODO
+1. [Introduction](introduction.md)
+2. TODO
 
 
 ### Author
