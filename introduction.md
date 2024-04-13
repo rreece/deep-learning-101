@@ -16,7 +16,7 @@ Internally the model is parameterized by weights, $\vec{w}$.
 $$ y = f(\vec{x}; \vec{w}) $$
 
 In the paradigm of supervized learning, there is a training dataset
-that has input features paired with the truth label to be predicted, $\left{\vec{x}_{j}, \ell_{j}\right}$.
+that has input features paired with the truth label to be predicted, $\{\vec{x}_{j}, \ell_{j}\}$.
 
 TODO:
 
@@ -27,16 +27,21 @@ TODO:
 
 The workhorse algorithm for optimizing (training) model parameters is *gradient descent*:
 
-$$ \vec{w}[t] = \vec{w}[t-1] - \eta \frac{\partial L}{\partial \vec{w}}[t-1] $$
+$$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[t] $$
 
-In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches),
+In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches), $x_{t}$,
 and take a gradient descent step with each minibatch:
 
-$$ \vec{w}[t] = \vec{w}[t-1] - \eta \frac{\partial L}{\partial \vec{w}}[x_{t-1}] $$
+$$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[x_{t}] $$
+
+where
+
+-   $\eta$ is the *learning rate*
+-   \frac{\partial L}{\partial \vec{w}} is the *gradient*
 
 TODO:
 
--   SGD
+-   Backpropagation
 -   Double descent
 
 
