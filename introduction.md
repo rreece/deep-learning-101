@@ -7,10 +7,32 @@
 3. *Deep Learning* is a recent paradigm of machine learning using large artificial neural networks,
     with many layers for feature learning. Models are more of a blackbox that learn features from the raw data.
 
+In the general machine learning setup you have a model that can be
+thought of as parameterized function, $f$,
+that takes in some vector of input data $\vec{x}$,
+and returns some prediction $y$.
+Internally the model is parameterized by weights, $\vec{w}$.
+
+$$ y = f(\vec{x}; \vec{w}) $$
+
+In the paradigm of supervized learning, there is a training dataset
+that has input features paired with the truth label to be predicted, $\{x_{ij}, \ell_j\}$.
+
 TODO:
 
--   ML updates
 -   NNs are *universal function approximators*
+
+
+## Gradient descent
+
+The workhorse algorithm for optimizing model parameters is gradient descent.
+
+$$ \vec{w}(t) = \vec{w}(t-1) - \eta \: \frac{\partial L}{\partial \vec{w}}(t-1) $$
+
+
+TODO:
+
+-   SGD
 -   Double descent
 
 
