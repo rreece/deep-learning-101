@@ -2,7 +2,7 @@
 
 ![AI vs ML vs DL (source: [figshare](https://figshare.com/articles/figure/AI_vs_ML_vs_DL_Venn_Diagram_png/14915505))](img/AI_vs_ML_vs_DL_Venn_Diagram.png)
 
-1. *Artificial Intellegence* is any kind of software that make intellegent decisions in some sense. This could be a simple as hard-coded expert heuristics.
+1. *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense. This could be a simple as hard-coded expert heuristics.
 2. *Machine Learning* is a kind of software that somehow improves (is trained) when given data. Expert knowledge is often used to structure the model and what features of the data are used.
 3. *Deep Learning* is a recent paradigm of machine learning using large artificial neural networks,
     with many layers for feature learning. Models are more of a blackbox that learn features from the raw data.
@@ -21,7 +21,7 @@ TODO:
 Classical ML Textbooks:
 
 -   Bishop, C.M. (2006). [*Pattern Recognition and Machine Learning*](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
--   Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.).
+-   Hastie, T., Tibshirani, R., & Friedman, J. (2009). [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.)](https://hastie.su.domains/Papers/ESLII.pdf).
 
 Deep Learning Textbooks:
 
@@ -34,3 +34,4 @@ Online courses:
 -   Bekman, S. (2023). [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering).
 -   Labonne, M. (2023). [Large Language Model Course](https://github.com/mlabonne/llm-course).
 -   Microsoft. (2023). [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners).
+

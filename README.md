@@ -11,7 +11,7 @@ This is meant to help clarify some of the important language used in deep learni
 
 1. [Introduction](introduction.md)
 2. [Computer vision](computer-vision.md)
-3. Natural language processing
+3. [Natural language processing](natural-language.md)
 4. Parallelism and hardware
 5. AI in products
 
@@ -20,3 +20,4 @@ This is meant to help clarify some of the important language used in deep learni
 
 Ryan Reece ([@rreece](https://github.com/rreece))          
 Created: April 2, 2024
+
