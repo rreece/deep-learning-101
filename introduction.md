@@ -25,10 +25,14 @@ TODO:
 
 ## Gradient descent
 
-The workhorse algorithm for optimizing model parameters is gradient descent.
+The workhorse algorithm for optimizing (training) model parameters is *gradient descent*:
 
 $$ \vec{w}[t] = \vec{w}[t-1] - \eta \frac{\partial L}{\partial \vec{w}}[t-1] $$
 
+In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches),
+and take a gradient descent step with each minibatch:
+
+$$ \vec{w}[t] = \vec{w}[t-1] - \eta \frac{\partial L}{\partial \vec{w}}[x_{t-1}] $$
 
 TODO:
 
