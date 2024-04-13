@@ -27,7 +27,7 @@ TODO:
 
 The workhorse algorithm for optimizing model parameters is gradient descent.
 
-$$ \vec{w}(t) = \vec{w}(t-1) - \eta \: \frac{\partial L}{\partial \vec{w}}(t-1) $$
+$$ \vec{w}(t) = \vec{w}(t-1) - \eta \frac{\partial L}{\partial \vec{w}}(t-1) $$
 
 
 TODO:
