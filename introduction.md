@@ -44,6 +44,11 @@ where
 TODO
 
 
+## Softmax classification
+
+TODO
+
+
 ## Double descent
 
 TODO
