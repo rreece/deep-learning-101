@@ -8,12 +8,15 @@ TODO
 
 TODO
 
+
 ## seq2seq
 
 -   RNNs
 -   LSTMs
+-   Watershed moment in NLP with deep learning
 
-## Original Transformer
+
+## Transformer
 
 TODO
 
