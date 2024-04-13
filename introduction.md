@@ -15,10 +15,6 @@ Internally the model is parameterized by weights, $\vec{w}$.
 
 $$ y = f(\vec{x}; \vec{w}) $$
 
-In the paradigm of supervized learning, there is a training dataset
-that has input features paired with the truth label to be predicted:
-$\vec{x}_{j}$, $\ell_{j}$.
-
 TODO:
 
 -   NNs are *universal function approximators*
