@@ -37,10 +37,15 @@ where
 -   $L$ is the *loss function*
 -   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
 
-TODO:
 
--   Backpropagation
--   Double descent
+## Backpropagation
+
+TODO
+
+
+## Double descent
+
+TODO
 
 
 ## See also
