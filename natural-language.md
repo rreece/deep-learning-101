@@ -31,3 +31,5 @@ TODO
 
 ![Evolutionary tree of LLMs (source: [2304.13712](https://arxiv.org/abs/2304.13712)).](img/evolutionary-tree-of-LLMs.png)
 
+-   Yang, J. et al. (2023). [Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond](https://arxiv.org/abs/2304.13712).
+
