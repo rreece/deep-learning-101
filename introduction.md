@@ -34,6 +34,7 @@ $$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[x_{t}] $
 where
 
 -   $\eta$ is the *learning rate*
+-   $L$ is the *loss function*
 -   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
 
 TODO:
