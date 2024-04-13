@@ -38,6 +38,8 @@ where
 -   $L$ is the *loss function*
 -   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
 
+The number of samples in a minibatch is called the *batch size*.
+
 
 ## Backpropagation
 
