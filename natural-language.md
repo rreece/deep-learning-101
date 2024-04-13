@@ -1,8 +1,9 @@
-# Natural Language Processing
+# Natural language
 
 ## Introduction
 
 TODO
+
 
 ## word2vec
 
