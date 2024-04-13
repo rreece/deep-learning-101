@@ -52,12 +52,12 @@ TODO
 
 ### Pedagogy
 
-Classical ML Textbooks:
+Classical machine learning textbooks:
 
 -   Bishop, C.M. (2006). [*Pattern Recognition and Machine Learning*](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 -   Hastie, T., Tibshirani, R., & Friedman, J. (2009). [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.)](https://hastie.su.domains/Papers/ESLII.pdf).
 
-Deep Learning Textbooks:
+Deep learning textbooks:
 
 -   Bishop, C.M. (2024). [*Deep Learning: Foundations and Concepts*](https://www.bishopbook.com/).
 -   Goodfellow, I., Bengio, Y., & Courville, A. (2016). [*Deep Learning*](http://www.deeplearningbook.org).
