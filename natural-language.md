@@ -26,28 +26,29 @@ token_ids = [1, 123, 2223, 10, 335, 556, 10, ... ]
 -   Tokenization is basically a map from word parts to integers.
 -   It is important to note that tokenization is dependent on a *vocabulary* used to make the map.
 -   So note that a certain tokenization may not support any language. The language needs to map the vocabulary.
+-   A typical vocabulary size is something like 50,000.
+
+See also:
+
+-   Tutorial video by Andrej Karpathy: [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 
 ## Input tensor shape
 
-Often tokenization is done in the DataLoader, which also forms batches of the data in the form of a tensor for the model.
+Often tokenization is done in the `DataLoader`, which also forms batches of the data in the form of a tensor for the model.
 To square up the input tensor size, often needs to *pad* the sequences to a common *max sequence length* (MSL).
 
-Often the pad token ID is `0`, so a padding sequence would look like
+Often the pad token ID is `0`, so a padded sequence would look like
 
 ```
 token_ids = [1, 123, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
 ```
 
-The final input tensor shape for language models is often:
+The input tensor shape for language models is often:
 
 ```
 [batch][seq]       e.g. [8][256]
 ```
-
-See also:
-
--   Tutorial video by Andrej Karpathy: [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 
 ## Embedding (word2vec)
