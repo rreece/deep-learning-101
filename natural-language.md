@@ -64,7 +64,7 @@ The tensor shape of the output of the embedding is
 ```
 
 After the embedding parameters are trained end-to-end with a model,
-remarkably, you can give some semantic interpretations to some basis
+remarkably, you can give some *semantic interpretations* to some basis
 vectors in the embedding space.  Famously, for example
 
 $$ \vec{E}(\mathrm{king}) - \vec{E}(\mathrm{man}) + \vec{E}(\mathrm{woman}) \approx \vec{E}(\mathrm{queen}) $$
