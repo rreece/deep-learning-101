@@ -37,12 +37,12 @@ In *Stochastic Gradient Descent* (SGD), you chunk the training data into *miniba
 $\vec{x}_{it}$,
 and take a gradient descent step with each minibatch:
 
-$$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{1}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{it}] $$
+$$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{it}] $$
 
 where
 
 -   $\eta$ is the *learning rate*
--   $m$ is the number of samples in a minibatch is called the *batch size*
+-   $m$ is the number of samples in a minibatch, called the *batch size*
 -   $L$ is the *loss function*
 -   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
 
