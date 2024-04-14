@@ -177,8 +177,18 @@ Example training and test loss curves for a single training experiment:
 *Early stopping* is a method of picking the optimally trained model
 by stopping training when the test loss is at a minimum.
 
-NOTE: In the following plot, the curves are not losses for single experiments,
+
+Now thinking about what happens if we do additional experiments with larger models.
+Note that in the following plot, the curves are not losses for single experiments,
 but the final losses for many different experiments with increasing model sizes.
+
+In the tradditional way of thinking about overfitting, the rising test loss with
+model complexity is part the bias-variance tradeoff.
+
+![Bias-variance tradeoff (source: [Wikipedia](https://en.wikipedia.org/wiki/File:Bias_and_variance_contributing_to_total_error.svg)).](img/Bias_and_variance_contributing_to_total_error.png)
+
+But what is actually observed with increasing model size, is that the test
+loss goes down again.
 
 ![Double descent, source: [1912.02292](https://arxiv.org/abs/1912.02292).](img/Nakkiran2019-double-descent.png)
 
