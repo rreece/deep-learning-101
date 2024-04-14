@@ -20,23 +20,43 @@ Example:
 ```
 text = "Hello world! This is tokenization."
 tokens = ["<start>", ""Hello", " ", "world", "!", " ", "This", " ", "is", " ", "token", "iz", "ation", ".", "<end>"]
-token_ids = [0, 123, 2223, 10, 335, 556, 10, ... ]
+token_ids = [1, 123, 2223, 10, 335, 556, 10, ... ]
 ```
 
 -   Tokenization is basically a map from word parts to integers.
 -   It is important to note that tokenization is dependent on a *vocabulary* used to make the map.
 -   So note that a certain tokenization may not support any language. The language needs to map the vocabulary.
 
+
+## Input tensor shape
+
+Often tokenization is done in the DataLoader, which also forms batches of the data in the form of a tensor for the model.
+To square up the input tensor size, often needs to *pad* the sequences to a common *max sequence length* (MSL).
+
+Often the pad token ID is `0`, so a padding sequence would look like
+
+```
+token_ids = [1, 123, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
+```
+
+The final input tensor shape for language models is often:
+
+```
+[batch][seq]       e.g. [8][256]
+```
+
 See also:
 
 -   Tutorial video by Andrej Karpathy: [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 
-## word2vec
+## Embedding (word2vec)
 
 After tokenization, the next step in a language model is to *embed* the tokens,
 which is a map from the token IDs to a vector in some large space,
 with dimension called the `embedding_size`.
+
+The tensor shape of the output of embedding is `[batch][seq][embed]`.
 
 After the embedding parameters are trained end-to-end with a model,
 remarkably, you can give some semantic interpretations to some basis
