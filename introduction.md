@@ -35,10 +35,10 @@ The workhorse algorithm for optimizing (training) model parameters is *gradient 
 $$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[t] $$
 
 In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches),
-$\vec{x}_{it}$,
+$\vec{x}_{bt}$,
 and take a gradient descent step with each minibatch:
 
-$$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{it}] $$
+$$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{bt}] $$
 
 where
 
@@ -63,6 +63,8 @@ There are many additions to SGD that are used in state-of-the-art optimizers:
 
 
 ## Backpropagation
+
+How do we calculate $\frac{\partial L}{\partial w_{i}}[\vec{x}_{bt}]$?
 
 [Chain rule of calculus, case of scalar-valued functions with multiple inputs](https://en.wikipedia.org/wiki/Chain_rule#Case_of_scalar-valued_functions_with_multiple_inputs):
 
