@@ -47,7 +47,7 @@ token_ids = [1, 123, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
 The input tensor shape for language models is often:
 
 ```
-[batch][seq]       e.g. [8][256]
+[batch][seq]            e.g. [8][256]
 ```
 
 
@@ -57,7 +57,11 @@ After tokenization, the next step in a language model is to *embed* the tokens,
 which is a map from the token IDs to a vector in some large space,
 with dimension called the `embedding_size`.
 
-The tensor shape of the output of embedding is `[batch][seq][embed]`.
+The tensor shape of the output of embedding is
+
+```
+[batch][seq][embed]     e.g. [8][256][1280]
+```
 
 After the embedding parameters are trained end-to-end with a model,
 remarkably, you can give some semantic interpretations to some basis
