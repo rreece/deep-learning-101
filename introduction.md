@@ -27,6 +27,7 @@ TODO
 
 -   *universal function approximators*
 
+
 ## Gradient descent
 
 The workhorse algorithm for optimizing (training) model parameters is *gradient descent*:
@@ -53,6 +54,13 @@ in the gradient as a *regularizer*.
 *Regularization* is basically any technique that helps a model generalize, get better evaluation error.
 There is a ton of literature about how to change the learning rate with batch size.
 
+There are many additions to SGD that are used in state-of-the-art optimizers:
+
+-   SGD with momentum
+-   RMSProp
+-   Adam, AdamW
+-   ...
+
 
 ## Backpropagation
 
@@ -67,6 +75,7 @@ $$ \frac{\partial L}{\partial w_i} = \sum_{j} \frac{\partial L}{\partial a_j} \f
 where
 
 -   $\frac{\partial L}{\partial w_i}$ is the gradient
+-   $a_j$ is the *activation* at that layer
 -   $\delta_j \equiv \frac{\partial L}{\partial a_j}$ is the *delta* at that layer
 -   $\frac{\partial a_j}{\partial w_i}$ is the rest of the derivative in following layers, using the chain rule
 
