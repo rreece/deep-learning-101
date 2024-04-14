@@ -65,7 +65,18 @@ vectors in the embedding space.  Famously, for example
 
 $$ \vec{E}(\mathrm{king}) - \vec{E}(\mathrm{man}) + \vec{E}(\mathrm{woman}) \approx \vec{E}(\mathrm{queen}) $$
 
-![word2vec visualization (source: https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html/).](img/word2vec-viz.png)
+![word2vec visualization 1 (source: https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html/).](img/word2vec-viz-1.png)
+
+Another example where a dimension in the embedding correlates with the capital of a country:
+
+![word2vec visualization 2 (source: https://arxiv.org/abs/1310.4546).](img/word2vec-viz-2.png)
+
+See also:
+
+-   Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781).
+-   Mikolov, T. et al. (2013). [Distributed representations of words and phrases and their compositionality](https://arxiv.org/abs/1310.4546).
+-   Mikolov, T., Yih, W. T., & Zweig, G. (2013). [Linguistic regularities in continuous space word representations](https://www.aclweb.org/anthology/N13-1090.pdf).
+-   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
 
 
 ## seq2seq
