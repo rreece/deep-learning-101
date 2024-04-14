@@ -47,7 +47,7 @@ token_ids = [1, 123, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
 The input tensor shape for language models is often:
 
 ```
-[batch][seq]            e.g. [8][256]
+[batch_size][max_seq_length]            e.g. [8][256]
 ```
 
 
@@ -60,7 +60,7 @@ with dimension called the `embedding_size`.
 The tensor shape of the output of the embedding is
 
 ```
-[batch][seq][embed]     e.g. [8][256][1280]
+[batch_size][max_seq_length][embedding_size]       e.g. [8][256][1280]
 ```
 
 After the embedding parameters are trained end-to-end with a model,
@@ -85,19 +85,30 @@ See also:
 
 ## seq2seq
 
--   RNNs
--   LSTMs
--   Watershed moment in NLP with deep learning
+-   RNNs and LSTMs
+-   seq2seq: Watershed moment in NLP with deep learning
+    -   Sutskever, I., Vinyals, O., & Le, Q. V. (2014). [Sequence to sequence learning with neural networks](https://arxiv.org/abs/1409.3215).
+    -   First very successful encoder-decoder based model
+-   Bahdanau "attention"
+    -   Bahdanau, D., Cho, K., & Bengio, Y. (2015). [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473).
+-   Google Neural Machine Translation (GNMT)
+    -   Wu, Y. et al. (2016). [Google’s neural machine translation system: Bridging the gap between human and machine translation](https://arxiv.org/abs/1409.0473).
 
 
 ## Transformer
 
 TODO
 
+![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/index.html)).](img/transformer.png)
+
+-   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
+
 
 ## BERT
 
 TODO
+
+-   Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805).
 
 
 ## T5
@@ -116,5 +127,4 @@ TODO
 
 -   Up next: [Parallelism and hardware](parallelism-and-hw.md)
 -   Previous: [Computer vision](computer-vision.md)
-
 
