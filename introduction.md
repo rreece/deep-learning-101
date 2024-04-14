@@ -36,11 +36,7 @@ Note that we need the *activation function*, $\phi$, to add a nonlinearity,
 because otherwise, if every layer was just linear matrix multiply, then
 the layers could be effectively reduced to one.
 
-TODO
-
-$$ Z = AAAAX $$
-
-TODO
+$$ \vec{z} = A_1 A_2 \ldots A_n \vec{x} = A \vec{x} $$
 
 See also:
 
