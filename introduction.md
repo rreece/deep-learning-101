@@ -42,7 +42,7 @@ There are a variety of nonlinear functions used in practice.
 
 ![Example activation functions, Bishop, p. 184](img/bishop-activation-functions-p184.png)
 
-Note that we need the *activation function*, $\phi$, to add a nonlinearity,
+Note that we need the *activation functions*, $\phi$, to add a nonlinearity,
 because otherwise, if every layer was just linear matrix multiply, then
 the layers could be effectively reduced to one:
 
