@@ -13,7 +13,7 @@ that takes in some vector of input data $\vec{x}$,
 and returns some prediction $y$.
 Internally the model is parameterized by weights, $\vec{w}$.
 
-$$ y = f(\vec{x}; \vec{w}) $$
+$$ z = f(\vec{x}; \vec{w}) $$
 
 
 ## Layers of a network are matrices
