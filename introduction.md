@@ -18,6 +18,10 @@ $$ y = f(\vec{x}; \vec{w}) $$
 
 ## Layers of a network are matrices
 
+Neural network layer:
+
+![source: https://python-course.eu/machine-learning/neural-networks-structure-weights-and-matrices.php](img/nn-layer.png)
+
 TODO
 
 See also:
