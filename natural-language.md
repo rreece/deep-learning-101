@@ -57,7 +57,7 @@ After tokenization, the next step in a language model is to *embed* the tokens,
 which is a map from the token IDs to a vector in some large space,
 with dimension called the `embedding_size`.
 
-The tensor shape of the output of embedding is
+The tensor shape of the output of the embedding is
 
 ```
 [batch][seq][embed]     e.g. [8][256][1280]
