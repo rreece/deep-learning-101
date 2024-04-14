@@ -14,21 +14,23 @@
 In the general machine learning setup you have a model that can be
 thought of as a parameterized function, $f$,
 that takes in some vector of input data $\vec{x}$,
-and returns some prediction $z$.
+and returns some prediction $y$.
 Internally the model is parameterized by weights, $\vec{w}$.
 
-$$ z = f(\vec{x}; \vec{w}) $$
+$$ y = f(\vec{x}; \vec{w}) $$
 
 
 ## Layers of a network are matrix-function sandwiches
 
 Neural network layer:
 
-$$ z_i = \phi(y_i) = \phi(w_{ij} x_{j} + b_{j}) $$
+$$ y_i = \phi(z_i) = \phi(w_{ij} x_{j} + b_{j}) $$
+
+![Example activation functions, Bishop, p. 184](img/bishop-nn-p181.png)
 
 A multi-layer neural network is a composition of functions.
 
-![Example activation functions, Bishop, p. 184](img/bishop-nn-p181.png)
+$$ f(\vec{x}; \vec{w}) =  \phi_n(W_{n} \vec{a}_{n-1} + b_{n}) = \phi_n(W_{n-1} \phi_n(W_{n-1} \vec{a}_{n-2} + b_{n-1}) + b_{n-1}) ...
 
 There are a variety of nonlinear functions used in practice.
 
