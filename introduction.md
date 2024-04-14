@@ -20,6 +20,10 @@ $$ y = f(\vec{x}; \vec{w}) $$
 
 TODO
 
+See also:
+
+-   Bradley, T.D. (2019). [Matrices as tensor network diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams).
+
 
 ## Neural networks are *universal function approximators*
 
@@ -86,6 +90,7 @@ See also:
 -   [Automatic_differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
 -   [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 -   Johnson, J. (2017). [Backpropagation for a linear layer](https://cs231n.stanford.edu/handouts/linear-backprop.pdf).
+-   Parr, T. & Howard, J. (2018). [The matrix calculus you need for deep learning](https://arxiv.org/abs/1802.01528).
 
 
 ## Softmax classification
