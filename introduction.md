@@ -51,7 +51,7 @@ where
 
 [Chain rule of calculus, case of scalar-valued functions with multiple inputs](https://en.wikipedia.org/wiki/Chain_rule#Case_of_scalar-valued_functions_with_multiple_inputs):
 
-$$ \frac{d}{d x} f( g_1(x), \ldots, g_k(x) = \sum_{i=1}^{k} \left( \frac{\partial f}{\partial g_i} \right) \left( \frac{d g_i}{dx} \right) $$
+$$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{i=1}^{k} \left( \frac{\partial f}{\partial g_i} \right) \left( \frac{d g_i}{dx} \right) $$
 
 
 TODO
