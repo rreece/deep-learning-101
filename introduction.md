@@ -119,6 +119,31 @@ where
 -   $\delta_j \equiv \frac{\partial L}{\partial a_j}$ is the *delta* at that layer
 -   $\frac{\partial a_j}{\partial w_i}$ is the rest of the derivative in following layers, recursively using the chain rule
 
+```mermaid
+graph LR;
+    x1[x1]-->h1((h1))
+    x1-->h2((h2))
+    x1-->h3((h3))
+    x1-->h4((h4))
+    x2[x2]-->h1
+    x2-->h2
+    x2-->h3
+    x2-->h4
+    h1-->a1((a1))
+    h1-->a2((a2))
+    h2-->a1
+    h2-->a2
+    h3-->a1
+    h3-->a2
+    h4-->a1
+    h4-->a2
+    a1-->|logit a1|CEL[CrossEntropyLoss]
+    a2-->|logit a2|CEL
+    T[truth label]-->CEL
+    CEL-->L
+    L-->|backprop dL/da1|a1
+```
+
 In general, training involves:
 
 1.  *Forward pass*: Calculate the inference of the model: $z = f(x; w)$
