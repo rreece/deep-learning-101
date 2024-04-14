@@ -25,11 +25,11 @@ See also:
 -   Bradley, T.D. (2019). [Matrices as tensor network diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams).
 
 
-## Neural networks are *universal function approximators*
+## Neural networks are universal function approximators
 
 TODO
 
--   *universal function approximators*
+-   Neural networks are *universal function approximators*
 
 
 ## Gradient descent
