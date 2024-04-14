@@ -47,6 +47,12 @@ where
 -   $L$ is the *loss function*
 -   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
 
+Notice that the gradient will be more noisey when the batch size is small.
+One might think this is bad, but in a lot of cases it turns out to help to have some noise
+in the gradient as a *regularizer*.
+*Regularization* is basically any technique that helps a model generalize, get better evaluation error.
+There is a ton of literature about how to change the learning rate with batch size.
+
 
 ## Backpropagation
 
