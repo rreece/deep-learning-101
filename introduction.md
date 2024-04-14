@@ -62,6 +62,15 @@ A neural network that uses ReLU acivations is a piecewise linear function.
 -   Prince, S.J.D. (2023). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/).
 
 
+## Softmax classification
+
+TODO
+
+See also:
+
+-   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
+
+
 ## Gradient descent
 
 ![source: [1805.04829](https://arxiv.org/abs/1805.04829)](img/stochastic-gradient-descent.jpg)
@@ -157,15 +166,6 @@ See also:
 -   [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 -   Johnson, J. (2017). [Backpropagation for a linear layer](https://cs231n.stanford.edu/handouts/linear-backprop.pdf).
 -   Parr, T. & Howard, J. (2018). [The matrix calculus you need for deep learning](https://arxiv.org/abs/1802.01528).
-
-
-## Softmax classification
-
-TODO
-
-See also:
-
--   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
 
 
 ## Double descent
