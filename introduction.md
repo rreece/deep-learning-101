@@ -5,7 +5,7 @@
 1.  *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense.
     This could be a simple as hard-coded expert heuristics.
     Simple example: thermostat.
-2.  *Machine Learning* is a kind of software that somehow improves (is trained) when given data.
+2.  *Machine Learning* is a kind of software that somehow improves (is *trained*) when given data.
     Expert knowledge is often used to structure the model and what features of the data are used.
     Simple example: Least squares fit to a linear model.
 3.  *Deep Learning* is a recent paradigm of machine learning using large artificial neural networks,
@@ -18,6 +18,10 @@ and returns some prediction $y$.
 Internally the model is parameterized by weights, $\vec{w}$.
 
 $$ y = f(\vec{x}; \vec{w}) $$
+
+In the setting of *supervized learning*, then we training dataset
+that has pairs of input samples, $\vec{x}$, and the true *label*
+of what the prediction should be $\tilde{y}$.
 
 
 ## Layers of a network are matrix-function sandwiches
