@@ -150,9 +150,10 @@ TODO
 
 ## Conclusion
 
--   Deep learning is a paradigm of machine learning that pushes the scale of the model and data
--   Neural networks are universal function approximators
--   TODO: Softmax classification
+-   Deep learning is a paradigm of machine learning that pushes the scale of the model and data.
+-   Neural networks are universal function approximators.
+-   SGD-like optimizers are the workhorses of deep learning.
+-   TODO: Softmax classification.
 -   Double descent is the surpising phenomena that neural networks generalize better with many parameters.
 
 
