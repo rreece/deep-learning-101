@@ -7,12 +7,44 @@ TODO
 
 ## Tokenization
 
-TODO
+Tokenization is the process of taking a sequence of text
+and breaking it into units called *tokens*.
+You can think of tokens as being words,
+but in general they can be parts of words.
+
+Tokens are generally then converted to "token IDs" that
+are integer encodings of the tokens.
+
+Example:
+
+```
+text = "Hello world! This is tokenization."
+tokens = ["<start>", ""Hello", " ", "world", "!", " ", "This", " ", "is", " ", "token", "iz", "ation", ".", "<end>"]
+token_ids = [0, 123, 2223, 10, 335, 556, 10, ... ]
+```
+
+-   Tokenization is basically a map from word parts to integers.
+-   It is important to note that tokenization is dependent on a *vocabulary* used to make the map.
+-   So note that a certain tokenization may not support any language. The language needs to map the vocabulary.
+
+See also:
+
+-   Tutorial video by Andrej Karpathy: [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 
 ## word2vec
 
-TODO
+After tokenization, the next step in a language model is to *embed* the tokens,
+which is a map from the token IDs to a vector in some large space,
+with dimension called the `embedding_size`.
+
+After the embedding parameters are trained end-to-end with a model,
+remarkably, you can give some semantic interpretations to some basis
+vectors in the embedding space.  Famously, for example
+
+$$ \vec{v}_{\mathrm{king}} - \vec{v}_{\mathrm{man}} + \vec{v}_{\mathrm{woman}} \approx \vec{v}_{\mathrm{queen}} $$
+
+![word2vec visualization (source: https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html/).](img/word2vec-viz.png)
 
 
 ## seq2seq
