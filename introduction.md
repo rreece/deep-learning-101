@@ -14,7 +14,7 @@
 In the general machine learning setup you have a model that can be
 thought of as a parameterized function, $f$,
 that takes in some vector of input data $\vec{x}$,
-and returns some prediction $y$.
+and returns some prediction $z$.
 Internally the model is parameterized by weights, $\vec{w}$.
 
 $$ z = f(\vec{x}; \vec{w}) $$
