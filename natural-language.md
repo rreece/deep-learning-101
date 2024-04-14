@@ -5,6 +5,11 @@
 TODO
 
 
+## Tokenization
+
+TODO
+
+
 ## word2vec
 
 TODO
@@ -21,9 +26,11 @@ TODO
 
 TODO
 
+
 ## BERT
 
 TODO
+
 
 ## T5
 
