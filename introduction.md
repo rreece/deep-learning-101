@@ -60,13 +60,30 @@ There is a ton of literature about how to change the learning rate with batch si
 
 $$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{i=1}^{k} \left( \frac{\partial f}{\partial g_i} \right) \left( \frac{d g_i}{dx} \right) $$
 
+Using this to write the gradient with respect to some parameter:
 
-TODO
+$$ \frac{\partial L}{\partial w_i} = \sum_{j} \frac{\partial L}{\partial a_j} \frac{\partial a_j}{\partial w_i} $$ 
+
+where
+
+-   $\frac{\partial L}{\partial w_i}$ is the gradient
+-   $\delta_j \equiv \frac{\partial L}{\partial a_j}$ is the *delta* at that layer
+-   $\frac{\partial a_j}{\partial w_i}$ is the rest of the derivative in following layers, using the chain rule
+
+See also:
+
+-   [Automatic_differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
+-   [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+-   Johnson, J. (2017). [Backpropagation for a linear layer](https://cs231n.stanford.edu/handouts/linear-backprop.pdf).
 
 
 ## Softmax classification
 
 TODO
+
+See also:
+
+-   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
 
 
 ## Double descent
