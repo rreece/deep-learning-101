@@ -30,7 +30,7 @@ $$ y_i = \phi(z_i) = \phi(w_{ij} x_{j} + b_{j}) $$
 
 A multi-layer neural network is a composition of functions.
 
-$$ f(\vec{x}; \vec{w}) =  \phi_n(W_{n} \vec{a}_{n-1} + b_{n}) = \phi_n(W_{n-1} \phi_n(W_{n-1} \vec{a}_{n-2} + b_{n-1}) + b_{n-1}) ...
+$$ f(\vec{x}; \vec{w}) =  \phi_n(W_{n} \vec{a}_{n-1} + b_{n}) = \phi_n(W_{n-1} \phi_n(W_{n-1} \vec{a}_{n-2} + b_{n-1}) + b_{n-1}) = \ldots $$
 
 There are a variety of nonlinear functions used in practice.
 
