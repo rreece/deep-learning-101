@@ -42,7 +42,7 @@ After the embedding parameters are trained end-to-end with a model,
 remarkably, you can give some semantic interpretations to some basis
 vectors in the embedding space.  Famously, for example
 
-$$ \mathrm{king} - \mathrm{man} + \mathrm{woman} \approx \mathrm{queen} $$
+$$ \vec{\mathrm{king}} - \vec{\mathrm{man}} + \vec{\mathrm{woman}} \approx \vec{\mathrm{queen}} $$
 
 ![word2vec visualization (source: https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html/).](img/word2vec-viz.png)
 
