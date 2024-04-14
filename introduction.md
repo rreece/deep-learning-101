@@ -72,18 +72,18 @@ How do we calculate $\frac{\partial L}{\partial w_{i}}[\vec{x}_{bt}]$?
 
 [Chain rule of calculus, case of scalar-valued functions with multiple inputs](https://en.wikipedia.org/wiki/Chain_rule#Case_of_scalar-valued_functions_with_multiple_inputs):
 
-$$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{i=1}^{k} \left( \frac{\partial f}{\partial g_i} \right) \left( \frac{d g_i}{dx} \right) $$
+$$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{i=j}^{k} \left( \frac{\partial f}{\partial g_j} \right) \left( \frac{d g_j}{dx} \right) $$
 
 Using this to write the gradient with respect to some parameter:
 
-$$ \frac{\partial L}{\partial w_i} = \sum_{j} \frac{\partial L}{\partial a_j} \frac{\partial a_j}{\partial w_i} $$ 
+$$ \frac{\partial L}{\partial w_i} = \sum_{j} \left( \frac{\partial L}{\partial a_j} \right) \left( \frac{\partial a_j}{\partial w_i} \right) $$ 
 
 where
 
 -   $\frac{\partial L}{\partial w_i}$ is the gradient
 -   $a_j$ is the *activation* at that layer
 -   $\delta_j \equiv \frac{\partial L}{\partial a_j}$ is the *delta* at that layer
--   $\frac{\partial a_j}{\partial w_i}$ is the rest of the derivative in following layers, using the chain rule
+-   $\frac{\partial a_j}{\partial w_i}$ is the rest of the derivative in following layers, recursively using the chain rule
 
 See also:
 
