@@ -218,8 +218,8 @@ See also:
 -   Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). [Reconciling modern machine-learning practice and the classical bias-variance trade-off](https://arxiv.org/abs/1812.11118).
 -   Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). [Deep double descent: Where bigger models and more data hurt](https://arxiv.org/abs/1912.02292).
 -   [MLU-explain: Bias-variance tradeoff](https://mlu-explain.github.io/bias-variance/)
--   [MLU-explain: Doulbe descent 1](https://mlu-explain.github.io/double-descent/)
--   [MLU-explain: Doulbe descent 2](https://mlu-explain.github.io/double-descent2/)
+-   [MLU-explain: Double descent 1](https://mlu-explain.github.io/double-descent/)
+-   [MLU-explain: Double descent 2](https://mlu-explain.github.io/double-descent2/)
 
 
 ## Conclusion
