@@ -114,6 +114,10 @@ TODO
 
 ## T5
 
+TODO
+
+![T5 description of types of transformer architectures (source: [1910.10683](https://arxiv.org/abs/1910.10683)).](img/t5-description-of-transformer-types.png)
+
 -   Raffel, C. et al. (2019). [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683).
 
 
