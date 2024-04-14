@@ -36,7 +36,7 @@ There are a variety of nonlinear functions used in practice.
 
 Note that we need the *activation function*, $\phi$, to add a nonlinearity,
 because otherwise, if every layer was just linear matrix multiply, then
-the layers could be effectively reduced to one.
+the layers could be effectively reduced to one:
 
 $$ \vec{z} = A_1 A_2 \ldots A_n \vec{x} = A \vec{x} $$
 
@@ -56,7 +56,7 @@ A neural network that uses ReLU acivations is a piecewise linear function.
 
 ![ReLU composition from Prince (2023).](img/prince-relu-composition.png)
 
-&rArr; Neural networks are *universal function approximators*
+&rArr; Neural networks are *universal function approximators*.
 
 -   Hornik, K., Stinchcombe, M., & White, H. (1989). [Multilayer feedforward networks are universal approximators](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf).
 -   Prince, S.J.D. (2023). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/).
