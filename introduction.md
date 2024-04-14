@@ -162,7 +162,7 @@ in the the classical machine learning regime
 ($n_\mathrm{param} << n_\mathrm{data}$),
 there is an optimal model size that minizes test loss.
 At larger model sizes, in the critical regime
-($n_\mathrm{param} ~ n_\mathrm{data}$),
+($n_\mathrm{param} \sim n_\mathrm{data}$),
 the test loss rises again as part of the high-variance
 part of the classical bias-variacen tradeoff.
 But at even large model sizes,
