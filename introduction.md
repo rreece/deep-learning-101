@@ -34,10 +34,6 @@ There are a variety of nonlinear functions used in practice.
 
 ![Example activation functions, Bishop, p. 184](img/bishop-activation-functions-p184.png)
 
-TODO
-
-![source: https://python-course.eu/machine-learning/neural-networks-structure-weights-and-matrices.php](img/nn-layer.png)
-
 Note that we need the *activation function*, $\phi$, to add a nonlinearity,
 because otherwise, if every layer was just linear matrix multiply, then
 the layers could be effectively reduced to one.
