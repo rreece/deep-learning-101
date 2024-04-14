@@ -76,7 +76,7 @@ There are many additions to SGD that are used in state-of-the-art optimizers:
 
 ## Backpropagation
 
-How do we calculate $\frac{\partial L}{\partial w_{i}}[\vec{x}_{bt}]$?
+How do we calculate $\frac{\partial L}{\partial w_{i}}$?
 
 [Chain rule of calculus, case of scalar-valued functions with multiple inputs](https://en.wikipedia.org/wiki/Chain_rule#Case_of_scalar-valued_functions_with_multiple_inputs):
 
@@ -95,7 +95,7 @@ where
 
 See also:
 
--   [Automatic_differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation) - "autograd"
+-   [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation) - "autograd"
 -   [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 -   Johnson, J. (2017). [Backpropagation for a linear layer](https://cs231n.stanford.edu/handouts/linear-backprop.pdf).
 -   Parr, T. & Howard, J. (2018). [The matrix calculus you need for deep learning](https://arxiv.org/abs/1802.01528).
