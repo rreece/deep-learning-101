@@ -72,11 +72,11 @@ How do we calculate $\frac{\partial L}{\partial w_{i}}[\vec{x}_{bt}]$?
 
 [Chain rule of calculus, case of scalar-valued functions with multiple inputs](https://en.wikipedia.org/wiki/Chain_rule#Case_of_scalar-valued_functions_with_multiple_inputs):
 
-$$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{i=j}^{k} \left( \frac{\partial f}{\partial g_j} \right) \left( \frac{d g_j}{dx} \right) $$
+$$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{i=j}^{k} \frac{\partial f}{\partial g_j} \frac{d g_j}{dx} $$
 
 Using this to write the gradient with respect to some parameter:
 
-$$ \frac{\partial L}{\partial w_i} = \sum_{j} \left( \frac{\partial L}{\partial a_j} \right) \left( \frac{\partial a_j}{\partial w_i} \right) $$ 
+$$ \frac{\partial L}{\partial w_i} = \sum_{j} \frac{\partial L}{\partial a_j} \frac{\partial a_j}{\partial w_i} $$ 
 
 where
 
