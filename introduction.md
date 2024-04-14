@@ -32,6 +32,8 @@ A multi-layer neural network is a composition of functions.
 
 $$ f(\vec{x}; \vec{w}) = f_n \circ \ldots f_2 \circ f_1(\vec{x}) = \phi_{n}( \ldots \phi_{2}(W_2 \phi_{1}(W_1 \vec{x} + \vec{b}_1 ) + \vec{b}_2) \ldots ) $$
 
+![A multi-layer neural network is a composition of functions. source: [towardsdatascience.com](https://towardsdatascience.com/how-to-define-a-neural-network-as-a-mathematical-function-f7b820cde3f)](img/nn-as-function-composition.png)
+
 There are a variety of nonlinear functions used in practice.
 
 ![Example activation functions, Bishop, p. 184](img/bishop-activation-functions-p184.png)
