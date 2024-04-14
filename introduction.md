@@ -152,6 +152,9 @@ Example training and test loss curves for a single training experiment:
 *Early stopping* is a method of picking the optimally trained model
 by stopping training when the test loss is at a minimum.
 
+NOTE: In the following plot, the curves are not losses for single experiments,
+but the final losses for many different experiments with increasing model sizes.
+
 ![Double descent, source: [1912.02292](https://arxiv.org/abs/1912.02292).](img/Nakkiran2019-double-descent.png)
 
 Thought of as a function of the size of the model,
