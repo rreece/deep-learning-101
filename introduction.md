@@ -24,7 +24,21 @@ $$ z = f(\vec{x}; \vec{w}) $$
 
 Neural network layer:
 
+$$ z_i = \phi(y_i) = \phi(x \cdot w^\intercal) $$
+
+A multi-layer neural network is a composition of functions.
+
+TODO
+
 ![source: https://python-course.eu/machine-learning/neural-networks-structure-weights-and-matrices.php](img/nn-layer.png)
+
+Note that we need the *activation function*, $\phi$, to add a nonlinearity,
+because otherwise, if every layer was just linear matrix multiply, then
+the layers could be effectively reduced to one.
+
+TODO
+
+$$ Z = AAAAX $$
 
 TODO
 
