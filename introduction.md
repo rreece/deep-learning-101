@@ -24,7 +24,7 @@ $$ z = f(\vec{x}; \vec{w}) $$
 
 Neural network layer:
 
-$$ z_i = \phi(y_i) = \phi(x \cdot w^\intercal) $$
+$$ z_i = \phi(y_i) = \phi(w_{ij} x_{j} + b_{j}) $$
 
 A multi-layer neural network is a composition of functions.
 
