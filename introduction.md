@@ -42,6 +42,7 @@ $$ \vec{z} = A_1 A_2 \ldots A_n \vec{x} = A \vec{x} $$
 
 See also:
 
+-   Bishop, C.M. (2024). [*Deep Learning: Foundations and Concepts*](https://www.bishopbook.com/).
 -   Bradley, T.D. (2019). [Matrices as tensor network diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams).
 
 
@@ -62,6 +63,8 @@ A neural network that uses ReLU acivations is a piecewise linear function.
 
 
 ## Gradient descent
+
+![source: [1805.04829](https://arxiv.org/abs/1805.04829)](img/stochastic-gradient-descent.jpg)
 
 The workhorse algorithm for optimizing (training) model parameters is *gradient descent*:
 
