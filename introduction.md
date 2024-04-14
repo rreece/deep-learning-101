@@ -145,6 +145,10 @@ See also:
 
 ## Double descent
 
+Example training and test loss curves for a single training experiment:
+
+![Example traing and test loss curves, source: [google](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic).](img/train-test-loss-curve.png)
+
 TODO
 
 ![Double descent, source: [1912.02292](https://arxiv.org/abs/1912.02292).](img/Nakkiran2019-double-descent.png)
