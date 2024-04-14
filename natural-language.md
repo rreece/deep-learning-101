@@ -18,9 +18,9 @@ are integer encodings of the tokens.
 Example:
 
 ```
-text = "Hello world! This is tokenization."
-tokens = ["<start>", ""Hello", " ", "world", "!", " ", "This", " ", "is", " ", "token", "iz", "ation", ".", "<end>"]
-token_ids = [1, 123, 2223, 10, 335, 556, 10, ... ]
+text = "Hello, world! This is tokenization."
+tokens = ["<start>", "Hello", ",", " ", "world", "!", " ", "This", " ", "is", " ", "token", "iz", "ation", ".", "<end>"]
+token_ids = [1, 123, 22, 2223, 10, 335, 556, 10, ... ]
 ```
 
 -   Tokenization is basically a map from word parts to integers.
@@ -41,7 +41,7 @@ To square up the input tensor size, often needs to *pad* the sequences to a comm
 Often the pad token ID is `0`, so a padded sequence would look like
 
 ```
-token_ids = [1, 123, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
+token_ids = [1, 123, 22, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
 ```
 
 The input tensor shape for language models is often:
