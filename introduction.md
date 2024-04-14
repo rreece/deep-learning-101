@@ -227,3 +227,9 @@ Online courses:
 -   Labonne, M. (2023). [Large Language Model Course](https://github.com/mlabonne/llm-course).
 -   Microsoft. (2023). [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners).
 
+
+--------
+
+-   Up next: [Computer vision](computer-vision.md)
+
+

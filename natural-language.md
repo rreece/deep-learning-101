@@ -44,3 +44,9 @@ TODO
 -   Yang, J. et al. (2023). [Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond](https://arxiv.org/abs/2304.13712).
 -   Raschka, S. (2023). [Understanding large language models](https://magazine.sebastianraschka.com/p/understanding-large-language-models).
 
+--------
+
+-   Up next: [Parallelism and hardware](parallelism-and-hw.md)
+-   Previous: [Computer vision](computer-vision.md)
+
+
