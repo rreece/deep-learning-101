@@ -183,7 +183,7 @@ Note that in the following plot, the curves are not losses for single experiment
 but the final losses for many different experiments with increasing model sizes.
 
 In the tradditional way of thinking about overfitting, the rising test loss with
-model complexity is part the bias-variance tradeoff.
+model complexity is part the [bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff).
 
 ![Bias-variance tradeoff (source: [Wikipedia](https://en.wikipedia.org/wiki/File:Bias_and_variance_contributing_to_total_error.svg)).](img/Bias_and_variance_contributing_to_total_error.png)
 
@@ -204,6 +204,12 @@ But at larger model sizes,
 ($n_\mathrm{param} \gg n_\mathrm{data}$),
 even passed those that achieve zero train loss,
 larger models show better generalization.
+
+See also:
+
+-   [MLU-explain: Bias-variance tradeoff](https://mlu-explain.github.io/bias-variance/)
+-   [MLU-explain: Doulbe descent 1](https://mlu-explain.github.io/double-descent/)
+-   [MLU-explain: Doulbe descent 2](https://mlu-explain.github.io/double-descent2/)
 
 
 ## Conclusion
