@@ -15,10 +15,17 @@ Internally the model is parameterized by weights, $\vec{w}$.
 
 $$ y = f(\vec{x}; \vec{w}) $$
 
-TODO:
 
--   NNs are *universal function approximators*
+## Layers of a network are matrices
 
+TODO
+
+
+## Neural networks are *universal function approximators*
+
+TODO
+
+-   *universal function approximators*
 
 ## Gradient descent
 
@@ -27,21 +34,25 @@ The workhorse algorithm for optimizing (training) model parameters is *gradient 
 $$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[t] $$
 
 In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches),
-$\vec{x}_{t}$,
+$\vec{x}_{it}$,
 and take a gradient descent step with each minibatch:
 
-$$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[\vec{x}_{t}] $$
+$$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{1}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{it}] $$
 
 where
 
 -   $\eta$ is the *learning rate*
+-   $m$ is the number of samples in a minibatch is called the *batch size*
 -   $L$ is the *loss function*
 -   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
 
-The number of samples in a minibatch is called the *batch size*.
-
 
 ## Backpropagation
+
+[Chain rule of calculus, case of scalar-valued functions with multiple inputs](https://en.wikipedia.org/wiki/Chain_rule#Case_of_scalar-valued_functions_with_multiple_inputs):
+
+$$ \frac{d}{d x} f( g_1(x), \ldots, g_k(x) = \sum_{i=1}^{k} \left( \frac{\partial f}{\partial g_i} \right) \left( \frac{d g_i}{dx} \right) $$
+
 
 TODO
 
