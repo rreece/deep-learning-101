@@ -159,7 +159,7 @@ graph LR;
 
 In general, training involves:
 
-1.  *Forward pass*: Calculate the inference of the model: $y = f(x; w)$
+1.  *Forward pass*: Calculate the inference of the model: $y = f(x; w)$, caching the activations, $a_j$, along the way
 2.  *Loss*: $L$ (e.g. cross entropy)
 3.  *Backward pass*: $\delta_j = \frac{\partial L}{\partial a_j}$
 4.  *Weight update*: $-\eta \frac{\partial L}{\partial w_i}$
