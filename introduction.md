@@ -28,6 +28,12 @@ $$ z_i = \phi(y_i) = \phi(w_{ij} x_{j} + b_{j}) $$
 
 A multi-layer neural network is a composition of functions.
 
+![Example activation functions, Bishop, p. 184](img/bishop-nn-p181.png)
+
+There are a variety of nonlinear functions used in practice.
+
+![Example activation functions, Bishop, p. 184](img/bishop-activation-functions-p184.png)
+
 TODO
 
 ![source: https://python-course.eu/machine-learning/neural-networks-structure-weights-and-matrices.php](img/nn-layer.png)
