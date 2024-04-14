@@ -41,6 +41,7 @@ $$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\pa
 
 where
 
+-   $t \in \mathbf{N}$ is the *learning step number*
 -   $\eta$ is the *learning rate*
 -   $m$ is the number of samples in a minibatch, called the *batch size*
 -   $L$ is the *loss function*
