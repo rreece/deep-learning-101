@@ -119,6 +119,13 @@ where
 -   $\delta_j \equiv \frac{\partial L}{\partial a_j}$ is the *delta* at that layer
 -   $\frac{\partial a_j}{\partial w_i}$ is the rest of the derivative in following layers, recursively using the chain rule
 
+In general, training involves:
+
+1.  *Forward pass*: Calculate the inference of the model: $z = f(x; w)$
+2.  *Loss*: $L$
+3.  *Backward pass*: $\delta_j = \frac{\partial L}{\partial a_j}$
+4.  *Weight update*: $\frac{\partial L}{\partial w_i}$
+
 See also:
 
 -   [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation) - "autograd"
