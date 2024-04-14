@@ -19,7 +19,7 @@ Example:
 
 ```
 text = "Hello, world! This is tokenization."
-tokens = ["<start>", "Hello", ",", " ", "world", "!", " ", "This", " ", "is", " ", "token", "iz", "ation", ".", "<end>"]
+tokens = ["<start>", "Hello", ",", " ", "world", "!", " ", "This", " ", "is", " ", "token", "iza", "tion", ".", "<end>"]
 token_ids = [1, 123, 22, 2223, 10, 335, 556, 10, ... ]
 ```
 
