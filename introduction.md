@@ -20,7 +20,7 @@ Internally the model is parameterized by weights, $\vec{w}$.
 $$ z = f(\vec{x}; \vec{w}) $$
 
 
-## Layers of a network are matrices
+## Layers of a network are matrix-function sandwiches
 
 Neural network layer:
 
