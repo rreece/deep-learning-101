@@ -2,13 +2,17 @@
 
 ![AI vs ML vs DL (source: [figshare](https://figshare.com/articles/figure/AI_vs_ML_vs_DL_Venn_Diagram_png/14915505))](img/AI_vs_ML_vs_DL_Venn_Diagram.png)
 
-1. *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense. This could be a simple as hard-coded expert heuristics.
-2. *Machine Learning* is a kind of software that somehow improves (is trained) when given data. Expert knowledge is often used to structure the model and what features of the data are used.
-3. *Deep Learning* is a recent paradigm of machine learning using large artificial neural networks,
+1.  *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense.
+    This could be a simple as hard-coded expert heuristics.
+    Simple example: thermostat
+2.  *Machine Learning* is a kind of software that somehow improves (is trained) when given data.
+    Expert knowledge is often used to structure the model and what features of the data are used.
+    Simple example: Least squares fit to a linear model
+3.  *Deep Learning* is a recent paradigm of machine learning using large artificial neural networks,
     with many layers for feature learning. Models are more of a blackbox that learn features from the raw data.
 
 In the general machine learning setup you have a model that can be
-thought of as parameterized function, $f$,
+thought of as a parameterized function, $f$,
 that takes in some vector of input data $\vec{x}$,
 and returns some prediction $y$.
 Internally the model is parameterized by weights, $\vec{w}$.
