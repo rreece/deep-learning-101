@@ -165,8 +165,10 @@ At larger model sizes, in the critical regime
 ($n_\mathrm{param} ~ n_\mathrm{data}$),
 the test loss rises again as part of the high-variance
 part of the classical bias-variacen tradeoff.
-But at even large model sizes, even passed those that
-achieve zero train loss, larger models show better generalization.
+But at even large model sizes,
+($n_\mathrm{param} >> n_\mathrm{data}$),
+even passed those that achieve zero train loss,
+larger models show better generalization.
 
 
 ## Conclusion
