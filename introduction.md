@@ -123,7 +123,7 @@ $$ \frac{d}{d x} f\left( g_1(x), \ldots, g_k(x) \right) = \sum_{j=1}^{k} \frac{\
 
 Using this to write the gradient with respect to some parameter:
 
-$$ \frac{\partial L}{\partial w_i} = \sum_{j} \frac{\partial L}{\partial a_j} \frac{\partial a_j}{\partial w_i} $$ 
+$$ \frac{\partial L}{\partial w_i} = \sum_{j} \frac{\partial L}{\partial a_j} \frac{\partial a_j}{\partial w_i} = \sum_j \delta_j \frac{\partial a_j}{\partial w_i} $$ 
 
 where
 
