@@ -19,7 +19,7 @@ Internally the model is parameterized by weights, $\vec{w}$.
 
 $$ y = f(\vec{x}; \vec{w}) $$
 
-In the setting of *supervized learning*, then we training dataset
+In the setting of *supervized learning*, then we have a training dataset
 that has pairs of input samples, $\vec{x}$, and the true *label*
 of what the prediction should be $\tilde{y}$.
 
