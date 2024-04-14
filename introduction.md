@@ -40,7 +40,7 @@ Note that we need the *activation function*, $\phi$, to add a nonlinearity,
 because otherwise, if every layer was just linear matrix multiply, then
 the layers could be effectively reduced to one:
 
-$$ \vec{z} = W_{n} \ldots W_{2} W_{1} \vec{x} = W \vec{x} $$
+$$ \vec{y} = W_{n} \ldots W_{2} W_{1} \vec{x} = W \vec{x} $$
 
 See also:
 
@@ -157,7 +157,7 @@ graph LR;
 
 In general, training involves:
 
-1.  *Forward pass*: Calculate the inference of the model: $z = f(x; w)$
+1.  *Forward pass*: Calculate the inference of the model: $y = f(x; w)$
 2.  *Loss*: $L$ (e.g. cross entropy)
 3.  *Backward pass*: $\delta_j = \frac{\partial L}{\partial a_j}$
 4.  *Weight update*: $\frac{\partial L}{\partial w_i}$
