@@ -35,9 +35,16 @@ See also:
 
 ## Neural networks are universal function approximators
 
-TODO
+Neural networks need nonlinearities. ReLU is a simple example.
+
+![ReLU function from Prince (2023).](img/prince-relu.png)
+
+A neural network that uses ReLU acivations is a piecewise linear function.
+
+![ReLU composition from Prince (2023).](img/prince-relu-composition.png)
 
 -   Neural networks are *universal function approximators*
+-   Hornik, K., Stinchcombe, M., & White, H. (1989). [Multilayer feedforward networks are universal approximators](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf).
 
 
 ## Gradient descent
@@ -72,6 +79,8 @@ There are many additions to SGD that are used in state-of-the-art optimizers:
 -   RMSProp
 -   Adam, AdamW
 -   ...
+
+Advanced optimizers add parameters that add to memory overhead.
 
 
 ## Backpropagation
@@ -128,6 +137,7 @@ Deep learning textbooks:
 
 -   Bishop, C.M. (2024). [*Deep Learning: Foundations and Concepts*](https://www.bishopbook.com/).
 -   Goodfellow, I., Bengio, Y., & Courville, A. (2016). [*Deep Learning*](http://www.deeplearningbook.org).
+-   Prince, S.J.D. (2023). [*Understanding Deep Learning *](https://udlbook.github.io/udlbook/).
 
 Online courses:
 
