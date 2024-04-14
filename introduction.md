@@ -149,9 +149,21 @@ Example training and test loss curves for a single training experiment:
 
 ![Example traing and test loss curves, source: [google](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic).](img/train-test-loss-curve.png)
 
-TODO
+*Early stopping* is a method of picking the optimally trained model
+by stopping training when the test loss is at a minimum.
 
 ![Double descent, source: [1912.02292](https://arxiv.org/abs/1912.02292).](img/Nakkiran2019-double-descent.png)
+
+Thought of as a function of the size of the model,
+in the the classical machine learning regime
+($n_\mathrm{param} << n_\mathrm{data}$),
+there is an optimal model size that minizes test loss.
+At larger model sizes, in the critical regime
+($n_\mathrm{param} ~ n_\mathrm{data}$),
+the test loss rises again as part of the high-variance
+part of the classical bias-variacen tradeoff.
+But at even large model sizes, even passed those that
+achieve zero train loss, larger models show better generalization.
 
 
 ## Conclusion
