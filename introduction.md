@@ -184,14 +184,14 @@ but the final losses for many different experiments with increasing model sizes.
 
 Thought of as a function of the size of the model,
 in the the classical machine learning regime
-($n_\mathrm{param} << n_\mathrm{data}$),
+($n_\mathrm{param} \ll n_\mathrm{data}$),
 there is an optimal model size that minizes test loss.
 At larger model sizes, in the critical regime
 ($n_\mathrm{param} \sim n_\mathrm{data}$),
 the test loss rises again as part of the high-variance
 part of the classical bias-variance tradeoff.
 But at even large model sizes,
-($n_\mathrm{param} >> n_\mathrm{data}$),
+($n_\mathrm{param} \gg n_\mathrm{data}$),
 even passed those that achieve zero train loss,
 larger models show better generalization.
 
