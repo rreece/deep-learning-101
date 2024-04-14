@@ -147,6 +147,8 @@ See also:
 
 TODO
 
+![Double descent, source: [1912.02292](https://arxiv.org/abs/1912.02292).](img/Nakkiran2019-double-descent.png)
+
 
 ## Conclusion
 
