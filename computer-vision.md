@@ -23,7 +23,7 @@ on-the-fly and batched, resulting in input tensors with a shape:
 [batch_size][height][width][n_channels]  =  e.g. [8][224][224][3]
 ```
 
-This shape denoted as `NHWC`, and referred to as "channels last".
+This shape is denoted as `NHWC` and referred to as "channels last".
 Another convention is to use `NCHW`, referred to as "channels first".
 
 
