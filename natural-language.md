@@ -57,7 +57,7 @@ token_ids = [1, 123, 22, 2223, 10, 335, 556, 10, ..., 0, 0, 0]
 The input tensor shape for language models is often:
 
 ```
-[batch_size][max_seq_length]            e.g. [8][256]
+[batch_size][max_seq_length]  =  e.g. [8][256]
 ```
 
 
@@ -70,7 +70,7 @@ with dimension called the `embedding_size`.
 The tensor shape of the output of the embedding is
 
 ```
-[batch_size][max_seq_length][embedding_size]       e.g. [8][256][1280]
+[batch_size][max_seq_length][embedding_size]  =  e.g. [8][256][1280]
 ```
 
 After the embedding parameters are trained end-to-end with a model,
