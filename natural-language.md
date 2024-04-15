@@ -108,7 +108,15 @@ See also:
 
 ## Transformer
 
-TODO
+TODO:
+
+-   Describe architecture
+-   Describe self-attention
+-   Note complexity is $T^2$
+-   Note a lot of research in reducing the quadratic complexity
+-   Note: Mamba claims linear in $T$
+
+$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{d_k}}\right) V \label{eq:attention} $$
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/index.html)).](img/transformer.png)
 
