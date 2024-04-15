@@ -1,19 +1,5 @@
 # Introduction
 
-Outline:
-
-1.  [Layers of a network are matrix-function sandwiches](#layers-of-a-network-are-matrix-function-sandwiches)
-2.  [Neural networks are universal function approximators](#neural-networks-are-universal-function-approximators)
-3.  [Softmax classification](#softmax-classification)
-4.  [Gradient descent](#gradient-descent)
-5.  [Backpropagation](#backpropagation)
-6.  [Double descent](#double-descent)
-7.  [Conclusion](#conclusion)
-
-
---------
-
-
 ![AI vs ML vs DL (source: [figshare](https://figshare.com/articles/figure/AI_vs_ML_vs_DL_Venn_Diagram_png/14915505))](img/AI_vs_ML_vs_DL_Venn_Diagram.png)
 
 1.  *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense.
@@ -37,6 +23,15 @@ In the setting of *supervized learning*, then we have a training dataset
 that has pairs of input samples, $\vec{x}$, and the true *label*
 of what the prediction should be $\tilde{y}$.
 
+Outline:
+
+1.  [Layers of a network are matrix-function sandwiches](#layers-of-a-network-are-matrix-function-sandwiches)
+2.  [Neural networks are universal function approximators](#neural-networks-are-universal-function-approximators)
+3.  [Softmax classification](#softmax-classification)
+4.  [Gradient descent](#gradient-descent)
+5.  [Backpropagation](#backpropagation)
+6.  [Double descent](#double-descent)
+7.  [Conclusion](#conclusion)
 
 ## Layers of a network are matrix-function sandwiches
 
