@@ -34,7 +34,7 @@ Outline:
 
 ## AlexNet
 
--   Other important image labeled image datasets were CIFAR-10 and CIFAR-100 that had 10 and 100 classes, respectively.
+-   Other important labeled image datasets are CIFAR-10 and CIFAR-100 that have 10 and 100 classes, respectively.
 -   Deng, J. et al. (2009). ImageNet: A large-scale hierarchical image database.
     -   ImageNet-1k dataset: 1000 image classes with about 1000 examples each.
 -   Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). [ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
