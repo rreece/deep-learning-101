@@ -114,9 +114,9 @@ TODO:
 
 -   Describe architecture
 -   Describe self-attention
--   Note complexity is $T^2$
--   Note a lot of research in reducing the quadratic complexity
--   Note: Mamba claims linear in $T$
+-   NOTE: complexity is $T^2$
+-   NOTE: a lot of research in reducing the quadratic complexity
+-   NOTE: [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$
 
 $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V \label{eq:attention} $$
 
