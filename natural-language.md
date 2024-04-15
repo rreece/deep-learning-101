@@ -114,9 +114,10 @@ TODO:
 
 -   Describe architecture
 -   Describe self-attention
--   NOTE: complexity is $T^2$
--   NOTE: a lot of research in reducing the quadratic complexity
--   NOTE: [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$
+-   Note the complexity is $T^2$
+-   Note a lot of research in reducing the quadratic complexity
+-   Note a lot of research in extending context length
+-   Note [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$ complexity
 
 $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q K^\intercal}{\sqrt{d_k}}\right) V $$
 
@@ -126,12 +127,22 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q K^\intercal}{\sqr
 
 ## BERT
 
+TODO:
+
+-   BERT is an encoder
+-   BERT has bidirectional attention
+
 TODO
 
 -   Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805).
 
 
 ## T5
+
+TODO:
+
+-   T5 is an encoder-decoder
+-   Describe various attention schemes
 
 TODO
 
