@@ -29,12 +29,14 @@ Outline:
 
 -   LeCun, Y. et al. (1989). [Backpropagation applied to handwritten zip code recognition](https://web.archive.org/web/20150611222615/http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf).
 -   LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). [Gradient-based learning applied to document recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf).
--   Used the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database)
+-   Used the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits 0-9
 
 
 ## AlexNet
 
+-   Other important image labeled image datasets were CIFAR-10 and CIFAR-100 that had 10 and 100 classes, respectively.
 -   Deng, J. et al. (2009). ImageNet: A large-scale hierarchical image database.
+    -   ImageNet-1k dataset: 1000 image classes with about 1000 examples each.
 -   Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). [ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
 -   *Watershed moment in CV with deep learning*
 
@@ -46,6 +48,7 @@ ResNet v1 vs v2 ([cv-tricks.com](https://cv-tricks.com/keras/understand-implemen
 ![ResNet v1 vs v2 (source: [cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/).](img/resnet-v1-vs-v2.png)
 
 -   He, K. et al. (2015). [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385).
+-   Still an important MLPerf benchmark.
 
 
 ## UNet
