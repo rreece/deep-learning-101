@@ -118,7 +118,7 @@ TODO:
 -   NOTE: a lot of research in reducing the quadratic complexity
 -   NOTE: [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$
 
-$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V \label{eq:attention} $$
+$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V $$
 
 -   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
