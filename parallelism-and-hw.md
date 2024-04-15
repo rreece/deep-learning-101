@@ -6,7 +6,8 @@ Outline:
 
 1.  [Introduction](#introduction)
 2.  [Model parallelism](#model-parallelism)
-3.  [Conclusion](#conclusion)
+3.  Misc
+4.  [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -32,6 +33,11 @@ TODO
 ![Model parallelism (source: https://huggingface.co/docs/transformers/v4.17.0/en/parallelism)](img/parallelism-gpipe-bubble.png)
 
 -   [Model parallelism](https://huggingface.co/docs/transformers/v4.17.0/en/parallelism) - HuggingFace
+
+
+## Misc
+
+-   Dao, T., Fu, D.Y., Ermon, S., Rudra, A., & Ré, C. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135).
 
 
 ## Conclusion

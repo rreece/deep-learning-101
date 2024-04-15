@@ -98,6 +98,7 @@ See also:
 ## seq2seq
 
 -   RNNs and LSTMs
+    -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 -   seq2seq
     -   Sutskever, I., Vinyals, O., & Le, Q. V. (2014). [Sequence to sequence learning with neural networks](https://arxiv.org/abs/1409.3215).
     -   *Watershed moment in NLP with deep learning*
@@ -122,6 +123,10 @@ TODO:
 -   Note [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$ complexity
 
 $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q K^\intercal}{\sqrt{d_k}}\right) V $$
+
+Autoregressive decoding:
+
+![Autoregressive decoding. source: https://hrithickcodes.medium.com/the-math-behind-the-machine-a-deep-dive-into-the-transformer-architecture-a3902333e4a4](img/transformer-autoregressive-decode.gif)
 
 -   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
