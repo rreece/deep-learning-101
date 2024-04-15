@@ -14,6 +14,19 @@ TODO
 7.  [Conclusion](#conclusion)
 
 
+## Input tensor shape
+
+The `DataLoader` for vision models will often load jpeg images that jpeg-decoded
+on-the-fly, and batched, resulting in input tensors with a shape:
+
+```
+[batch_size][height][width][n_channels]  =  e.g. [8][224][224][3]
+```
+
+This shape denoted as `NHWC`, and referred to as "channels last".
+Another convention is to use `NCHW`, referred to as "channels first".
+
+
 ## Convolutions
 
 -   The most import operation in computer vision is a convolution.
