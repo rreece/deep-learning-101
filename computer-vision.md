@@ -2,7 +2,8 @@
 
 TODO
 
-Outline:
+
+### Contents
 
 1.  [Convolutions](#convolutions)
 2.  [LeNet](#lenet)

@@ -2,7 +2,8 @@
 
 TODO
 
-Outline:
+
+### Contents
 
 1.  [Tokenization](#tokenization)
 2.  [Input tensor shape](#input-tensor-shape)

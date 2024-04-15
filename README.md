@@ -16,7 +16,7 @@ you to go read the references.
 2. [Computer vision](computer-vision.md)
 3. [Natural language](natural-language.md)
 4. [Parallelism and hardware](parallelism-and-hw.md)
-5. AI in products
+5. [Miscellaneous topics](misc.md)
 
 
 ### Author
