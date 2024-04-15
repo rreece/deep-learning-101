@@ -40,6 +40,7 @@ Outline:
 -   Deng, J. et al. (2009). ImageNet: A large-scale hierarchical image database.
     -   ImageNet-1k dataset: 1000 image classes with about 1000 examples each.
 -   Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). [ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
+    -   Became known as "AlexNet"
 -   *Watershed moment in CV with deep learning*
 
 
