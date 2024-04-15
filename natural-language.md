@@ -46,7 +46,7 @@ See also:
 ## Input tensor shape
 
 Often tokenization is done in the `DataLoader`, which also forms batches of the data in the form of a tensor for the model.
-To square up the input tensor size, often needs to *pad* the sequences to a common *max sequence length* (MSL).
+To square up the input tensor size, often one needs to *pad* the sequences to a common *max sequence length* (MSL).
 
 Often the pad token ID is `0`, so a padded sequence would look like
 
