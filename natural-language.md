@@ -128,6 +128,10 @@ Autoregressive decoding:
 
 ![Autoregressive decoding. source: https://hrithickcodes.medium.com/the-math-behind-the-machine-a-deep-dive-into-the-transformer-architecture-a3902333e4a4](img/transformer-autoregressive-decode.gif)
 
+KV-cache:
+
+![KV-cache explained. source: https://medium.com/@joaolages/kv-caching-explained-276520203249](img/transformer-kv-cache.gif)
+
 -   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
 
