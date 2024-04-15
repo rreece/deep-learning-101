@@ -2,6 +2,16 @@
 
 TODO
 
+Outline:
+
+1.  [LeNet](#lenet)
+2.  [AlexNet](#alexnet)
+3.  [ResNet](#resnet)
+4.  [UNet](#unet)
+5.  [Diffusion](#diffusion)
+6.  [Conclusion](#conclusion)
+
+
 ## LeNet
 
 ![LeNet-5](img/lenet-5.png)

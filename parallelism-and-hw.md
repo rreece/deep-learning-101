@@ -1,5 +1,14 @@
 # Parallelism and hardware
 
+TODO
+
+Outline:
+
+1.  [Introduction](#introduction)
+2.  TODO
+3.  [Conclusion](#conclusion)
+
+
 ## Introduction
 
 TODO:

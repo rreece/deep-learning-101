@@ -4,6 +4,17 @@
 
 TODO
 
+Outline:
+
+1.  [Tokenization](#tokenization)
+2.  [Input tensor shape](#input-tensor-shape)
+3.  [Embedding (word2vec)](#embedding-word2vec)
+4.  [seq2seq](#seq2seq)
+5.  [Transformer](#transformer)
+6.  [BERT](#bert)
+7.  [T5](#t5)
+8.  [Conclusion](#conclusion)
+
 
 ## Tokenization
 
