@@ -5,7 +5,7 @@ TODO
 Outline:
 
 1.  [Introduction](#introduction)
-2.  TODO
+2.  [Model parallelism](#model-parallelism)
 3.  [Conclusion](#conclusion)
 
 
