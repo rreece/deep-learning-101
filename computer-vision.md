@@ -37,7 +37,7 @@ Outline:
 
 ## ResNet
 
-TODO
+ResNet v1 vs v2 ([cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/):
 
 ![ResNet v1 vs v2 (source: [cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/).](img/resnet-v1-vs-v2.png)
 
