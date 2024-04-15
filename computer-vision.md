@@ -11,6 +11,13 @@ Outline:
 5.  [Diffusion](#diffusion)
 6.  [Conclusion](#conclusion)
 
+## Convolutions
+
+-   The most import operation in computer vision is a convolution
+-   It is a matrix multiply that respects spacial symmetry; the same matrix is applied everywhere.
+
+![2D convolution with padding (source: https://gist.github.com/akiross/754c7b87a2af8603da78b46cdaaa5598)](img/conv2d-with-pad.gif)
+
 
 ## LeNet
 
