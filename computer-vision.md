@@ -4,12 +4,14 @@ TODO
 
 Outline:
 
-1.  [LeNet](#lenet)
-2.  [AlexNet](#alexnet)
-3.  [ResNet](#resnet)
-4.  [UNet](#unet)
-5.  [Diffusion](#diffusion)
-6.  [Conclusion](#conclusion)
+1.  [Convolutions](#convolutions)
+2.  [LeNet](#lenet)
+3.  [AlexNet](#alexnet)
+4.  [ResNet](#resnet)
+5.  [UNet](#unet)
+6.  [Diffusion](#diffusion)
+7.  [Conclusion](#conclusion)
+
 
 ## Convolutions
 
