@@ -30,8 +30,8 @@ Outline:
 -   LeCun, Y. et al. (1989). [Backpropagation applied to handwritten zip code recognition](https://web.archive.org/web/20150611222615/http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf).
 -   LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). [Gradient-based learning applied to document recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf).
 -   Used the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits 0-9
--   This is arguably the first impactful application of deep learning?
 -   Used for Optical Character Recogition (OCR) on checks and mail in the 1990s!
+-   This is arguably the first impactful application of deep learning?
 
 
 ## AlexNet
