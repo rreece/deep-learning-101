@@ -11,7 +11,8 @@ Outline:
 5.  [Transformer](#transformer)
 6.  [BERT](#bert)
 7.  [T5](#t5)
-8.  [Conclusion](#conclusion)
+8.  [GPT](#gpt)
+9.  [Conclusion](#conclusion)
 
 
 ## Tokenization
@@ -129,7 +130,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q K^\intercal}{\sqr
 
 TODO:
 
--   BERT is an encoder
+-   BERT is encoder-only
 -   BERT has bidirectional attention
 
 TODO
@@ -149,6 +150,13 @@ TODO
 ![T5 description of types of transformer architectures (source: [1910.10683](https://arxiv.org/abs/1910.10683)).](img/t5-description-of-transformer-types.png)
 
 -   Raffel, C. et al. (2019). [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683).
+
+
+## GPT
+
+TODO:
+
+-   GPT is decoder-only
 
 
 ## Conclusion
