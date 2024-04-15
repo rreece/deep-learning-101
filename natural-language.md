@@ -108,6 +108,8 @@ See also:
 
 ## Transformer
 
+![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/index.html)).](img/transformer.png)
+
 TODO:
 
 -   Describe architecture
@@ -117,8 +119,6 @@ TODO:
 -   Note: Mamba claims linear in $T$
 
 $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V \label{eq:attention} $$
-
-![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/index.html)).](img/transformer.png)
 
 -   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
