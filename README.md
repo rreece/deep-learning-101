@@ -6,7 +6,7 @@ It takes a village to support AI applications, from data engineering to machine 
 That village needs to communicate well.
 This is meant to help clarify some of the important language used in deep learning.
 
-There is nothing novel in this. It is meant to be the basics quick, and links for
+There is nothing novel in this. It is meant to be the basics, quick, and links for
 you to go read the references.
 
 
