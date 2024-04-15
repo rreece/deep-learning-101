@@ -34,8 +34,9 @@ token_ids = [1, 123, 22, 2223, 10, 335, 556, 10, ... ]
 
 -   Tokenization is basically a map from word parts to integers.
 -   It is important to note that tokenization is dependent on a *vocabulary* used to make the map.
--   So note that a certain tokenization may not support any language. The language needs to map the vocabulary.
--   A typical vocabulary size is something like 50,000.
+-   So note that a certain tokenization may not support any language.
+    The language needs to be in vocabulary.
+-   A typical vocabulary size is something like $\sim$ 50,000.
 
 See also:
 
