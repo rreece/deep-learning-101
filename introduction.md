@@ -2,13 +2,14 @@
 
 ### Contents
 
-1.  [Layers of a network are matrix-function sandwiches](#layers-of-a-network-are-matrix-function-sandwiches)
-2.  [Neural networks are universal function approximators](#neural-networks-are-universal-function-approximators)
-3.  [Softmax classification](#softmax-classification)
-4.  [Gradient descent](#gradient-descent)
-5.  [Backpropagation](#backpropagation)
-6.  [Double descent](#double-descent)
-7.  [Conclusion](#conclusion)
+1.  [AI vs ML vs DL](#ai-vs-ml-vs-dl)
+2.  [Layers of a network are matrix-function sandwiches](#layers-of-a-network-are-matrix-function-sandwiches)
+3.  [Neural networks are universal function approximators](#neural-networks-are-universal-function-approximators)
+4.  [Softmax classification](#softmax-classification)
+5.  [Gradient descent](#gradient-descent)
+6.  [Backpropagation](#backpropagation)
+7.  [Double descent](#double-descent)
+8.  [Conclusion](#conclusion)
 
 
 ## AI vs ML vs DL
