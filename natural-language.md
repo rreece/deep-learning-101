@@ -1,7 +1,5 @@
 # Natural language
 
-## Introduction
-
 TODO
 
 Outline:
