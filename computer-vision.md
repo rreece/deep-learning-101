@@ -30,6 +30,10 @@ Outline:
 
 ## ResNet
 
+TODO
+
+![ResNet v1 vs v2 (source: [cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/).](img/resnet-v1-vs-v2.png)
+
 -   He, K. et al. (2015). [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385).
 
 
