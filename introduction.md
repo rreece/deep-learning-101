@@ -3,7 +3,7 @@
 ![AI vs ML vs DL (source: [figshare](https://figshare.com/articles/figure/AI_vs_ML_vs_DL_Venn_Diagram_png/14915505))](img/AI_vs_ML_vs_DL_Venn_Diagram.png)
 
 1.  *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense.
-    This could be a simple as hard-coded expert heuristics.
+    This could be as simple as hard-coded expert heuristics.
     Simple example: thermostat.
 2.  *Machine Learning* is a kind of software that somehow improves (is *trained*) when given data.
     Expert knowledge is often used to structure the model and what features of the data are used.
@@ -13,7 +13,7 @@
 
 In the general machine learning setup you have a model that can be
 thought of as a parameterized function, $f$,
-that takes in some vector of input data $\vec{x}$,
+that takes in some vector of input data, $\vec{x}$,
 and returns some prediction $y$.
 Internally the model is parameterized by weights, $\vec{w}$.
 
@@ -21,7 +21,7 @@ $$ y = f(\vec{x}; \vec{w}) $$
 
 In the setting of *supervized learning*, then we have a training dataset
 that has pairs of input samples, $\vec{x}$, and the true *label*
-of what the prediction should be $\tilde{y}$.
+of what the prediction should be, $\tilde{y}$.
 
 Outline:
 
