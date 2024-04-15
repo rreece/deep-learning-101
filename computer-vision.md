@@ -13,7 +13,7 @@ Outline:
 
 ## Convolutions
 
--   The most import operation in computer vision is a convolution
+-   The most import operation in computer vision is a convolution.
 -   It is a matrix multiply that respects spacial symmetry; the same matrix is applied everywhere.
 
 ![2D convolution with padding (source: https://gist.github.com/akiross/754c7b87a2af8603da78b46cdaaa5598)](img/conv2d-with-pad.gif)
@@ -37,7 +37,7 @@ Outline:
 
 ## ResNet
 
-ResNet v1 vs v2 ([cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/):
+ResNet v1 vs v2 ([cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/)):
 
 ![ResNet v1 vs v2 (source: [cv-tricks.com](https://cv-tricks.com/keras/understand-implement-resnets/).](img/resnet-v1-vs-v2.png)
 
@@ -45,6 +45,14 @@ ResNet v1 vs v2 ([cv-tricks.com](https://cv-tricks.com/keras/understand-implemen
 
 
 ## UNet
+
+The UNet architecture:
+
+![UNet architecture (source: https://arxiv.org/abs/1505.04597)](img/unet-architecture.png)
+
+An example of image segmentation with UNet:
+
+![Example of image segmentation with UNet (source: https://arxiv.org/abs/1505.04597)](img/unet-segmentation-example.png)
 
 -   Ronneberger, O., Fischer, P., & Brox, T. (2015). [U-Net: Convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1505.04597).
 
