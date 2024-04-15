@@ -221,6 +221,7 @@ But at larger model sizes,
 ($n_\mathrm{param} \gg n_\mathrm{data}$),
 even passed those that achieve zero train loss,
 larger models show better generalization.
+*This is the success of deep learning.*
 
 See also:
 
