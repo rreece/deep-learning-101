@@ -31,7 +31,7 @@ Outline:
 -   LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). [Gradient-based learning applied to document recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf).
 -   Used the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database): handwritten digits 0-9
 -   This is arguably the first impactful application of deep learning?
--   Used for Optical Character Recogition (OCR) on checks and mail.
+-   Used for Optical Character Recogition (OCR) on checks and mail in the 1990s!
 
 
 ## AlexNet
