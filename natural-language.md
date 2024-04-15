@@ -118,9 +118,6 @@ TODO:
 -   Describe architecture
 -   Describe self-attention
 -   Note the complexity is $T^2$
--   Note a lot of research in reducing the quadratic complexity
--   Note a lot of research in extending context length
--   Note [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$ complexity
 
 $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q K^\intercal}{\sqrt{d_k}}\right) V $$
 
@@ -132,13 +129,19 @@ KV-cache:
 
 ![KV-cache explained. source: https://medium.com/@joaolages/kv-caching-explained-276520203249](img/transformer-kv-cache.gif)
 
+Quadratic complexity in sequence length:
+
+-   Note a lot of research in reducing the quadratic complexity
+-   Note a lot of research in extending context length
+-   Note [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$ complexity
+
+See also:
+
 -   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
 
 
 ## BERT
-
-TODO:
 
 -   BERT is encoder-only
 -   BERT has bidirectional attention
@@ -150,10 +153,10 @@ TODO
 
 ## T5
 
-TODO:
-
 -   T5 is an encoder-decoder
--   Describe various attention schemes
+-   Encoder-decoder good for sequence-to-sequence modeling: translation, summarization
+-   T5 also demonstrated that classification tasks can be done as sequence-to-sequence
+-   Recap various attention schemes
 
 TODO
 
