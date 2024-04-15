@@ -16,8 +16,8 @@ TODO
 
 ## Input tensor shape
 
-The `DataLoader` for vision models will often load jpeg images that jpeg-decoded
-on-the-fly, and batched, resulting in input tensors with a shape:
+The `DataLoader` for vision models will often load jpeg images that are jpeg-decoded
+on-the-fly and batched, resulting in input tensors with a shape:
 
 ```
 [batch_size][height][width][n_channels]  =  e.g. [8][224][224][3]
