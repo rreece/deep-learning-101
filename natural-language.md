@@ -96,7 +96,7 @@ See also:
 ## seq2seq
 
 -   RNNs and LSTMs
--   seq2seq: Watershed moment in NLP with deep learning
+-   seq2seq: *Watershed moment in NLP with deep learning*
     -   Sutskever, I., Vinyals, O., & Le, Q. V. (2014). [Sequence to sequence learning with neural networks](https://arxiv.org/abs/1409.3215).
     -   First very successful encoder-decoder based model
 -   Bahdanau "attention"

@@ -25,7 +25,7 @@ Outline:
 
 -   Deng, J. et al. (2009). ImageNet: A large-scale hierarchical image database.
 -   Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). [ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
--   Watershed moment in CV with deep learning
+-   *Watershed moment in CV with deep learning*
 
 
 ## ResNet
