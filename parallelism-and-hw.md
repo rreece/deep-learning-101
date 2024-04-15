@@ -25,6 +25,13 @@ TODO:
 -   Geiping, J. & Goldstein, T. (2022). [Cramming: Training a language model on a single GPU in one day](https://arxiv.org/abs/2212.14034).
 
 
+## Model parallelism
+
+TODO
+
+![Model parallelism (source: https://huggingface.co/docs/transformers/v4.17.0/en/parallelism)](img/parallelism-gpipe-bubble.png)
+
+
 ## Conclusion
 
 TODO
