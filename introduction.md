@@ -1,5 +1,19 @@
 # Introduction
 
+Outline:
+
+1.  [Layers of a network are matrix-function sandwiches](#layers-of-a-network-are-matrix-function-sandwiches)
+2.  [Neural networks are universal function approximators](#neural-networks-are-universal-function-approximators)
+3.  [Softmax classification](#softmax-classification)
+4.  [Gradient descent](#gradient-descent)
+5.  [Backpropagation](#backpropagation)
+6.  [Double descent](#double-descent)
+7.  [Conclusion](#conclusion)
+
+
+--------
+
+
 ![AI vs ML vs DL (source: [figshare](https://figshare.com/articles/figure/AI_vs_ML_vs_DL_Venn_Diagram_png/14915505))](img/AI_vs_ML_vs_DL_Venn_Diagram.png)
 
 1.  *Artificial Intellegence* is any kind of software that makes intellegent decisions in some sense.
@@ -43,7 +57,7 @@ There are a variety of nonlinear functions used in practice.
 ![Example activation functions, Bishop, p. 184](img/bishop-activation-functions-p184.png)
 
 Note that we need the *activation functions*, $\phi$, to add a nonlinearity,
-because otherwise, if every layer was just linear matrix multiply, then
+because otherwise, if every layer was just a linear matrix multiply, then
 the layers could be effectively reduced to one:
 
 $$ \vec{y} = W_{n} \ldots W_{2} W_{1} \vec{x} = W \vec{x} $$
