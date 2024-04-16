@@ -156,6 +156,7 @@ TODO
 -   T5 is an encoder-decoder
 -   Encoder-decoder good for sequence-to-sequence modeling: translation, summarization
 -   T5 also demonstrated that classification tasks can be done as sequence-to-sequence
+-   Causal attention
 -   Recap various attention schemes
 
 TODO
@@ -170,6 +171,7 @@ TODO
 TODO:
 
 -   GPT is decoder-only
+-   Causal attention
 
 
 ## Conclusion
@@ -178,6 +180,7 @@ TODO:
 
 -   Yang, J. et al. (2023). [Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond](https://arxiv.org/abs/2304.13712).
 -   Raschka, S. (2023). [Understanding large language models](https://magazine.sebastianraschka.com/p/understanding-large-language-models).
+-   Mohamadi, S. et al. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1).
 
 --------
 
