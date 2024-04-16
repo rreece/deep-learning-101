@@ -19,6 +19,8 @@ TODO:
 -   Data parallel vs model parallel vs tensor parallel
 -   SRAM vs DRAM
 
+![Examples of GPU memory usage. source: https://arxiv.org/abs/2403.03507](img/galore-memory-usage.png)
+
 TODO:
 
 -   Hooker, S. (2020). [The hardware lottery](https://arxiv.org/abs/2009.06489).
