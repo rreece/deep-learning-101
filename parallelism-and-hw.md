@@ -6,7 +6,7 @@ Outline:
 
 1.  [Introduction](#introduction)
 2.  [Model parallelism](#model-parallelism)
-3.  Misc
+3.  [Misc](#misc)
 4.  [Conclusion](#conclusion)
 
 
