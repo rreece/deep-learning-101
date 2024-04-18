@@ -49,6 +49,6 @@ TODO
 
 --------
 
--   Up next: TODO
+-   Up next: [Misc](misc.md)
 -   Previous: [Natural language](natural-language.md)
 
