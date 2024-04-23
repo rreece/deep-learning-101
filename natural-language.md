@@ -108,6 +108,31 @@ See also:
 -   Google Neural Machine Translation (GNMT)
     -   Wu, Y. et al. (2016). [Google’s neural machine translation system: Bridging the gap between human and machine translation](https://arxiv.org/abs/1409.0473).
 
+Chain rule of language modeling (chain rule of probability):
+
+$$ P(x_1, \ldots, x_T) = P(x_1, \ldots, x_{n-1}) \prod_{t=n}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:chain_rule_of_lm} $$
+
+or for the whole sequence:
+
+$$ P(x_1, \ldots, x_T) = \prod_{t=1}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:chain_rule_of_lm_2} $$
+
+$$ = P(x_1) \: P(x_2 | x_1) \: P(x_3 | x_1 x_2) \: P(x_4 | x_1 x_2 x_3) \ldots $$
+
+A *language model* (LM), predicts the next token given previous context.
+The output of the model is a vector of logits, which is given to a softmax
+to convert to probabilities for the next token.
+
+$$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax}\left( \mathrm{model}(x_1 \ldots x_{t-1}) \right) $$
+
+*Auto-regressive* inference follows this chain rule.
+If done with greedy search:
+
+$$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-1}) \label{eq:greedy_search} $$
+
+Beam search:
+
+-   Beam search as used in NLP is described in Sutskever (2014).
+
 
 ## Transformer
 

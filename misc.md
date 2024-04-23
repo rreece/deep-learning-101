@@ -5,6 +5,9 @@
 
 1.  [LoRA](#lora)
 2.  [RAG](#rag)
+3.  [Voice to text](#voice-to-text)
+4.  [Multimodal models](#multimodal-models)
+5.  [More](#more)
 
 
 ## LoRA
