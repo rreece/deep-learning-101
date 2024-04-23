@@ -21,6 +21,14 @@
 TODO
 
 
+## Voice to text
+
+-   Whisper model (OpenAI)
+-   Transformer based, encoder-decoder
+
+![Whisper model (source: [openai](https://openai.com/research/whisper)).](img/whisper.png)
+
+
 ## More
 
 -   [Insights from Kaggle Grandmasters and Experts on Competitive AI and LLM Frontiers](https://www.youtube.com/watch?v=k2EcIX0HgzA). *GTC, 2024*.
