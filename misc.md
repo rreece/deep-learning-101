@@ -9,6 +9,8 @@
 
 ## LoRA
 
+-    LoRA: Low-rank adaptation
+
 ![LoRA. source: https://arxiv.org/abs/2106.09685](img/lora.png)
 
 -   Hu, E.J. et al (2021). [LoRA: Low-rank adaptation of large language models](https://arxiv.org/abs/2106.09685)
@@ -19,6 +21,7 @@
 ## RAG
 
 -   Retrieval-Augmented Generation (RAG)
+-   Requires a large context size to hold the retrieved documents
 
 ![RAG explained.](img/rag-explained-clarifai.png)
 
