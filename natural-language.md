@@ -179,6 +179,11 @@ See also:
     -   Falcon
     -   Chinchilla
     -   Claude
+-   Instruction finetuning
+-   Reinforcement Learning from Human Feedback (RLHF)
+-   Direct Preference Optimization (DPO)
+
+![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
 
 
 ## Conclusion

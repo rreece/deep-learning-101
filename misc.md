@@ -18,7 +18,9 @@
 
 ## RAG
 
-TODO
+-   Retrieval-Augmented Generation (RAG)
+
+![RAG explained.](img/rag-explained-clarifai.png)
 
 
 ## Voice to text
@@ -29,8 +31,14 @@ TODO
 ![Whisper model (source: [openai](https://openai.com/research/whisper)).](img/whisper.png)
 
 
+## Multimodal models
+
+![Figure from [Gemini](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf).](img/gemini-multimodal.png)
+
+
 ## More
 
+-   Yue, X. et al. (2023).  [MMMU: A Massive Multi-discipline Multimodal Understanding and reasoning benchmark for expert AGI](https://arxiv.org/abs/2311.16502).
 -   [Insights from Kaggle Grandmasters and Experts on Competitive AI and LLM Frontiers](https://www.youtube.com/watch?v=k2EcIX0HgzA). *GTC, 2024*.
 
 
