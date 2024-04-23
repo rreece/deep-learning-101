@@ -198,15 +198,21 @@ See also:
 -   GPT is decoder-only
 -   Causal attention
 -   Decoder-only models like GPT:
-    -   Llama
-    -   Falcon
-    -   Chinchilla
-    -   Claude
+    -   Llama (Meta, open)
+    -   Falcon (TII, open)
+    -   Chinchilla (OpenAI, closed)
+    -   Claude (Anthropic, closed)
 -   Instruction finetuning
 -   Reinforcement Learning from Human Feedback (RLHF)
 -   Direct Preference Optimization (DPO)
 
 ![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
+
+-   GPT: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). [Improving language understanding by generative pre-training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf).
+-   GPT-2: Radford, A. et al. (2019). [Language models are unsupervised multitask learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
+-   GPT-3: Brown, T.B. et al. (2020). [Language models are few-shot learners](https://arxiv.org/abs/2005.14165).
+-   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
+-   GPT-4: OpenAI. (2023). [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf).
 
 
 ## Conclusion
