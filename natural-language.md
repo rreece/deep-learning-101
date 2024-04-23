@@ -136,13 +136,17 @@ Quadratic complexity in sequence length:
 -   Note [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$ complexity
 
 Note that there are also variants of transformers that move and/or change
-the normalization layers.
+the normalization layers. Most transformers now user "pre-layer-norm" unlike the original.
 
-![Pre-layer-norm transformer (source: https://arxiv.org/abs/2002.04745).](img/pre-layer-norm-transformer.png)
+![Pre-layer-norm transformer (source: [2002.04745](https://arxiv.org/abs/2002.04745)).](img/pre-layer-norm-transformer.png)
+
+Some transformer models (e.g., llama3) use RMSNorm instead of LayerNorm.
 
 See also:
 
 -   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
+-   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467).
+-   Xiong, R. et al. (2020). [On layer normalization in the transformer architecture](https://arxiv.org/abs/2002.04745).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
 
 
@@ -150,8 +154,6 @@ See also:
 
 -   BERT is encoder-only
 -   BERT has bidirectional attention
-
-TODO
 
 -   Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805).
 
@@ -164,8 +166,6 @@ TODO
 -   Causal attention
 -   Recap various attention schemes
 
-TODO
-
 ![T5 description of types of transformer architectures (source: [1910.10683](https://arxiv.org/abs/1910.10683)).](img/t5-description-of-transformer-types.png)
 
 -   Raffel, C. et al. (2019). [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683).
@@ -173,10 +173,13 @@ TODO
 
 ## GPT
 
-TODO:
-
 -   GPT is decoder-only
 -   Causal attention
+-   Decoder-only models like GPT:
+    -   Llama
+    -   Falcon
+    -   Chinchilla
+    -   Claude
 
 
 ## Conclusion
