@@ -154,7 +154,6 @@ See also:
 
 -   BERT is encoder-only
 -   BERT has bidirectional attention
-
 -   Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805).
 
 
