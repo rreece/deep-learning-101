@@ -125,7 +125,9 @@ $$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax}\left( \mathrm{model}(x_1 \ldot
 *Auto-regressive* inference follows this chain rule.
 If done with greedy search:
 
-$$ \hat{x}_t = \mathrm{argmax}_{x_t \in V} P(x_t | x_1 \ldots x_{t-1}) $$
+$$ \hat{x}_{t} = $$
+
+$$ \underset{x_t \in V}{\mathrm{argmax}} \ P(x_t | x_1 \ldots x_{t-1}) $$
 
 Beam search:
 
