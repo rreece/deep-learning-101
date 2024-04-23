@@ -114,7 +114,7 @@ or for the whole sequence:
 
 $$ P(x_1, \ldots, x_T) = \prod_{t=1}^{T} P(x_t | x_1 \ldots x_{t-1}) $$
 
-$$ = P(x_1) \: P(x_2 | x_1) \: P(x_3 | x_1 x_2) \: P(x_4 | x_1 x_2 x_3) \ldots $$
+$$ = P(x_1) P(x_2 | x_1) P(x_3 | x_1 x_2) P(x_4 | x_1 x_2 x_3) \ldots $$
 
 A *language model* (LM), predicts the next token given previous context.
 The output of the model is a vector of logits, which is given to a softmax
@@ -125,7 +125,7 @@ $$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax}\left( \mathrm{model}(x_1 \ldot
 *Auto-regressive* inference follows this chain rule.
 If done with greedy search:
 
-$$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-1}) $$
+$$ \hat{x}_t = \mathrm{argmax}_{x_t \in V} P(x_t | x_1 \ldots x_{t-1}) $$
 
 Beam search:
 
