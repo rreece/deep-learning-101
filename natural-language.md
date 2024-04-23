@@ -1,7 +1,5 @@
 # Natural language
 
-TODO
-
 
 ### Contents
 
@@ -137,8 +135,6 @@ Beam search:
 ## Transformer
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/index.html)).](img/transformer.png)
-
-TODO:
 
 -   Describe architecture
 -   Describe self-attention

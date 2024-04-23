@@ -1,7 +1,5 @@
 # Computer vision
 
-TODO
-
 
 ### Contents
 
