@@ -132,8 +132,13 @@ KV-cache:
 Quadratic complexity in sequence length:
 
 -   Note a lot of research in reducing the quadratic complexity
--   Note a lot of research in extending context length
+-   Note a lot of research in extending context length (e.g., [llama3 has 8k context](https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md))
 -   Note [Mamba](https://arxiv.org/abs/2312.00752) claims to have linear in $T$ complexity
+
+Note that there are also variants of transformers that move and/or change
+the normalization layers.
+
+![Pre-layer-norm transformer (source: https://arxiv.org/abs/2002.04745).](img/pre-layer-norm-transformer.png)
 
 See also:
 
