@@ -200,7 +200,8 @@ See also:
 -   Decoder-only models like GPT:
     -   Llama (Meta, open)
     -   Falcon (TII, open)
-    -   Chinchilla (OpenAI, closed)
+    -   GPT-4 (OpenAI, closed)
+    -   Chinchilla (DeepMind, closed)
     -   Claude (Anthropic, closed)
 -   Instruction finetuning
 -   Reinforcement Learning from Human Feedback (RLHF)
