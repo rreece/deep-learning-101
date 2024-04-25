@@ -214,6 +214,7 @@ See also:
 -   GPT-3: Brown, T.B. et al. (2020). [Language models are few-shot learners](https://arxiv.org/abs/2005.14165).
 -   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
 -   GPT-4: OpenAI. (2023). [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf).
+-   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
 
 
 ## Conclusion
