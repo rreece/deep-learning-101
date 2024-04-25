@@ -215,6 +215,7 @@ See also:
 -   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
 -   GPT-4: OpenAI. (2023). [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf).
 -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
+-   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
 
 
 ## Conclusion
