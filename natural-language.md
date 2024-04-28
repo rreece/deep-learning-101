@@ -180,6 +180,7 @@ See also:
 -   Pretrained with masked language modeling (MLM)
 -   For encoding: sequence to vector, or for classification tasks: seq to class
 -   Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805).
+-   Liu, Y. et al. (2019). [RoBERTa: A robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692).
 
 
 ## T5
