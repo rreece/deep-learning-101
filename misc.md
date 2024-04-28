@@ -7,7 +7,8 @@
 2.  [RAG](#rag)
 3.  [Voice to text](#voice-to-text)
 4.  [Multimodal models](#multimodal-models)
-5.  [More](#more)
+5.  [Evaluation methods](#evaluation-methods)
+6.  [More](#more)
 
 
 ## LoRA
@@ -42,9 +43,13 @@
 ![Figure from [Gemini](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf).](img/gemini-multimodal.png)
 
 
-## More
+## Evaluation methods
 
 -   Yue, X. et al. (2023).  [MMMU: A Massive Multi-discipline Multimodal Understanding and reasoning benchmark for expert AGI](https://arxiv.org/abs/2311.16502).
+
+
+## More
+
 -   [Insights from Kaggle Grandmasters and Experts on Competitive AI and LLM Frontiers](https://www.youtube.com/watch?v=k2EcIX0HgzA). *GTC, 2024*.
 
 
