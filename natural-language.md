@@ -177,6 +177,8 @@ See also:
 
 -   BERT is encoder-only
 -   BERT has bidirectional attention
+-   Pretrained with masked language modeling (MLM)
+-   For encoding: sequence to vector, or for classification tasks: seq to class
 -   Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). [BERT: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805).
 
 
