@@ -45,6 +45,7 @@
 
 ## Evaluation methods
 
+-   Hendrycks, D. et al. (2020). [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300). (MMLU)
 -   Yue, X. et al. (2023).  [MMMU: A Massive Multi-discipline Multimodal Understanding and reasoning benchmark for expert AGI](https://arxiv.org/abs/2311.16502).
 
 
