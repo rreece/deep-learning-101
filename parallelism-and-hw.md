@@ -19,6 +19,7 @@
 ![Examples of GPU memory usage. source: https://arxiv.org/abs/2403.03507](img/galore-memory-usage.png)
 
 -   Hooker, S. (2020). [The hardware lottery](https://arxiv.org/abs/2009.06489).
+-   Sevilla, J. et al. (2022). [Compute trends across three eras of machine learning](https://arxiv.org/abs/2202.05924).
 -   He, H. (2022). [Making deep learning go brrrr from first principles](https://horace.io/brrr_intro.html).
 -   Geiping, J. & Goldstein, T. (2022). [Cramming: Training a language model on a single GPU in one day](https://arxiv.org/abs/2212.14034).
 
