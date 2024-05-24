@@ -22,6 +22,7 @@
 -   Sevilla, J. et al. (2022). [Compute trends across three eras of machine learning](https://arxiv.org/abs/2202.05924).
 -   He, H. (2022). [Making deep learning go brrrr from first principles](https://horace.io/brrr_intro.html).
 -   Geiping, J. & Goldstein, T. (2022). [Cramming: Training a language model on a single GPU in one day](https://arxiv.org/abs/2212.14034).
+-   Spector, B. (2024). [GPUs go brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk).
 
 
 ## Model parallelism
