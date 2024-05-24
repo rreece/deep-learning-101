@@ -228,6 +228,8 @@ See also:
 -   Yang, J. et al. (2023). [Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond](https://arxiv.org/abs/2304.13712).
 -   Raschka, S. (2023). [Understanding large language models](https://magazine.sebastianraschka.com/p/understanding-large-language-models).
 -   Mohamadi, S. et al. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1).
+-   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223).
+
 
 --------
 
