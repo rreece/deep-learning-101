@@ -4,9 +4,10 @@
 ### Contents
 
 1.  [Introduction](#introduction)
-2.  [Model parallelism](#model-parallelism)
-3.  [Misc](#misc)
-4.  [Conclusion](#conclusion)
+2.  [Input I/O](#input-io)
+3.  [Model parallelism](#model-parallelism)
+4.  [Efficient transformers](#efficient-transformers)
+5.  [Conclusion](#conclusion)
 
 
 ## Introduction
