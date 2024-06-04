@@ -28,6 +28,8 @@
 
 ## Input I/O
 
+![Example of a Roofline plot. source: https://commons.wikimedia.org/wiki/File:Example_of_a_Roofline_model.svg](img/roofline_model.png)
+
 -   Williams, S., Waterman, A., & Patterson, D. (2009). [Roofline: an insightful visual performance model for multicore architectures](https://dl.acm.org/doi/pdf/10.1145/1498765.1498785).
 
 
