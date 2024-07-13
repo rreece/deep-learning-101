@@ -45,7 +45,7 @@ Neural network layer:
 
 $$ y_i = \phi(z_i) = \phi(w_{ij} x_{j} + b_{j}) $$
 
-![Example activation functions, Bishop, p. 184](img/bishop-nn-p181.png)
+![Example neural net, Bishop, p. 181](img/bishop-nn-p181.png)
 
 A multi-layer neural network is a composition of functions.
 
