@@ -4,7 +4,7 @@
 ### Contents
 
 1.  [Introduction](#introduction)
-2.  [Input I/O](#input-io)
+2.  [Performance and bandwidth](#performance-and-bandwidth)
 3.  [Model parallelism](#model-parallelism)
 4.  [Efficient transformers](#efficient-transformers)
 5.  [Conclusion](#conclusion)
