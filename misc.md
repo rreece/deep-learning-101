@@ -17,6 +17,10 @@
 -   Yue, X. et al. (2023).  [MMMU: A Massive Multi-discipline Multimodal Understanding and reasoning benchmark for expert AGI](https://arxiv.org/abs/2311.16502).
 -   Kim, J. et al. (2024). [Evalverse: Unified and accessible library for large language model evaluation](https://arxiv.org/abs/2404.00943).
 -   Biderman, S. (2024). [Lessons from the trenches on reproducible evaluation of language models](https://arxiv.org/abs/2405.14782).
+-   [Stanford's HELM Leaderboards](https://crfm.stanford.edu/helm/)
+    -   Liang, P. et al. (2022). [Holistic Evaluation of Language Models (HELM)](https://arxiv.org/abs/2211.09110)
+    -   Lee, T. et al. (2023). [Holistic Evaluation of Text-To-Image Models (HEIM)](https://arxiv.org/abs/2311.04287)
+    -   [github.com/stanford-crfm/helm](https://github.com/stanford-crfm/helm)
 
 
 ## LoRA
