@@ -6,7 +6,7 @@
 1.  [Introduction](#introduction)
 2.  [Performance and bandwidth](#performance-and-bandwidth)
 3.  [Model parallelism](#model-parallelism)
-4.  [Computational copmlexity of transformers](#computational-copmlexity-of-transformers)
+4.  [Computational complexity of transformers](#computational-complexity-of-transformers)
 5.  [Efficient transformers](#efficient-transformers)
 6.  [Conclusion](#conclusion)
 
@@ -41,7 +41,7 @@
 -   [Model parallelism](https://huggingface.co/docs/transformers/v4.17.0/en/parallelism) - HuggingFace
 
 
-## Computational copmlexity of transformers
+## Computational complexity of transformers
 
 -   kipply (2022). [Transformer inference arithmetic](https://kipp.ly/transformer-inference-arithmetic/).
 -   Bahdanau, D. (2022). [The FLOPs calculus of language model training](https://medium.com/@dzmitrybahdanau/the-flops-calculus-of-language-model-training-3b19c1f025e4).
