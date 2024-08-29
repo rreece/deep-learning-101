@@ -5,10 +5,10 @@
 
 1.  [Datasets](#datasets)
 2.  [Evaluation methods](#evaluation-methods)
-3.  [LoRA](#lora)
-4.  [RAG](#rag)
-5.  [Voice to text](#voice-to-text)
-6.  [Multimodal models](#multimodal-models)
+3.  [Voice to text](#voice-to-text)
+4.  [Multimodal models](#multimodal-models)
+5.  [LoRA](#lora)
+6.  [RAG](#rag)
 7.  [More](#more)
 
 
@@ -33,6 +33,19 @@
     -   Wang, Y. (2024). [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574).
 
 
+## Voice to text
+
+-   Whisper model (OpenAI)
+-   Transformer based, encoder-decoder
+
+![Whisper model (source: [openai](https://openai.com/research/whisper)).](img/whisper.png)
+
+
+## Multimodal models
+
+![Figure from [Gemini](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf).](img/gemini-multimodal.png)
+
+
 ## LoRA
 
 -    LoRA: Low-rank adaptation
@@ -51,19 +64,6 @@
 -   Requires a large context size to hold the retrieved documents
 
 ![RAG explained.](img/rag-explained-clarifai.png)
-
-
-## Voice to text
-
--   Whisper model (OpenAI)
--   Transformer based, encoder-decoder
-
-![Whisper model (source: [openai](https://openai.com/research/whisper)).](img/whisper.png)
-
-
-## Multimodal models
-
-![Figure from [Gemini](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf).](img/gemini-multimodal.png)
 
 
 ## More
