@@ -103,10 +103,10 @@ The workhorse algorithm for optimizing (training) model parameters is *gradient 
 $$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[t] $$
 
 In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches),
-$\vec{x}_{bt}$,
+$\vec{x}_{it}$,
 and take a gradient descent step with each minibatch:
 
-$$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{bt}] $$
+$$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{it}] $$
 
 where
 
