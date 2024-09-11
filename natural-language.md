@@ -230,6 +230,7 @@ See also:
 -   Raschka, S. (2023). [Understanding large language models](https://magazine.sebastianraschka.com/p/understanding-large-language-models).
 -   Mohamadi, S. et al. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1).
 -   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223).
+-   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746).
 
 
 --------
