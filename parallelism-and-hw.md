@@ -55,6 +55,7 @@ Roofline plots:
 
 ## Efficient transformers
 
+-   Shazeer, N. (2019). [Fast transformer decoding: One write-head is all you need](https://arxiv.org/abs/1911.02150).  - MQA
 -   Dao, T., Fu, D.Y., Ermon, S., Rudra, A., & Ré, C. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135).
 -   Pope, R. et al. (2022). [Efficiently scaling transformer inference](https://arxiv.org/abs/2211.05102). - *KV cache*
 -   Dao, T. (2023). [FlashAttention-2: Faster attention with better parallelism and work partitioning](https://arxiv.org/abs/2307.08691).
@@ -68,8 +69,11 @@ Roofline plots:
 -   Fu, Y. (2024). [Challenges in deploying long-context transformers: A theoretical peak performance analysis](https://arxiv.org/abs/2405.08944).
 -   Fu, Y. et al. (2024). [Data engineering for scaling language models to 128K context](https://arxiv.org/abs/2402.10171).
 -   Kwon, W. et al. (2023). [Efficient memory management for large language model serving with PagedAttention](https://arxiv.org/abs/2309.06180). ([vLLM](https://github.com/vllm-project/vllm))
+-   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
+-   Chng, P. (2024). [What is the transformer KV cache?](https://peterchng.com/blog/2024/06/11/what-is-the-transformer-kv-cache/).
 -   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
 -   Shah, J. et al. (2024). [FlashAttention-3: Fast and accurate attention with asynchrony and low-precision](https://arxiv.org/abs/2407.08608).
+-   Shi, L. (2024). [Keep the cost down: A review on methods to optimize LLM' s KV-cache consumption](https://arxiv.org/abs/2407.18003).
 
 
 ## Accelerators
