@@ -109,6 +109,7 @@ Others:
 
 -   d-Matrix
 -   Furiosa
+-   Graphcore
 -   Lightmatter
 -   MatX
 -   Taalas
