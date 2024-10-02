@@ -105,6 +105,14 @@ Roofline plots:
 
 -   Th&uuml;ning, M. (2024). [Attention in SRAM on Tenstorrent Grayskull](https://arxiv.org/abs/2407.13885).
 
+Others:
+
+-   d-Matrix
+-   Furiosa
+-   Lightmatter
+-   MatX
+-   Taalas
+
 
 ## Conclusion
 
