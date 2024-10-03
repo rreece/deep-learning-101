@@ -7,7 +7,8 @@
 2.  [Performance and bandwidth](#performance-and-bandwidth)
 3.  [Model parallelism](#model-parallelism)
 4.  [Computational complexity of transformers](#computational-complexity-of-transformers)
-5.  [Efficient transformers](#efficient-transformers)
+5.  [Efficient transformers: Inference optimizations](#efficient-transformers-inference-optimizations)
+5.  [Efficient transformers: Architecture modifications](#efficient-transformers-architecture-modifications)
 6.  [Accelerators](#accelerators)
 7.  [Conclusion](#conclusion)
 
@@ -79,7 +80,7 @@ Roofline plots:
 ## Efficient transformers: Architecture modifications
 
 -   Shazeer, N. (2019). [Fast transformer decoding: One write-head is all you need](https://arxiv.org/abs/1911.02150).  - MQA
--   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732). [^Tay2022]
+-   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732).
 -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
 
 
