@@ -125,6 +125,7 @@ Others:
 -   Lightmatter
 -   MatX
 -   Taalas
+-   Untether AI
 
 
 ## Conclusion
