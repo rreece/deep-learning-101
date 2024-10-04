@@ -94,6 +94,10 @@ Roofline plots:
 -   Dettmers, T. (2023). [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/).
 -   Nvidia. (2023). [GPU performance background user's guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html).
 
+### AMD
+
+-   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX
+
 ### Cerebras
 
 -   Cerebras. (2020). [Fast stencil-code computation on a wafer-scale processor](https://arxiv.org/abs/2010.03660).
@@ -120,6 +124,7 @@ Roofline plots:
 Others:
 
 -   d-Matrix
+-   Etched
 -   Furiosa
 -   Graphcore
 -   Lightmatter
