@@ -223,6 +223,7 @@ See also:
 -   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
 -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
+-   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
 
 
 ## Conclusion
