@@ -60,7 +60,8 @@ Roofline plots:
 -   Sanger, A. (2023). [Inference characteristics of Llama-2](https://cursor.sh/blog/llama-inference). 
 -   Shenoy, V. & Kiely, P. (2023). [A guide to LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/).
 -   Anthony, Q., Biderman, S., & Schoelkopf, H. (2023). [Transformer math 101](https://blog.eleuther.ai/transformer-math/).
--   Ouyang, A. (2024). [*Understanding the Performance of Transformer*](https://dspace.mit.edu/handle/1721.1/151543). (MS thesis)
+-   Ouyang, A. (2023). [*Understanding the Performance of Transformer*](https://dspace.mit.edu/handle/1721.1/151543). (MS thesis)
+-   Casson, A. (2023). [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops).
 
 
 ## Efficient transformers: Inference optimizations
