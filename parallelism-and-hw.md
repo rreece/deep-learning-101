@@ -38,6 +38,10 @@ Roofline plots:
 -   Williams, S., Waterman, A., & Patterson, D. (2009). [Roofline: an insightful visual performance model for multicore architectures](https://dl.acm.org/doi/pdf/10.1145/1498765.1498785).
 -   Chen, L. (2023). [Dissecting batching effects in GPT inference](https://le.qun.ch/en/blog/2023/05/13/transformer-batching/).
 -   Chng, P. (2024). [The naive roofline model in performance modeling](https://peterchng.com/blog/2024/08/29/the-naive-roofline-model-in-performance-modeling/).
+-   Kao, S.C. et al. (2022). FRAME: Fast Roofline Analytical Modeling and Estimation. https://github.com/maestro-project/frame
+-   Yuan, Z. et al. (2024). LLM inference unveiled: Survey and roofline model insights. https://arxiv.org/abs/2402.16363
+    -   https://github.com/hahnyuan/LLM-Viewer
+    -   http://llm-viewer.com/
 
 
 ## Model parallelism
@@ -56,6 +60,7 @@ Roofline plots:
 -   Sanger, A. (2023). [Inference characteristics of Llama-2](https://cursor.sh/blog/llama-inference). 
 -   Shenoy, V. & Kiely, P. (2023). [A guide to LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/).
 -   Anthony, Q., Biderman, S., & Schoelkopf, H. (2023). [Transformer math 101](https://blog.eleuther.ai/transformer-math/).
+-   Ouyang, A. (2024). [*Understanding the Performance of Transformer*](https://dspace.mit.edu/handle/1721.1/151543). (MS thesis)
 
 
 ## Efficient transformers: Inference optimizations
