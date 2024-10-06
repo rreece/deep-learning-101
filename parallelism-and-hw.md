@@ -92,6 +92,14 @@ Roofline plots:
 -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
 
 
+## Kernel programming
+
+-   Nvidia. (2024). [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/).
+-   Harris, M. (2017). Nvidia blog: [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/).
+-   Boehm, S. (2022). [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM).
+-   [github.com/ANSANJAY/KernelDev101](https://github.com/ANSANJAY/KernelDev101)
+
+
 ## Accelerators
 
 ### Nvidia
