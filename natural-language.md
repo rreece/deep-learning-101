@@ -136,6 +136,8 @@ Beam search:
 
 ## Transformer
 
+-   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
+
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/index.html)).](img/transformer.png)
 
 -   Describe architecture
@@ -167,7 +169,6 @@ Some transformer models (e.g., llama3) use RMSNorm instead of LayerNorm.
 
 See also:
 
--   Vaswani, A. et al. (2017). [Attention is all you need](https://arxiv.org/abs/1706.03762).
 -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467).
 -   Xiong, R. et al. (2020). [On layer normalization in the transformer architecture](https://arxiv.org/abs/2002.04745).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
@@ -202,8 +203,12 @@ See also:
 -   GPT is decoder-only
 -   Causal attention
 -   Decoder-only models like GPT:
-    -   Llama (Meta, open)
     -   Falcon (TII, open)
+    -   Llama (Meta, open)
+        -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
+        -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
+        -   Meta. (2024). [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/).
+        -   Dubey, A. et al. (2024). [The Llama 3 herd of models](https://arxiv.org/abs/2407.21783).
     -   GPT-4 (OpenAI, closed)
     -   Chinchilla (DeepMind, closed)
     -   Claude (Anthropic, closed)
@@ -224,6 +229,28 @@ See also:
 -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
 -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
+
+
+## What comes after transformer?
+
+-   The return of recurrence?
+-   SSMs and Mamba
+-   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396).
+-   Merrill, W. & Sabharwal, A. (2022). [The parallelism tradeoff: Limitations of log-precision transformers](https://arxiv.org/abs/2207.00729).
+-   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). [Recurrent memory transformer](https://arxiv.org/abs/2207.06881).
+-   Raffel, C. (2023). [A new alchemy: Language model development as a subfield?](https://colinraffel.com/blog/language-model-development-as-a-new-subfield.html).
+-   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062).
+-   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625).
+-   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842).
+-   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048).
+-   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621).
+-   Gu, A. & Dao, T. (2023). [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752).
+-   Wang, H. et al. (2023). [BitNet: Scaling 1-bit transformers for large language models](https://arxiv.org/abs/2310.11453).
+-   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764).
+-   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801).
+-   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444).
+-   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
+-   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060).
 
 
 ## Conclusion
