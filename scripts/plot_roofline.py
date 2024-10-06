@@ -14,11 +14,18 @@ matplotlib.use("Agg")
 A5000_BANDWIDTH = 768.
 A5000_PEAK = 27.8
 
+# https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/proviz-print-nvidia-rtx-a6000-datasheet-us-nvidia-1454980-r9-web%20(1).pdf
+# https://arxiv.org/abs/2402.16363
+A6000_BANDWIDTH = 768.
+#A6000_PEAK = 38.7  # fp32
+A6000_PEAK = 155  # fp16? From: 2402.16363, sec 3.1.1.
+#A6000_PEAK = 310  # int8?
+
 N150_BANDWIDTH = 288.
 N150_PEAK = 74.
 
-DEFAULT_BANDWIDTH = A5000_BANDWIDTH
-DEFAULT_PEAK = A5000_PEAK
+DEFAULT_BANDWIDTH = A6000_BANDWIDTH
+DEFAULT_PEAK = A6000_PEAK
 
 
 def parse_args():
@@ -31,11 +38,18 @@ def parse_args():
         "-p", "--peak", default=DEFAULT_PEAK, type=float,
         help="Peak compute performance in TFLOPs/s.",
     )
+#    parser.add_argument(
+#        "-d", "--device", default="Nvidia_A5000", type=str,
+#        help="Device key for hardware params",
+#    )
     return parser.parse_args()
 
 
-def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
+def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     # mem_unit is bytes per mop
+    # (TFLOPs/s) * (bytes/mop) * (GB/s) = TFLOPs/GMOPs = 1e3 FLOPs/MOPs
+#    I_c = peak * mem_unit / bandwidth  # TFLOPs/GMOPs
+#    I_c = I_c * 1e3  # FLOPs/MOPs
     I_c = peak / bandwidth  # TFLOPs/GB
     I_c = I_c * 1e3  # FLOPs/B
 
@@ -58,26 +72,38 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
     y_compute_bound = [peak, peak]
 
     # User should also provide the model and measurements of the rates 
+    # TODO: parametrize
     N_params = 8e9
 #    R_decode = 20.   # tokens/s
     R_decode = 40.   # tokens/s
+    R_prefill = 1.0 # TODO: FIXME overwritten below
 
-#    I_decode = 2e-3  # TFLOPs/GB   TODO: should this be 1 or 2 * 1e-3?
-    I_decode = 1.0  # FLOPs/B
-    P_decode = 2 * N_params * R_decode  # FLOPs/s
+    # Decode calculation
+    batch_size = 1
+    C_f = 2 * N_params # forward pass compute per token generated, FLOPs/token
+    I_decode = 2.0  # FLOPs/MOPs
+    I_decode = I_decode / mem_unit # FLOPs/B
+    P_decode = C_f * batch_size * R_decode  # FLOPs/s
     P_decode = P_decode * 1e-12  # TFLOPs
+    print("")
+    print("R_decode = %.1f tokens/s" % R_decode)
+    print("I_decode = %.1f FLOPs/B" % I_decode)
+    print("P_decode = %.1f TFLOPs/s" % P_decode)
 
-#    batch_size = 256  # TODO: this is a placeholder
-    batch_size = 128  # TODO: this is a placeholder
+    # Prefill calculation
+    batch_size = 256  # TODO: this is a placeholder
     efficiency = 0.95  # TODO: this is a placeholder
-    C_f = 2 * N_params
-    R_prefill = peak * 1e12 / (C_f*batch_size) * efficiency  # tokens/s  # TODO: this is a placeholder
+    R_peak = peak * 1e12 / (C_f*batch_size)
+    R_prefill = R_peak * efficiency  # tokens/s  # TODO: this is a placeholder
     I_prefill = I_decode * batch_size  # TODO: this is a placeholder
     P_prefill = C_f * batch_size * R_prefill  # FLOPs/s
     P_prefill = P_prefill * 1e-12  # TFLOPs
-    print("R_prefill = ", R_prefill)
-    print("I_prefill = ", I_prefill)
-    print("P_prefill = ", P_prefill)
+    print("")
+    print("R_peak = %.1f tokens/s" % R_peak)
+    print("R_prefill = %.1f tokens/s" % R_prefill)
+    print("I_prefill = %.1f FLOPs/B" % I_prefill)
+    print("P_prefill = %.1f TFLOPs/s" % P_prefill)
+    print("")
 
     fig, ax = plt.subplots(figsize=(8, 8))
     ax.plot(
