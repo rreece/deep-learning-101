@@ -9,8 +9,9 @@
 4.  [Computational complexity of transformers](#computational-complexity-of-transformers)
 5.  [Efficient transformers: Inference optimizations](#efficient-transformers-inference-optimizations)
 5.  [Efficient transformers: Architecture modifications](#efficient-transformers-architecture-modifications)
-6.  [Accelerators](#accelerators)
-7.  [Conclusion](#conclusion)
+6.  [Kernel programming](#kernel-programming)
+7.  [Accelerators](#accelerators)
+8.  [Conclusion](#conclusion)
 
 
 ## Introduction
