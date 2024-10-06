@@ -126,8 +126,8 @@ Roofline plots:
 ### Tenstorrent
 
 -   Th&uuml;ning, M. (2024). [Attention in SRAM on Tenstorrent Grayskull](https://arxiv.org/abs/2407.13885).
--   Tenstorrent. (2024). [Wormhole Tensix Processor](https://tenstorrent.com/assets/one-pagers/08.01.24_Wormhole.pdf).
 -   Tenstorrent. (2024). [Onepager with Wormhole and Grayskull](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
+-   Tenstorrent. (2024). [Wormhole Tensix Processor](https://tenstorrent.com/assets/one-pagers/08.01.24_Wormhole.pdf).
 
 Others:
 
