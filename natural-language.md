@@ -209,7 +209,7 @@ See also:
         -   Dubey, A. et al. (2024). [The Llama 3 herd of models](https://arxiv.org/abs/2407.21783).
         -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
         -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
-        -   SiLU/Swish activation function used in FFN.  [Ramachandran et al. (2017)](https://arxiv.org/abs/1710.05941).
+        -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
     -   GPT-4 (OpenAI, closed)
     -   Chinchilla (DeepMind, closed)
     -   Claude (Anthropic, closed)
