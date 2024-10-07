@@ -45,7 +45,7 @@ def parse_args():
     return parser.parse_args()
 
 
-def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
+def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     # mem_unit is bytes per mop
     # (TFLOPs/s) * (bytes/mop) * (GB/s) = TFLOPs/GMOPs = 1e3 FLOPs/MOPs
 #    I_c = peak * mem_unit / bandwidth  # TFLOPs/GMOPs
@@ -79,12 +79,13 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
     C_f = 2 * N_params # forward pass compute per token generated, FLOPs/token
 
     # Prefill calculation
-    batch_size = 256 # TODO: this is a placeholder
+    batch_size = 1 # TODO: this is a placeholder
+    context_length = 256 # TODO: this is a placeholder
     efficiency = 0.95  # TODO: this is a placeholder
     R_peak = peak * 1e12 / (C_f*batch_size)
     R_prefill = R_peak * efficiency  # tokens/s  # TODO: this is a placeholder
     # FIXME: This is the main TODO: How to express I_prefill?
-    I_prefill = 1.0 * batch_size  # TODO: this is a placeholder # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
+    I_prefill = 1.0 * batch_size * context_length  # TODO: this is a placeholder # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
     P_prefill = C_f * batch_size * R_prefill # FLOPs/s
     P_prefill = P_prefill * 1e-12  # TFLOPs
     print("R_peak = %.1f tokens/s" % R_peak)
