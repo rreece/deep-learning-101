@@ -74,35 +74,34 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     # User should also provide the model and measurements of the rates 
     # TODO: parametrize
     N_params = 8e9
-#    R_decode = 20.   # tokens/s
-    R_decode = 40.   # tokens/s
-    R_prefill = 1.0 # TODO: FIXME overwritten below
-
-    # Decode calculation
-    batch_size = 1
+    R_decode = 40. # TODO: put real measurement here  # tokens/s
+    R_prefill = 1.0 # TODO: overwritten below: put real measurement here  # tokens/s
+    batch_size = 256 # TODO: this is a placeholder
+    efficiency = 0.95  # TODO: this is a placeholder
     C_f = 2 * N_params # forward pass compute per token generated, FLOPs/token
-    I_decode = 2.0  # FLOPs/MOPs
-    I_decode = I_decode / mem_unit # FLOPs/B
-    P_decode = C_f * batch_size * R_decode  # FLOPs/s
-    P_decode = P_decode * 1e-12  # TFLOPs
-    print("")
-    print("R_decode = %.1f tokens/s" % R_decode)
-    print("I_decode = %.1f FLOPs/B" % I_decode)
-    print("P_decode = %.1f TFLOPs/s" % P_decode)
 
     # Prefill calculation
-    batch_size = 256  # TODO: this is a placeholder
-    efficiency = 0.95  # TODO: this is a placeholder
     R_peak = peak * 1e12 / (C_f*batch_size)
     R_prefill = R_peak * efficiency  # tokens/s  # TODO: this is a placeholder
-    I_prefill = I_decode * batch_size  # TODO: this is a placeholder
+    # FIXME: This is the main TODO: How to express I_prefill?
+    I_prefill = 1.0 * batch_size  # TODO: this is a placeholder # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
     P_prefill = C_f * batch_size * R_prefill  # FLOPs/s
     P_prefill = P_prefill * 1e-12  # TFLOPs
-    print("")
     print("R_peak = %.1f tokens/s" % R_peak)
     print("R_prefill = %.1f tokens/s" % R_prefill)
     print("I_prefill = %.1f FLOPs/B" % I_prefill)
     print("P_prefill = %.1f TFLOPs/s" % P_prefill)
+    print("")
+
+    # Decode calculation
+    # TODO: Shouldn't Decoded depend on batch_size? 
+    I_decode = 2.0  # FLOPs/MOPs
+    I_decode = I_decode / mem_unit # FLOPs/B
+    P_decode = C_f * R_decode  # FLOPs/s
+    P_decode = P_decode * 1e-12  # TFLOPs
+    print("R_decode = %.1f tokens/s" % R_decode)
+    print("I_decode = %.1f FLOPs/B" % I_decode)
+    print("P_decode = %.1f TFLOPs/s" % P_decode)
     print("")
 
     fig, ax = plt.subplots(figsize=(8, 8))
