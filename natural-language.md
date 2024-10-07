@@ -205,10 +205,11 @@ See also:
 -   Decoder-only models like GPT:
     -   Falcon (TII, open)
     -   Llama (Meta, open)
-        -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
-        -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
         -   Meta. (2024). [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/).
         -   Dubey, A. et al. (2024). [The Llama 3 herd of models](https://arxiv.org/abs/2407.21783).
+        -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
+        -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
+        -   SiLU/Swish activation function used in FFN.  [Ramachandran et al. (2017)](https://arxiv.org/abs/1710.05941).
     -   GPT-4 (OpenAI, closed)
     -   Chinchilla (DeepMind, closed)
     -   Claude (Anthropic, closed)
