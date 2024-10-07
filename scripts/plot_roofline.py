@@ -64,7 +64,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
         min_x = 0.0
         min_y = 0.0
         max_x = 2.0 * I_c
-        max_y = 1.2 * peak
+        max_y = 1.3 * peak
 
     x_memory_bound = [0.0, I_c]
     y_memory_bound = [0.0, peak]
@@ -112,6 +112,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
         color="black",
         linewidth=2,
         linestyle="dashed",
+        label="Memory Bound (%.3g GB/s)" % (bandwidth),
     )
     ax.plot(
         x_compute_bound,
@@ -119,6 +120,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
         color="black",
         linewidth=2,
         linestyle="dashed",
+        label="Compute Bound (%.3g TFLOPs/s)" % (peak),
     )
 
     ax.plot(
