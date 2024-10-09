@@ -131,6 +131,7 @@ Roofline plots:
 ### SambaNova
 
 -   SambaNova. (2024). [SambaNova SN40L: Scaling the AI memory wall with dataflow and composition of experts](https://arxiv.org/abs/2405.07518).
+-   SambaNova. (2024). [Why SambaNova's SN40L chip is the best for inference](https://sambanova.ai/blog/sn40l-chip-best-inference-solution).
 
 ### Tenstorrent
 
