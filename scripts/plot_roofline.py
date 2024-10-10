@@ -102,6 +102,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
     batch_size_decode = 1  # TODO: placeholder
     efficiency_decode = 0.98  # TODO: placeholder
     R_decode_peak = bandwidth * 1e9 * batch_size_decode / D_f
+#    R_decode_peak = bandwidth * 1e9 / D_f
     R_decode_total = R_decode * batch_size_decode # tokens/s
     efficiency_decode = R_decode_total / R_decode_peak
     I_decode = 2.0  # FLOPs/MOPs
