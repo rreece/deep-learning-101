@@ -61,6 +61,7 @@
 ## RAG
 
 -   Retrieval-Augmented Generation (RAG)
+-   Lewis, P. et al. (2020). [Retrieval-Augmented Generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf).
 -   Requires a large context size to hold the retrieved documents
 
 ![RAG explained.](img/rag-explained-clarifai.png)
