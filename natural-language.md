@@ -230,6 +230,7 @@ See also:
 -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
 -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
+-   Nvidia. (2024). [Nemotron-4 340B Technical Report](https://arxiv.org/abs/2406.11704).
 
 
 ## What comes after transformer?
