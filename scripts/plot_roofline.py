@@ -63,7 +63,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
         # for linear scale
         min_x = 0.0
         min_y = 0.0
-        max_x = 3.0 * I_c
+        max_x = 2.0 * I_c
         max_y = 1.3 * peak
 
     x_memory_bound = [0.0, I_c]
@@ -81,7 +81,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
 
     # Prefill calculation
     batch_size_prefill = 1 # TODO: placeholder
-    context_length = 512 # TODO: placeholder
+    context_length = 256 # TODO: placeholder
     R_prefill_peak = peak * 1e12 / C_f
     R_prefill_total = R_prefill * batch_size_prefill  # tokens/s
     efficiency_prefill = R_prefill_total / R_prefill_peak
@@ -92,6 +92,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     P_prefill = P_prefill * 1e-12  # TFLOPs
     print("Prefill")
     print("batch_size = %i" % batch_size_prefill)
+    print("context_length = %i" % context_length)
     print("R = %.1f tokens/s/u" % R_prefill)
     print("R_total = %.1f tokens/s" % R_prefill_total)
     print("R_peak = %.1f tokens/s" % R_prefill_peak)
