@@ -45,7 +45,7 @@ def parse_args():
     return parser.parse_args()
 
 
-def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
+def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     # mem_unit is bytes per mop
     # (TFLOPs/s) * (bytes/mop) * (GB/s) = TFLOPs/GMOPs = 1e3 FLOPs/MOPs
 #    I_c = peak * mem_unit / bandwidth  # TFLOPs/GMOPs
@@ -74,7 +74,7 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
     # User should also provide the model and measurements of the rates 
     # TODO: parametrize
     N_params = 8e9
-    R_decode = 30. # TODO: put real measurement here  # tokens/s
+    R_decode = 42. # TODO: put real measurement here  # tokens/s
     R_prefill = 9000. # TODO: put real measurement here  # tokens/s
     C_f = 2 * N_params # forward pass compute per token generated, FLOPs/token
     D_f = N_params * mem_unit # model MOPs
@@ -86,35 +86,37 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=True):
     R_prefill_total = R_prefill * batch_size_prefill  # tokens/s
     efficiency_prefill = R_prefill_total / R_prefill_peak
     # FIXME: This is the main TODO: How to express I_prefill?
-    I_prefill = 1.0 * batch_size_prefill * context_length  # TODO: ??? # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
+    I_prefill = 2.0 * batch_size_prefill * context_length  # TODO: ??? # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
+    I_prefill = I_prefill / mem_unit # FLOPs/B
     P_prefill = C_f * R_prefill_total # FLOPs/s
     P_prefill = P_prefill * 1e-12  # TFLOPs
-    print("R_prefill = %.1f tokens/s/u" % R_prefill)
-    print("R_prefill_total = %.1f tokens/s" % R_prefill_total)
-    print("R_prefill_peak = %.1f tokens/s" % R_prefill_peak)
+    print("Prefill")
+    print("batch_size = %i" % batch_size_prefill)
+    print("R = %.1f tokens/s/u" % R_prefill)
+    print("R_total = %.1f tokens/s" % R_prefill_total)
+    print("R_peak = %.1f tokens/s" % R_prefill_peak)
     print("efficiency = %.2f" % efficiency_prefill)
-    print("I_prefill = %.1f FLOPs/B" % I_prefill)
-    print("P_prefill = %.1f TFLOPs/s" % P_prefill)
+    print("I = %.1f FLOPs/B" % I_prefill)
+    print("P = %.1f TFLOPs/s" % P_prefill)
     print("")
 
     # Decode calculation
-    # TODO: Shouldn't Decoded depend on batch_size? 
-    batch_size_decode = 1  # TODO: placeholder
-    efficiency_decode = 0.98  # TODO: placeholder
+    batch_size_decode = 32  # TODO: placeholder
     R_decode_peak = bandwidth * 1e9 * batch_size_decode / D_f
-#    R_decode_peak = bandwidth * 1e9 / D_f
     R_decode_total = R_decode * batch_size_decode # tokens/s
     efficiency_decode = R_decode_total / R_decode_peak
-    I_decode = 2.0  # FLOPs/MOPs
+    I_decode = 2.0 * batch_size_decode  # FLOPs/MOPs
     I_decode = I_decode / mem_unit # FLOPs/B
     P_decode = C_f * R_decode_total  # FLOPs/s
     P_decode = P_decode * 1e-12  # TFLOPs
-    print("R_decode = %.1f tokens/s/u" % R_decode)
-    print("R_decode_total = %.1f tokens/s" % R_decode_total)
-    print("R_decode_peak = %.1f tokens/s" % R_decode_peak)
+    print("Decode")
+    print("batch_size = %i" % batch_size_decode)
+    print("R = %.1f tokens/s/u" % R_decode)
+    print("R_total = %.1f tokens/s" % R_decode_total)
+    print("R_peak = %.1f tokens/s" % R_decode_peak)
     print("efficiency = %.2f" % efficiency_decode)
-    print("I_decode = %.1f FLOPs/B" % I_decode)
-    print("P_decode = %.1f TFLOPs/s" % P_decode)
+    print("I = %.1f FLOPs/B" % I_decode)
+    print("P = %.1f TFLOPs/s" % P_decode)
     print("")
 
     fig, ax = plt.subplots(figsize=(8, 8))
