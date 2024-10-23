@@ -21,11 +21,14 @@ A6000_BANDWIDTH = 768.
 A6000_PEAK = 155  # fp16? From: 2402.16363, sec 3.1.1.
 #A6000_PEAK = 310  # int8?
 
+# https://docs.tenstorrent.com/aibs/wormhole/specifications.html
 N150_BANDWIDTH = 288.
 N150_PEAK = 74.
 
 DEFAULT_BANDWIDTH = A6000_BANDWIDTH
 DEFAULT_PEAK = A6000_PEAK
+#DEFAULT_BANDWIDTH = N150_BANDWIDTH
+#DEFAULT_PEAK = N150_PEAK
 
 
 def parse_args():
@@ -48,8 +51,6 @@ def parse_args():
 def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     # mem_unit is bytes per mop
     # (TFLOPs/s) * (bytes/mop) * (GB/s) = TFLOPs/GMOPs = 1e3 FLOPs/MOPs
-#    I_c = peak * mem_unit / bandwidth  # TFLOPs/GMOPs
-#    I_c = I_c * 1e3  # FLOPs/MOPs
     I_c = peak / bandwidth  # TFLOPs/GB
     I_c = I_c * 1e3  # FLOPs/B
 
@@ -74,10 +75,15 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     # User should also provide the model and measurements of the rates 
     # TODO: parametrize
     N_params = 8e9
-    R_decode = 42. # TODO: put real measurement here  # tokens/s
-    R_prefill = 9000. # TODO: put real measurement here  # tokens/s
     C_f = 2 * N_params # forward pass compute per token generated, FLOPs/token
     D_f = N_params * mem_unit # model MOPs
+
+    # A6000 measurements
+    R_decode = 42. # TODO: put real measurement here  # tokens/s
+    R_prefill = 9000. # TODO: put real measurement here  # tokens/s
+    # N150 measurements
+#    R_decode = 17. # TODO: put real measurement here  # tokens/s
+#    R_prefill = 4500. # TODO: put real measurement here  # tokens/s
 
     # Prefill calculation
     batch_size_prefill = 1 # TODO: placeholder
