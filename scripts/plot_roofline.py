@@ -11,22 +11,26 @@ import matplotlib.pyplot as plt
 
 matplotlib.use("Agg")
 
+# https://www.techpowerup.com/gpu-specs/rtx-a5000.c3748
+# https://forums.developer.nvidia.com/t/why-is-amperes-theoretical-peak-fp16-tops-4x-peak-fp32-tops/173577
 A5000_BANDWIDTH = 768.
-A5000_PEAK = 27.8
+A5000_PEAK = 27.8 * 4 # 4x for fp16
 
 # https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/proviz-print-nvidia-rtx-a6000-datasheet-us-nvidia-1454980-r9-web%20(1).pdf
 # https://arxiv.org/abs/2402.16363
 A6000_BANDWIDTH = 768.
 #A6000_PEAK = 38.7  # fp32
-A6000_PEAK = 155  # fp16? From: 2402.16363, sec 3.1.1.
-#A6000_PEAK = 310  # int8?
+A6000_PEAK = 155  # fp16  From: 2402.16363, sec 3.1.1.
+#A6000_PEAK = 310  # int8
 
 # https://docs.tenstorrent.com/aibs/wormhole/specifications.html
 N150_BANDWIDTH = 288.
 N150_PEAK = 74.
 
-DEFAULT_BANDWIDTH = A6000_BANDWIDTH
-DEFAULT_PEAK = A6000_PEAK
+DEFAULT_BANDWIDTH = A5000_BANDWIDTH
+DEFAULT_PEAK = A5000_PEAK
+#DEFAULT_BANDWIDTH = A6000_BANDWIDTH
+#DEFAULT_PEAK = A6000_PEAK
 #DEFAULT_BANDWIDTH = N150_BANDWIDTH
 #DEFAULT_PEAK = N150_PEAK
 
@@ -78,9 +82,9 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     C_f = 2 * N_params # forward pass compute per token generated, FLOPs/token
     D_f = N_params * mem_unit # model MOPs
 
-    # A6000 measurements
+    # A5000 measurements
     R_decode = 42. # TODO: put real measurement here  # tokens/s
-    R_prefill = 9000. # TODO: put real measurement here  # tokens/s
+    R_prefill = 6800. # TODO: put real measurement here  # tokens/s
     # N150 measurements
 #    R_decode = 17. # TODO: put real measurement here  # tokens/s
 #    R_prefill = 4500. # TODO: put real measurement here  # tokens/s
@@ -91,10 +95,9 @@ def plot_roofline(bandwidth, peak, mem_unit=2, log=False):
     R_prefill_peak = peak * 1e12 / C_f
     R_prefill_total = R_prefill * batch_size_prefill  # tokens/s
     efficiency_prefill = R_prefill_total / R_prefill_peak
-    # FIXME: This is the main TODO: How to express I_prefill?
-    I_prefill = 2.0 * batch_size_prefill * context_length  # TODO: ??? # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
-    I_prefill = I_prefill / mem_unit # FLOPs/B
-    P_prefill = C_f * R_prefill_total # FLOPs/s
+    I_prefill = 2.0 * batch_size_prefill * context_length  # 2.0 FLOPs/MOPs(fp16) = 1.0 FLOPs/B
+    I_prefill = I_prefill / mem_unit  # FLOPs/B
+    P_prefill = C_f * R_prefill_total  # FLOPs/s
     P_prefill = P_prefill * 1e-12  # TFLOPs
     print("Prefill")
     print("batch_size = %i" % batch_size_prefill)
