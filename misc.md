@@ -34,7 +34,7 @@
     -   Wang, Y. (2024). [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574).
 
 
-## Voice to text
+## Speech to text
 
 -   Whisper model (OpenAI)
 -   Transformer based, encoder-decoder
