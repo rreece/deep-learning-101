@@ -113,6 +113,10 @@ Roofline plots:
 
 -   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX
 
+### Intel (Habana)
+
+-   [Gaudi 2](https://habana.ai/products/gaudi2/)
+
 ### Cerebras
 
 -   Cerebras. (2020). [Fast stencil-code computation on a wafer-scale processor](https://arxiv.org/abs/2010.03660).
