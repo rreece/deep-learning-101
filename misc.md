@@ -5,7 +5,7 @@
 
 1.  [Datasets](#datasets)
 2.  [Evaluation methods](#evaluation-methods)
-3.  [Voice to text](#voice-to-text)
+3.  [Speech to text](#speech-to-text)
 4.  [Multimodal models](#multimodal-models)
 5.  [LoRA](#lora)
 6.  [RAG](#rag)
