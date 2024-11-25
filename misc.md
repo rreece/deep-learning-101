@@ -16,6 +16,7 @@
 
 -   Liu, Y. et al. (2024). [Datasets for large language models: A comprehensive survey](https://arxiv.org/abs/2402.18041).
 -   Weber, M. et al. (2024). [RedPajama: An open dataset for training large language models](https://arxiv.org/abs/2411.12372).
+-   Tang, L. (2024). [TxT360: A top-quality LLM pre-training dataset requires the perfect blend](https://huggingface.co/spaces/LLM360/TxT360).
 
 
 ## Evaluation methods
