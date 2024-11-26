@@ -95,10 +95,16 @@ Roofline plots:
 
 ## Kernel programming
 
+### Nvidia: CUDA
+
 -   Nvidia. (2024). [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/).
 -   Harris, M. (2017). Nvidia blog: [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/).
 -   Boehm, S. (2022). [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM).
 -   [github.com/ANSANJAY/KernelDev101](https://github.com/ANSANJAY/KernelDev101)
+
+### AMD: ROCm
+
+-   [ROCm Documentation](https://rocm.docs.amd.com/en/latest/)
 
 
 ## Accelerators
