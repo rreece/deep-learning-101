@@ -91,6 +91,7 @@ Roofline plots:
 -   Shazeer, N. (2019). [Fast transformer decoding: One write-head is all you need](https://arxiv.org/abs/1911.02150).  - MQA
 -   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732).
 -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
+-   Leviathan, Y., Kalman, M., & Matias, Y. (2022). [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192).
 
 
 ## Kernel programming
