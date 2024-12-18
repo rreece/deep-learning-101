@@ -21,6 +21,7 @@
 
 ## Evaluation methods
 
+-   Papineni, K. et al. (2002). [BLEU: A method for automatic evaluation of machine translation](https://aclanthology.org/P02-1040).
 -   Hendrycks, D. et al. (2020). [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300). (MMLU)
 -   Yue, X. et al. (2023).  [MMMU: A Massive Multi-discipline Multimodal Understanding and reasoning benchmark for expert AGI](https://arxiv.org/abs/2311.16502).
 -   Zhou, J. et al. (2023). [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911). (IFEval)
