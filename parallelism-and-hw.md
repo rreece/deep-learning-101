@@ -133,6 +133,10 @@ Roofline plots:
 -   Cerebras. (2023). [Training giant neural networks using weight streaming on cerebras wafer-scale systems](https://8968533.fs1.hubspotusercontent-na1.net/hubfs/8968533/Virtual%20Booth%20Docs/CS%20Weight%20Streaming%20White%20Paper.pdf).
 -   Cerebras. (2024). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2024/09/30.
 
+### Furiosa
+
+-   Furiosa. (2024). [TCP: A Tensor Contraction Processor for AI workloads industrial product](https://ieeexplore.ieee.org/document/10609575).
+
 ### Groq
 
 -   Groq. (2020). [Think Fast: A Tensor Streaming Processor (TSP) for accelerating deep learning workloads](https://groq.com/wp-content/uploads/2020/06/ISCA-TSP.pdf).
@@ -158,9 +162,9 @@ Roofline plots:
 
 Others:
 
+-   Blaize - First AI chip company to IPO in 2025?
 -   d-Matrix
 -   Etched
--   Furiosa
 -   Graphcore
 -   Lightmatter
 -   MatX
