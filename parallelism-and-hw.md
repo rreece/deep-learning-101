@@ -124,6 +124,11 @@ Roofline plots:
 
 -   [Gaudi 2](https://habana.ai/products/gaudi2/)
 
+### Blaize
+
+-   First AI chip startup to go public, in 2025 via SPAC
+-   Blaize. (2025). [S-1 filing with the SEC](https://ir.blaize.com/sec-filings/sec-filing/s-1/0001193125-25-008689). 2025/01/21.
+
 ### Cerebras
 
 -   Cerebras. (2020). [Fast stencil-code computation on a wafer-scale processor](https://arxiv.org/abs/2010.03660).
@@ -162,7 +167,6 @@ Roofline plots:
 
 Others:
 
--   Blaize - First AI chip company to IPO in 2025?
 -   d-Matrix
 -   Etched
 -   Graphcore
