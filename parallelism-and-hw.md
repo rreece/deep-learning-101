@@ -170,6 +170,7 @@ Others:
 -   d-Matrix
 -   Etched
 -   Graphcore
+    -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
 -   Lightmatter
 -   MatX
 -   Taalas
