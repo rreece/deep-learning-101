@@ -102,6 +102,9 @@ Roofline plots:
 -   Harris, M. (2017). Nvidia blog: [An Even Easier Introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/).
 -   Boehm, S. (2022). [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM).
 -   [github.com/ANSANJAY/KernelDev101](https://github.com/ANSANJAY/KernelDev101)
+-   [github.com/cupy/cupy](https://github.com/cupy/cupy)
+-   [github.com/NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python)
+-   [github.com/NVIDIA/nvmath-python](https://github.com/NVIDIA/nvmath-python)
 
 ### AMD: ROCm
 
