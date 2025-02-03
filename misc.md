@@ -38,6 +38,7 @@
     -   Wang, Y. (2024). [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574).
 -   [artificialanalysis.ai](https://artificialanalysis.ai)
 -   [Chatbot Arena LLM Leaderboard](https://lmarena.ai)
+-   Phan, L. et al. (2025). [Humanity's Last Exam](https://arxiv.org/abs/2501.14249).
 
 
 ## Speech to text
