@@ -11,7 +11,8 @@
 5.  [Efficient transformers: Architecture modifications](#efficient-transformers-architecture-modifications)
 6.  [Kernel programming](#kernel-programming)
 7.  [Accelerators](#accelerators)
-8.  [Conclusion](#conclusion)
+8.  [Scaling](#scaling)
+9.  [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -179,6 +180,10 @@ Others:
 -   Taalas
 -   Untether AI
 
+
+## Scaling
+
+-   Tazi, N. et al. (2025). [The ultra-scale playbook: Training LLMs on GPU clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook).
 
 ## Conclusion
 
