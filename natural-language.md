@@ -262,25 +262,37 @@ See also:
 
 -   Scaling test-time compute
 -   OpenAI
-    -   [o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf)
-    -   [o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf)
+    -   [o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf) (2024)
+    -   [o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf) (2025)
 -   DeepSeek
-    -   [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948)
+    -   [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948) (2025)
 -   Stanford
-    -   [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+    -   [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (2025)
 
 
 ## Conclusion
 
 ![Evolutionary tree of LLMs (source: [2304.13712](https://arxiv.org/abs/2304.13712)).](img/evolutionary-tree-of-LLMs.png)
 
+
+### Surveys
+
+2023
+
 -   Yang, J. et al. (2023). [Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond](https://arxiv.org/abs/2304.13712).
 -   Raschka, S. (2023). [Understanding large language models](https://magazine.sebastianraschka.com/p/understanding-large-language-models).
 -   Mohamadi, S. et al. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1).
 -   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223).
--   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746).
--   [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 -   Bowman, S.R. (2023). [Eight things to know about large language models](https://arxiv.org/abs/2304.00612).
+
+2024
+
+-   [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+
+
+### Misc
+
+-   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746).
 
 
 --------
