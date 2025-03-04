@@ -11,7 +11,9 @@
 6.  [BERT](#bert)
 7.  [T5](#t5)
 8.  [GPT](#gpt)
-9.  [Conclusion](#conclusion)
+9.  [What comes after transformer?](#what-comes-after-transformer)
+10.  [Reasoning models](#reasoning-models)
+11.  [Conclusion](#conclusion)
 
 
 ## Tokenization
@@ -253,6 +255,15 @@ See also:
 -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444).
 -   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
 -   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060).
+
+
+## Reasoning models
+
+-    Scaling test-time compute
+-    o1
+-    r1
+-    s1
+-    TODO
 
 
 ## Conclusion
