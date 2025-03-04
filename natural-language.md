@@ -222,18 +222,20 @@ See also:
 -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
 -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
 -   Nvidia. (2024). [Nemotron-4 340B Technical Report](https://arxiv.org/abs/2406.11704).
--   Decoder-only models like GPT:
-    -   Falcon (TII, open)
-    -   Llama (Meta, open)
-        -   Meta. (2024). [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/).
-        -   Dubey, A. et al. (2024). [The Llama 3 herd of models](https://arxiv.org/abs/2407.21783).
-        -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
-        -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
-        -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
-    -   GPT-4 (OpenAI, closed)
-    -   Chinchilla (DeepMind, closed)
-    -   Gemini (Google, closed)
-    -   Claude (Anthropic, closed)
+
+Decoder-only models like GPT:
+
+-   Falcon (TII, open)
+-   Llama (Meta, open)
+    -   Meta. (2024). [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/).
+    -   Dubey, A. et al. (2024). [The Llama 3 herd of models](https://arxiv.org/abs/2407.21783).
+    -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
+    -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
+    -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
+-   GPT-4 (OpenAI, closed)
+-   Chinchilla (DeepMind, closed)
+-   Gemini (Google, closed)
+-   Claude (Anthropic, closed)
 
 
 ## What comes after transformer?
