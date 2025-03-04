@@ -214,6 +214,7 @@ See also:
         -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
     -   GPT-4 (OpenAI, closed)
     -   Chinchilla (DeepMind, closed)
+    -   Gemini (Google, closed)
     -   Claude (Anthropic, closed)
 -   Instruction finetuning
 -   Reinforcement Learning from Human Feedback (RLHF)
