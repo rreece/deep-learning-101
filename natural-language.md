@@ -259,11 +259,14 @@ See also:
 
 ## Reasoning models
 
--    Scaling test-time compute
--    o1
--    r1
--    s1
--    TODO
+-   Scaling test-time compute
+-   OpenAI
+    -   [o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf)
+    -   [o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf)
+-   DeepSeek
+    -   [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948)
+-   Stanford
+    -   [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 
 
 ## Conclusion
