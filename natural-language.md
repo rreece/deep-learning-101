@@ -264,12 +264,12 @@ Decoder-only models like GPT:
 
 -   Scaling test-time compute
 -   OpenAI
-    -   [o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf) (2024)
-    -   [o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf) (2025)
+    -   OpenAI. (2024). [OpenAI o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf).
+    -   OpenAI. (2025). [OpenAI o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf).
 -   DeepSeek
-    -   [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948) (2025)
+    -   DeepSeek. (2025). [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948).
 -   Stanford
-    -   [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (2025)
+    -   Muennighoff, N. et al. (2025). [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393).
 
 
 ## Conclusion
