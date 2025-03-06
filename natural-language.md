@@ -279,6 +279,10 @@ Decoder-only models like GPT:
 
 ### Surveys
 
+2022
+
+-   Bommasani, R. et al. (2022). [On the opportunities and risks of foundation models](https://arxiv.org/abs/2108.07258).
+
 2023
 
 -   Yang, J. et al. (2023). [Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond](https://arxiv.org/abs/2304.13712).
