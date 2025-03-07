@@ -274,5 +274,5 @@ Online courses:
 --------
 
 -   Up next: [Computer vision](computer-vision.md)
-
+-   Previous: [Contents](README.md)
 
