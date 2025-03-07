@@ -120,24 +120,34 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 ### Nvidia
 
+Products: H100 and B100-based systems (DGX)
+
 -   Volkov, V. (2016). [*Understanding Latency Hiding on GPUs*](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf). (PhD thesis)
 -   Dettmers, T. (2023). [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/).
 -   Nvidia. (2023). [GPU performance background user's guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html).
 
 ### Amazon
 
+Products: TODO
+
 -    [AWS Inferentia](https://aws.amazon.com/ai/machine-learning/inferentia/)
 -    Zheng, H. et al. (2020). [Optimizing memory-access patterns for deep learning accelerators](https://arxiv.org/pdf/2002.12798).
 
 ### AMD
 
+Products: TODO
+
 -   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX
 
 ### Intel (Habana)
 
+Products: Gaudi 2
+
 -   [Gaudi 2](https://habana.ai/products/gaudi2/)
 
 ### Meta
+
+Products: MTIA v2
 
 -   [Meta Training and Inference Accelerator (MTIA)](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 
@@ -146,10 +156,14 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 ### Blaize
 
+Products: TODO
+
 -   First AI chip startup to go public, in 2025 via SPAC
 -   Blaize. (2025). [S-1 filing with the SEC](https://ir.blaize.com/sec-filings/sec-filing/s-1/0001193125-25-008689). 2025/01/21.
 
 ### Cerebras
+
+Products: CS-3
 
 -   Cerebras. (2020). [Fast stencil-code computation on a wafer-scale processor](https://arxiv.org/abs/2010.03660).
 -   Cerebras. (2021). [The path to successful wafer-scale integration: The cerebras story](https://8968533.fs1.hubspotusercontent-na1.net/hubfs/8968533/IEEE%20Micro%202021-11%20Path%20to%20Wafer-Scale%20Integration.pdf).
@@ -161,16 +175,22 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 ### d-Matrix
 
+Products: Corsair
+
 -   d-Matrix. (2023). [d-Matrix Total Cost of Ownership White Paper](https://www.d-matrix.ai/wp-content/uploads/2023/09/d-Matrix-WhitePaper-Approved-w-cover.pdf).
 -   d-Matrix. (2024). [d-Matrix Corsair redefines performance and efficiency for AI inference at scale](https://www.d-matrix.ai/wp-content/uploads/2024/11/d-Matrix-WhitePaper-Technical-FINAL.pdf).
 -   EETimes. (2025). [d-Matrix targets fast LLM inference for 'real world scenarios’](https://www.eetimes.com/d-matrix-targets-fast-llm-inference-for-real-world-scenarios/). 2025/01/13.
 
 ### Furiosa
 
+Products: TODO
+
 -   Furiosa. (2024). [TCP: A Tensor Contraction Processor for AI workloads industrial product](https://ieeexplore.ieee.org/document/10609575).
 -   Forbes. (2025). [Meta in talks to buy Korean AI chip startup founded by Samsung engineer](https://www.forbes.com/sites/johnkang/2025/02/11/meta-in-talks-to-buy-korean-ai-chip-startup-founded-by-samsung-engineer/). 2025/02/11.
 
 ### Groq
+
+Products: TODO
 
 -   Groq. (2020). [Think Fast: A Tensor Streaming Processor (TSP) for accelerating deep learning workloads](https://groq.com/wp-content/uploads/2020/06/ISCA-TSP.pdf).
 -   Linley Group. (2020). [Groq rocks neural networks](https://groq.com/wp-content/uploads/2023/05/GROQ-ROCKS-NEURAL-NETWORKS.pdf).
@@ -179,14 +199,20 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 ### Rebellions
 
+Products: TODO
+
 -   Rebellions. (2024). [ATOM Architecture: Finding the Sweet Spot for GenAI](https://rebellions.ai/wp-content/uploads/2024/07/ATOMgenAI_white-paper.pdf).
 
 ### SambaNova
+
+Products: SN40L-based systems
 
 -   SambaNova. (2024). [SambaNova SN40L: Scaling the AI memory wall with dataflow and composition of experts](https://arxiv.org/abs/2405.07518).
 -   SambaNova. (2024). [Why SambaNova's SN40L chip is the best for inference](https://sambanova.ai/blog/sn40l-chip-best-inference-solution).
 
 ### Tenstorrent
+
+Products: n150 and n300-based systems
 
 -   Tenstorrent. (2024). [Onepager with Wormhole and Grayskull](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
 -   Tenstorrent. (2024). [Wormhole Tensix Processor](https://cdn.sanity.io/files/jpb4ed5r/production/7c465635048500a3399800ab432f2e32d89d73a2.pdf).
