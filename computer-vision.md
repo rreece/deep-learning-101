@@ -83,6 +83,8 @@ An example of image segmentation with UNet:
 
 TODO
 
+![Llama in cloud I made with [stablediffusionweb.com](https://stablediffusionweb.com).](img/llama-in-cloud.jpg)
+
 
 ## Conclusion
 

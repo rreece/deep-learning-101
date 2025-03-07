@@ -13,7 +13,7 @@
 7.  [Accelerators - Big Tech](#accelerators---big-tech)
 8.  [Accelerators - Startups](#accelerators---startups)
 9.  [Scaling](#scaling)
-10.  [Conclusion](#conclusion)
+10. [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -43,8 +43,8 @@ Roofline plots:
 -   Chng, P. (2024). [The naive roofline model in performance modeling](https://peterchng.com/blog/2024/08/29/the-naive-roofline-model-in-performance-modeling/).
 -   Kao, S.C. et al. (2022). FRAME: Fast Roofline Analytical Modeling and Estimation. https://github.com/maestro-project/frame
 -   Yuan, Z. et al. (2024). LLM inference unveiled: Survey and roofline model insights. https://arxiv.org/abs/2402.16363
-    -   https://github.com/hahnyuan/LLM-Viewer
-    -   http://llm-viewer.com/
+    -   <https://github.com/hahnyuan/LLM-Viewer>
+    -   <http://llm-viewer.com>
 
 
 ## Model parallelism
@@ -138,6 +138,7 @@ Roofline plots:
 
 -   [Meta Training and Inference Accelerator (MTIA)](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
 
+
 ## Accelerators - Startups
 
 ### Blaize
@@ -197,6 +198,7 @@ Others:
 ## Scaling
 
 -   Tazi, N. et al. (2025). [The ultra-scale playbook: Training LLMs on GPU clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook).
+
 
 ## Conclusion
 
