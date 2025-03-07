@@ -124,7 +124,7 @@ Roofline plots:
 ### Amazon
 
 -    [AWS Inferentia](https://aws.amazon.com/ai/machine-learning/inferentia/)
--    Zheng, H. et al. (2020). [Optimizing Memory-Access Patterns for Deep Learning Accelerators](https://arxiv.org/pdf/2002.12798).
+-    Zheng, H. et al. (2020). [Optimizing memory-access patterns for deep learning accelerators](https://arxiv.org/pdf/2002.12798).
 
 ### AMD
 
