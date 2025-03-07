@@ -265,7 +265,10 @@ Decoder-only models like GPT:
     -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842).
     -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444).
 -   Scaling test-time compute
-    -   See talks and work by Noam Brown.
+    -   See talks and work by Noam Brown in poker and other games.
+
+Models:
+
 -   o3 (OpenAI, closed)
     -   OpenAI. (2024). [OpenAI o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf).
     -   OpenAI. (2025). [OpenAI o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf).
