@@ -156,7 +156,14 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Cerebras. (2022). [Wafer-scale fast fourier transforms](https://arxiv.org/abs/2209.15040).
 -   Cerebras. (2023). [Cerebras architecture deep dive: First look inside the hardware/software co-design for deep learning](https://8968533.fs1.hubspotusercontent-na1.net/hubfs/8968533/IEEE%20Micro%202023-03%20Hot%20Chips%2034%20Cerebras%20Architecture%20Deep%20Dive.pdf).
 -   Cerebras. (2023). [Training giant neural networks using weight streaming on cerebras wafer-scale systems](https://8968533.fs1.hubspotusercontent-na1.net/hubfs/8968533/Virtual%20Booth%20Docs/CS%20Weight%20Streaming%20White%20Paper.pdf).
+-   Santos, K. et al. (2024). [Breaking the molecular dynamics timescale barrier using a wafer-scale system](https://arxiv.org/pdf/2405.07898).
 -   Cerebras. (2024). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2024/09/30.
+
+### d-Matrix
+
+-   d-Matrix. (2023). [d-Matrix Total Cost of Ownership White Paper](https://www.d-matrix.ai/wp-content/uploads/2023/09/d-Matrix-WhitePaper-Approved-w-cover.pdf).
+-   d-Matrix. (2024). [d-Matrix Corsair redefines performance and efficiency for AI inference at scale](https://www.d-matrix.ai/wp-content/uploads/2024/11/d-Matrix-WhitePaper-Technical-FINAL.pdf).
+-   EETimes. (2025). [d-Matrix targets fast LLM inference for 'real world scenarios’](https://www.eetimes.com/d-matrix-targets-fast-llm-inference-for-real-world-scenarios/). 2025/01/13.
 
 ### Furiosa
 
@@ -188,7 +195,6 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 Others:
 
--   d-Matrix
 -   Etched
 -   Graphcore
     -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
