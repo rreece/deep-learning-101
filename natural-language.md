@@ -101,8 +101,8 @@ See also:
     -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 -   seq2seq
     -   Sutskever, I., Vinyals, O., & Le, Q. V. (2014). [Sequence to sequence learning with neural networks](https://arxiv.org/abs/1409.3215).
-    -   *Watershed moment in NLP with deep learning*
     -   First very successful encoder-decoder based model
+    -   *Watershed moment in NLP with deep learning*
 -   Bahdanau "attention"
     -   Bahdanau, D., Cho, K., & Bengio, Y. (2015). [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473).
 -   Google Neural Machine Translation (GNMT)
@@ -249,7 +249,6 @@ Decoder-only models like GPT:
 -   Raffel, C. (2023). [A new alchemy: Language model development as a subfield?](https://colinraffel.com/blog/language-model-development-as-a-new-subfield.html).
 -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062).
 -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625).
--   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842).
 -   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048).
 -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621).
 -   Gu, A. & Dao, T. (2023). [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752).
@@ -263,6 +262,8 @@ Decoder-only models like GPT:
 
 ## Reasoning models
 
+-   Augmented language models
+    -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842).
 -   Scaling test-time compute
 -   OpenAI
     -   OpenAI. (2024). [OpenAI o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf).
