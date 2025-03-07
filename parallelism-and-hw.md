@@ -139,6 +139,12 @@ Products: TODO
 
 -   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX
 
+### Apple
+
+Products: M4
+
+-   TODO
+
 ### Intel (Habana)
 
 Products: Gaudi 2
