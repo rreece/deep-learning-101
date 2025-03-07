@@ -66,6 +66,9 @@ Roofline plots:
 -   Ouyang, A. (2023). [*Understanding the Performance of Transformer*](https://dspace.mit.edu/handle/1721.1/151543). (MS thesis)
 -   Casson, A. (2023). [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops).
 
+```
+FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model * d_ff] + d_model * vocab_size
+```
 
 ## Efficient transformers: Inference optimizations
 
