@@ -300,6 +300,7 @@ Models:
 2024
 
 -   [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+-   Willison, S. (2024). [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/).
 
 
 ### Misc
