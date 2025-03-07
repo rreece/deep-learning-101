@@ -10,9 +10,10 @@
 5.  [Efficient transformers: Inference optimizations](#efficient-transformers-inference-optimizations)
 5.  [Efficient transformers: Architecture modifications](#efficient-transformers-architecture-modifications)
 6.  [Kernel programming](#kernel-programming)
-7.  [Accelerators](#accelerators)
-8.  [Scaling](#scaling)
-9.  [Conclusion](#conclusion)
+7.  [Accelerators - Big Tech](#accelerators---big-tech)
+8.  [Accelerators - Startups](#accelerators---startups)
+9.  [Scaling](#scaling)
+10.  [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -112,13 +113,18 @@ Roofline plots:
 -   [ROCm Documentation](https://rocm.docs.amd.com/en/latest/)
 
 
-## Accelerators
+## Accelerators - Big Tech
 
 ### Nvidia
 
 -   Volkov, V. (2016). [*Understanding Latency Hiding on GPUs*](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf). (PhD thesis)
 -   Dettmers, T. (2023). [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/).
 -   Nvidia. (2023). [GPU performance background user's guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html).
+
+### Amazon
+
+-    [AWS Inferentia](https://aws.amazon.com/ai/machine-learning/inferentia/)
+-    Zheng, H. et al. (2020). [Optimizing Memory-Access Paerns for Deep Learning Accelerators](https://arxiv.org/pdf/2002.12798).
 
 ### AMD
 
@@ -127,6 +133,12 @@ Roofline plots:
 ### Intel (Habana)
 
 -   [Gaudi 2](https://habana.ai/products/gaudi2/)
+
+### Meta
+
+-   [Meta Training and Inference Accelerator (MTIA)](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
+
+## Accelerators - Startups
 
 ### Blaize
 
