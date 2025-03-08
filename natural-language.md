@@ -226,6 +226,13 @@ See also:
 
 ### Decoder-only models like GPT
 
+Closed source:
+
+-   GPT-4 (OpenAI)
+-   Chinchilla (DeepMind)
+-   Gemini (Google)
+-   Claude (Anthropic)
+
 Open source:
 
 -   Falcon (TII)
@@ -236,13 +243,6 @@ Open source:
     -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
     -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
 -   Qwen (Alibaba)
-
-Closed source:
-
--   GPT-4 (OpenAI)
--   Chinchilla (DeepMind)
--   Gemini (Google)
--   Claude (Anthropic)
 
 
 ## What comes after transformer?
@@ -273,16 +273,19 @@ Closed source:
 -   Scaling test-time compute
     -   See talks and work by Noam Brown in poker and other games.
 
-Models:
+Closed source:
 
--   o3 (OpenAI, closed)
+-   o3 (OpenAI)
     -   OpenAI. (2024). [OpenAI o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf).
     -   OpenAI. (2025). [OpenAI o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf).
--   R1 (DeepSeek, open)
+
+Open source:
+
+-   R1 (DeepSeek)
     -   DeepSeek. (2025). [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948).
--   s1 (Stanford, open)
+-   s1 (Stanford)
     -   Muennighoff, N. et al. (2025). [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393).
--   QwQ-32B (Alibaba, open)
+-   QwQ-32B (Alibaba)
 
 
 ## Conclusion
