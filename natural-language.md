@@ -233,6 +233,7 @@ Decoder-only models like GPT:
     -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
     -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
     -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
+-   Qwen (Alibaba, open)
 -   GPT-4 (OpenAI, closed)
 -   Chinchilla (DeepMind, closed)
 -   Gemini (Google, closed)
@@ -276,6 +277,7 @@ Models:
     -   DeepSeek. (2025). [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948).
 -   s1 (Stanford, open)
     -   Muennighoff, N. et al. (2025). [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393).
+-   QwQ-32B (Alibaba, open)
 
 
 ## Conclusion
