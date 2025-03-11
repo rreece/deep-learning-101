@@ -275,6 +275,8 @@ Research:
 
 ### Rebellions
 
+-   Sunghyun Park, CEO
+
 Products: TODO
 
 Whitepapers:
@@ -284,6 +286,8 @@ Whitepapers:
 TODO: Media, Research
 
 ### SambaNova
+
+-   Rodrigo Liang, CEO
 
 Products: SN40L-based systems
 
@@ -295,6 +299,8 @@ Whitepapers:
 TODO: Media, Research
 
 ### Tenstorrent
+
+-   Jim Keller, CEO
 
 Products: n150 and n300-based systems
 
@@ -313,6 +319,7 @@ Research:
 ### Others
 
 -   Etched
+    -   Gavin Uberti, CEO
 -   Graphcore
     -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
 -   Lightmatter
