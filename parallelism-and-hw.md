@@ -188,7 +188,7 @@ TODO: Media, Research
 
 ### Blaize
 
--   Dinakar Munagala, CEO
+-   Dinakar Munagala (CEO)
 -   First AI chip startup to go public, in 2025 via SPAC
 
 Products: TODO       
@@ -202,7 +202,7 @@ Research: TODO
 
 ### Cerebras
 
--   Andrew Feldman, CEO
+-   Andrew Feldman (CEO)
 
 Products: CS-3
 
@@ -224,7 +224,7 @@ Research:
 
 ### d-Matrix
 
--    Sid Sheth, CEO
+-    Sid Sheth (CEO)
 
 Products: Corsair
 
@@ -241,7 +241,7 @@ Research: TODO
 
 ### Furiosa
 
--   June Paik, CEO
+-   June Paik (CEO)
 
 Products: TODO
 
@@ -257,7 +257,7 @@ Research: TODO
 
 ### Groq
 
--   Jonathan Ross, CEO
+-   Jonathan Ross (CEO)
 
 Products: TODO
 
@@ -276,7 +276,7 @@ Research:
 
 ### Rebellions
 
--   Sunghyun Park, CEO
+-   Sunghyun Park (CEO)
 
 Products: TODO
 
@@ -288,7 +288,7 @@ TODO: Media, Research
 
 ### SambaNova
 
--   Rodrigo Liang, CEO
+-   Rodrigo Liang (CEO)
 
 Products: SN40L-based systems
 
@@ -301,7 +301,7 @@ TODO: Media, Research
 
 ### Tenstorrent
 
--   Jim Keller, CEO
+-   Jim Keller (CEO)
 
 Products: n150 and n300-based systems
 
@@ -320,15 +320,19 @@ Research:
 ### Others
 
 -   Etched
-    -   Gavin Uberti, CEO
+    -   Gavin Uberti (CEO)
 -   Graphcore
+-   Nigel Toon, CEO
     -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
 -   Lightmatter
+    -   Nick Harris (CEO)
+    -   Photonics
 -   MatX
-    -   Reiner Pope, CEO
+    -   Reiner Pope (CEO)
 -   Taalas
-    -   Ljubisa Bajic, CEO & Lejla Bajic, COO
+    -   Ljubisa Bajic (CEO) & Lejla Bajic (COO)
 -   Untether AI
+    -   Chris Walker (CEO)
 
 
 ## Scaling
