@@ -201,6 +201,8 @@ Research: TODO
 
 ### Cerebras
 
+-   Andrew Feldman, CEO
+
 Products: CS-3
 
 Whitepapers:
@@ -221,6 +223,8 @@ Research:
 
 ### d-Matrix
 
+-    Sid Sheth, CEO
+
 Products: Corsair
 
 Whitepapers:
@@ -236,6 +240,8 @@ Research: TODO
 
 ### Furiosa
 
+-   June Paik, CEO
+
 Products: TODO
 
 Whitepapers:
@@ -249,6 +255,8 @@ Media:
 Research: TODO
 
 ### Groq
+
+-   Jonathan Ross, CEO
 
 Products: TODO
 
@@ -309,7 +317,9 @@ Research:
     -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
 -   Lightmatter
 -   MatX
+    -   Reiner Pope, CEO
 -   Taalas
+    -   Ljubisa Bajic, CEO & Lejla Bajic, COO
 -   Untether AI
 
 
