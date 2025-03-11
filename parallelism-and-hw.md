@@ -188,6 +188,7 @@ TODO: Media, Research
 
 ### Blaize
 
+-   Dinakar Munagala, CEO
 -   First AI chip startup to go public, in 2025 via SPAC
 
 Products: TODO       
