@@ -235,7 +235,7 @@ Whitepapers:
 
 Media:
 
--   Forbes. (2024). [d-matrix-emerges-from-stealth-with-strong-ai-performance-and-efficiency](https://www.forbes.com/sites/karlfreund/2024/11/19/d-matrix-emerges-from-stealth-with-strong-ai-performance--efficiency/).
+-   Forbes. (2024). [d-matrix-emerges-from-stealth-with-strong-ai-performance-and-efficiency](https://www.forbes.com/sites/karlfreund/2024/11/19/d-matrix-emerges-from-stealth-with-strong-ai-performance--efficiency/). 2024/11/19.
 -   EETimes. (2025). [d-Matrix targets fast LLM inference for 'real world scenarios’](https://www.eetimes.com/d-matrix-targets-fast-llm-inference-for-real-world-scenarios/). 2025/01/13.
 
 Research: TODO
