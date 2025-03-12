@@ -233,6 +233,7 @@ Research:
 ### d-Matrix
 
 -    Sid Sheth (CEO)
+-   Digital Processing-in-Memory (PIM)
 
 Products: Corsair
 
@@ -244,6 +245,7 @@ Whitepapers:
 Media:
 
 -   Forbes. (2024). [d-Matrix-emerges-from-stealth-with-strong-ai-performance-and-efficiency](https://www.forbes.com/sites/karlfreund/2024/11/19/d-matrix-emerges-from-stealth-with-strong-ai-performance--efficiency/). 2024/11/19.
+-   Belateche, Z. (2024). [Most AI chips aren’t cost-effective](https://www.zach.be/p/most-ai-chips-arent-cost-effective). 2024/11/26.
 -   EETimes. (2025). [d-Matrix targets fast LLM inference for 'real world scenarios’](https://www.eetimes.com/d-matrix-targets-fast-llm-inference-for-real-world-scenarios/). 2025/01/13.
 
 Research: TODO
