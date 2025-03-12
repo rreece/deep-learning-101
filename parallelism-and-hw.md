@@ -235,7 +235,7 @@ Products: Corsair
 
 Whitepapers:
 
--   d-Matrix. (2023). [d-Matrix Total Cost of Ownership White Paper](https://www.d-matrix.ai/wp-content/uploads/2023/09/d-Matrix-WhitePaper-Approved-w-cover.pdf).
+-   d-Matrix. (2023). [d-Matrix total cost of ownership white paper](https://www.d-matrix.ai/wp-content/uploads/2023/09/d-Matrix-WhitePaper-Approved-w-cover.pdf).
 -   d-Matrix. (2024). [d-Matrix Corsair redefines performance and efficiency for AI inference at scale](https://www.d-matrix.ai/wp-content/uploads/2024/11/d-Matrix-WhitePaper-Technical-FINAL.pdf).
 
 Media:
