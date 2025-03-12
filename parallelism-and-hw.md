@@ -158,7 +158,7 @@ Research:
 
 Products: TODO
 
--   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX
+-   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX (2024)
 
 TODO: Whitepapers, Media, Research
 
