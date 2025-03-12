@@ -47,6 +47,8 @@ Roofline plots:
     -   <https://github.com/hahnyuan/LLM-Viewer>
     -   <http://llm-viewer.com>
 
+![Example of a Roofline plot from Databricks. source: https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices](img/databricks-roofline.png)
+
 
 ## Model parallelism
 
