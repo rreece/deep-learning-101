@@ -70,6 +70,7 @@ Roofline plots:
 FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model * d_ff] + d_model * vocab_size
 ```
 
+
 ## Efficient transformers: Inference optimizations
 
 -   Dao, T., Fu, D.Y., Ermon, S., Rudra, A., & Ré, C. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135).
@@ -191,8 +192,11 @@ TODO: Media, Research
 -   Dinakar Munagala (CEO)
 -   First AI chip startup to go public, on 2025/01/14 via SPAC, NASDAQ:BZAI
 
-Products: TODO       
-Whitepapers: TODO
+Products: Xplorer and Pathfinder
+
+Whitepapers:
+
+-    [Blaize AI edge computing products](https://www.blaize.com/products/ai-edge-computing-platforms/)
 
 Media:
 
@@ -323,7 +327,7 @@ Research:
 -   Etched
     -   Gavin Uberti (CEO)
 -   Graphcore
--   Nigel Toon, CEO
+    -   Nigel Toon, CEO
     -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
 -   Lightmatter
     -   Nick Harris (CEO)
