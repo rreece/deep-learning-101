@@ -207,6 +207,7 @@ Research: TODO
 ### Cerebras
 
 -   Andrew Feldman (CEO)
+-   Wafe-scale; All-SRAM approach
 
 Products: CS-3
 
@@ -263,6 +264,7 @@ Research: TODO
 ### Groq
 
 -   Jonathan Ross (CEO)
+-   All-SRAM approach
 
 Products: TODO
 
