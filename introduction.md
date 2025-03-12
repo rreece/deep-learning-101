@@ -270,6 +270,7 @@ Online courses:
 -   Microsoft. (2023). [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners).
 -   PyTorch. (2024). [Official PyTorch Documentary: Powering the AI Revolution](https://www.youtube.com/watch?v=rgP_LBtaUEc).
 -   Ustyuzhanin, A. (2020). [Deep Learning 101](https://indico.cern.ch/event/882244/sessions/348901/attachments/2045473/3426793/day3_deep-learning-101.pdf).
+-   [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI).
 
 --------
 
