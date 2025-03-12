@@ -222,7 +222,10 @@ Whitepapers:
 
 Media:
 
+-   Ray, T. (2024). [AI startup Cerebras debuts 'world's fastest inference' service - with a twist](https://www.zdnet.com/article/ai-startup-cerebras-debuts-worlds-fastest-inference-with-a-twist/). 2024/8/27.
 -   Cerebras. (2024). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2024/09/30.
+-   Turck, M. (2024). [Quick S-1 teardown: Cerebras](https://mattturck.com/cerebras/). 2024/10/1.
+-   Wilhelm, A. (2024). [Inside AI chip startup Cerebras's S-1 filing](https://www.cautiousoptimism.news/p/inside-ai-chip-startup-cerebrass). 2024/10/1.
 
 Research:
 
