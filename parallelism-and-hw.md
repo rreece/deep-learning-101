@@ -42,6 +42,7 @@ Roofline plots:
 -   Chen, L. (2023). [Dissecting batching effects in GPT inference](https://le.qun.ch/en/blog/2023/05/13/transformer-batching/).
 -   Chng, P. (2024). [The naive roofline model in performance modeling](https://peterchng.com/blog/2024/08/29/the-naive-roofline-model-in-performance-modeling/).
 -   Kao, S.C. et al. (2022). FRAME: Fast Roofline Analytical Modeling and Estimation. https://github.com/maestro-project/frame
+-   Databricks. (2023). [LLM inference performance engineering: best practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices).
 -   Yuan, Z. et al. (2024). LLM inference unveiled: Survey and roofline model insights. https://arxiv.org/abs/2402.16363
     -   <https://github.com/hahnyuan/LLM-Viewer>
     -   <http://llm-viewer.com>
