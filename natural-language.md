@@ -243,6 +243,8 @@ Open source:
     -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
     -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
 -   Qwen (Alibaba)
+-   Gemma (Google)
+    -   [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/).
 
 
 ## What comes after transformer?
