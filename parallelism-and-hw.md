@@ -210,7 +210,7 @@ Research: TODO
 ### Cerebras
 
 -   Andrew Feldman (CEO)
--   Wafe-scale; All-SRAM approach
+-   Wafer-scale; All-SRAM approach
 
 Products: CS-3
 
