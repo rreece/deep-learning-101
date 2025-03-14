@@ -236,7 +236,7 @@ Discussion:
 -   [MLU-explain: Bias-variance tradeoff](https://mlu-explain.github.io/bias-variance/)
 -   [MLU-explain: Double descent 1](https://mlu-explain.github.io/double-descent/)
 -   [MLU-explain: Double descent 2](https://mlu-explain.github.io/double-descent2/)
--   Wilson, A.G. (2025). [Deep learning is not So mysterious or different](https://arxiv.org/abs/2503.02113).
+-   Wilson, A.G. (2025). [Deep learning is not so mysterious or different](https://arxiv.org/abs/2503.02113).
 
 
 ## Conclusion
