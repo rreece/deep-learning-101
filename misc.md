@@ -5,11 +5,12 @@
 
 1.  [Datasets](#datasets)
 2.  [Evaluation methods](#evaluation-methods)
-3.  [Speech to text](#speech-to-text)
-4.  [Multimodal models](#multimodal-models)
-5.  [LoRA](#lora)
-6.  [RAG](#rag)
-7.  [More](#more)
+3.  [Normalization](#normalization)
+4.  [Speech to text](#speech-to-text)
+5.  [Multimodal models](#multimodal-models)
+6.  [LoRA](#lora)
+7.  [RAG](#rag)
+8.  [More](#more)
 
 
 ## Datasets
@@ -39,6 +40,14 @@
 -   [artificialanalysis.ai](https://artificialanalysis.ai)
 -   [Chatbot Arena LLM Leaderboard](https://lmarena.ai)
 -   Phan, L. et al. (2025). [Humanity's Last Exam](https://arxiv.org/abs/2501.14249).
+
+
+## Normalization
+
+-   BatchNorm
+-   LayerNorm, GroupNorm
+-   OnlineNorm
+-   Zhu, J. et al. (2025). [Transformers without normalization](https://arxiv.org/abs/2503.10633).
 
 
 ## Speech to text
