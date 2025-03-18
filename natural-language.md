@@ -178,8 +178,9 @@ See also:
 -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467).
 -   Xiong, R. et al. (2020). [On layer normalization in the transformer architecture](https://arxiv.org/abs/2002.04745).
 -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238).
--   Tutorial video by Andrej Karpathy: [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU).
+-   Karpathy, A. (2024). Video: [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU).
     -   [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt)
+-   [karpathy/LLM101n](https://github.com/karpathy/LLM101n)
 
 ## BERT
 
