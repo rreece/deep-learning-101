@@ -126,7 +126,8 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 Products: 
 
--    H100 and B100-based systems (DGX)
+-    ..., A100, H100, B100, GB200-based systems (DGX)
+-    GB200 NVL72: 1 rack, 1 exaFLOP, 120 kW
 
 Whitepapers:
 
