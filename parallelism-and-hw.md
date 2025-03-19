@@ -233,6 +233,7 @@ Research:
 -   Cerebras. (2020). [Fast stencil-code computation on a wafer-scale processor](https://arxiv.org/abs/2010.03660).
 -   Cerebras. (2022). [Wafer-scale fast fourier transforms](https://arxiv.org/abs/2209.15040).
 -   Santos, K. et al. (2024). [Breaking the molecular dynamics timescale barrier using a wafer-scale system](https://arxiv.org/pdf/2405.07898).
+-   He, C. et al. (2025). [WaferLLM: A wafer-scale LLM inference system](https://arxiv.org/abs/2502.04563).
 
 ### d-Matrix
 
