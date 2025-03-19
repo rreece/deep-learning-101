@@ -219,15 +219,15 @@ See also:
 -   GPT-2: Radford, A. et al. (2019). [Language models are unsupervised multitask learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 -   GPT-3: Brown, T.B. et al. (2020). [Language models are few-shot learners](https://arxiv.org/abs/2005.14165).
 -   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
--   Kojima, T. et al. (2022). [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916). - chain of thought (CoT) prompting
+-   Kojima, T. et al. (2022). [Large language models are zero-shot reasoners](https://arxiv.org/abs/2205.11916). - chain of thought (CoT) prompting
 -   ChatGPT based on GPT-3 initially released by OpenAI on November 30, 2022
--   GPT-4: OpenAI. (2023). [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf).
+-   GPT-4: OpenAI. (2023). [GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf).
 -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
 -   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
 -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
 -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
--   Nvidia. (2024). [Nemotron-4 340B Technical Report](https://arxiv.org/abs/2406.11704).
+-   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
 
 ### Decoder-only models like GPT
 
@@ -262,7 +262,7 @@ Open source:
 -   Raffel, C. (2023). [A new alchemy: Language model development as a subfield?](https://colinraffel.com/blog/language-model-development-as-a-new-subfield.html).
 -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062).
 -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625).
--   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048).
+-   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the transformer era](https://arxiv.org/abs/2305.13048).
 -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621).
 -   Gu, A. & Dao, T. (2023). [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752).
 -   Wang, H. et al. (2023). [BitNet: Scaling 1-bit transformers for large language models](https://arxiv.org/abs/2310.11453).
@@ -270,12 +270,13 @@ Open source:
 -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801).
 -   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
 -   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060).
+-   Beck, M. et al. (2025). [xLSTM 7B: A recurrent LLM for fast and efficient inference](https://arxiv.org/abs/2503.13427).
 
 
 ## Reasoning models
 
 -   Augmented language models
-    -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842).
+    -   Mialon, G. et al. (2023). [Augmented language models: A survey](https://arxiv.org/abs/2302.07842).
     -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444).
 -   Scaling test-time compute
     -   See talks and work by Noam Brown in poker and other games.
