@@ -229,6 +229,15 @@ See also:
 -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
 -   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
 
+
+### Mixture of Experts (MoE)
+
+-   Jordan, M.I. & Jacobs, R.A. (1994). [Hierarchical mixtures of experts and the EM algorithm](https://doi.org/10.1162/neco.1994.6.2.181).
+-   Bengio, Y., L&eacute;onard, N., & Courville, A. (2013). [Estimating or propagating gradients through stochastic neurons for conditional computation](https://arxiv.org/abs/1308.3432).
+-   Eigen, D., Ranzato, M., & Sutskever, I. (2013). [Learning factored representations in a deep mixture of experts](https://arxiv.org/abs/1312.4314).
+
+
+
 ### Decoder-only models like GPT
 
 Closed source:
