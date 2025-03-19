@@ -341,7 +341,7 @@ Research:
 -   Etched
     -   Gavin Uberti (CEO)
 -   Graphcore
-    -   Nigel Toon, CEO
+    -   Nigel Toon (CEO)
     -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
 -   Lightmatter
     -   Nick Harris (CEO)
