@@ -22,7 +22,7 @@
 -   [FLOPs vs FMACs](https://medium.com/@pashashaik/a-guide-to-hand-calculating-flops-and-macs-fa5221ce5ccc)
 -   [Data parallel vs model parallel vs tensor parallel](https://colossalai.org/docs/concepts/paradigms_of_parallelism/)
 -   SRAM vs DRAM
--   [Amdahl's_law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+-   [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 
 ![Examples of GPU memory usage. source: https://arxiv.org/abs/2403.03507](img/galore-memory-usage.png)
 
