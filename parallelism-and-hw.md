@@ -229,6 +229,7 @@ Media:
 -   Cerebras. (2024). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2024/09/30.
 -   Turck, M. (2024). [Quick S-1 teardown: Cerebras](https://mattturck.com/cerebras/). 2024/10/1.
 -   Wilhelm, A. (2024). [Inside AI chip startup Cerebras's S-1 filing](https://www.cautiousoptimism.news/p/inside-ai-chip-startup-cerebrass). 2024/10/1.
+-   Reuters. (2025). [Cerebras IPO further delayed as US national security review drags on](https://www.reuters.com/technology/cerebras-ipo-further-delayed-us-national-security-review-drags-2025-03-25/). 2025/03/25.
 
 Research:
 
@@ -331,7 +332,9 @@ Whitepapers:
 -   Tenstorrent. (2024). [Onepager with Wormhole and Grayskull](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
 -   Tenstorrent. (2024). [Wormhole Tensix Processor](https://cdn.sanity.io/files/jpb4ed5r/production/7c465635048500a3399800ab432f2e32d89d73a2.pdf).
 
-Media: TODO
+Media:
+
+-   PR Newswire. (2024). [Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners](https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html). 2024/12/02.
 
 Research:
 
