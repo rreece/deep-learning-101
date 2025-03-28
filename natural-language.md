@@ -259,6 +259,8 @@ Open source:
 -   Qwen (Alibaba)
 -   Gemma (Google)
     -   Google. (2025). [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/).
+-   Command A (Cohere)
+    -   Cohere. (2025). [Command A: An enterprise-ready large language model](https://cohere.com/research/papers/command-a-technical-report.pdf).
 
 
 ## What comes after transformer?
