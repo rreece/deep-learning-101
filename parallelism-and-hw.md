@@ -179,7 +179,14 @@ Whitepapers:
 
 -   [Gaudi 2](https://habana.ai/products/gaudi2/)
 
-TODO: Media, Research
+Media:
+
+-   Lam, C. & Cozma, G. (2023). [Intel’s Ponte Vecchio: Chiplets gone crazy](https://chipsandcheese.com/p/intels-ponte-vecchio-chiplets-gone-crazy).
+-   Hotz, G. (2025). [The tragic case of Intel AI](https://geohot.github.io/blog/jekyll/update/2025/03/24/tragic-intel.html).
+
+Research:
+
+-   TODO
 
 ### Meta
 
@@ -330,8 +337,9 @@ Products: n150 and n300-based systems
 Whitepapers:
 
 -   Tenstorrent. (2021). [Compute substrate for software 2.0](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373921).
--   Tenstorrent. (2024). [Onepager with Wormhole and Grayskull](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
--   Tenstorrent. (2024). [Wormhole Tensix Processor](https://cdn.sanity.io/files/jpb4ed5r/production/7c465635048500a3399800ab432f2e32d89d73a2.pdf).
+-   Tenstorrent. (2024). [One-pager: Tensix Processor PCIe Cards](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
+-   Tenstorrent. (2024). [One-pager: Wormhole Tensix Processor](https://cdn.sanity.io/files/jpb4ed5r/production/7c465635048500a3399800ab432f2e32d89d73a2.pdf).
+-   Tenstorrent. (2025). [One-pager: Tenstorrent Galaxy](https://cdn.sanity.io/files/jpb4ed5r/production/b076324de309c1290fbbc033ea7253e54d452f47.pdf).
 
 Media:
 
