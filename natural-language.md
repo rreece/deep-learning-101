@@ -209,9 +209,9 @@ See also:
 
 -   GPT is decoder-only
 -   Causal attention
--   Instruction finetuning
--   Reinforcement Learning from Human Feedback (RLHF)
--   Direct Preference Optimization (DPO)
+
+
+
 
 ![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
 
@@ -219,15 +219,18 @@ See also:
 -   GPT-2: Radford, A. et al. (2019). [Language models are unsupervised multitask learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 -   GPT-3: Brown, T.B. et al. (2020). [Language models are few-shot learners](https://arxiv.org/abs/2005.14165).
 -   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
--   Kojima, T. et al. (2022). [Large language models are zero-shot reasoners](https://arxiv.org/abs/2205.11916). - chain of thought (CoT) prompting
+-   Instruction finetuning
+-   Reinforcement Learning from Human Feedback (RLHF)
 -   ChatGPT based on GPT-3 initially released by OpenAI on November 30, 2022
 -   GPT-4: OpenAI. (2023). [GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf).
--   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
--   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
--   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
--   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
--   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
--   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
+-   Direct Preference Optimization (DPO)
+    -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
+    -   SuperAnnotate. (2024). [Direct preference optimization (DPO): Complete overview](https://www.superannotate.com/blog/direct-preference-optimization-dpo).
+    -   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
+-   Surveys
+    -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
+    -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
+    -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
 
 
 ### Mixture of Experts (MoE)
@@ -256,7 +259,11 @@ Open source:
     -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
     -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
     -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
+-   Nemotron (Nvidia)
+    -   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
 -   Qwen (Alibaba)
+    -   Qwen. (2024). [Qwen2.5 technical report](https://arxiv.org/abs/2412.15115).
+    -   Qwen. (2025). [QwQ-32B: Embracing the power of reinforcement learning](https://qwenlm.github.io/blog/qwq-32b/).
 -   Gemma (Google)
     -   Google. (2025). [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/).
 -   Command A (Cohere)
@@ -286,6 +293,8 @@ Open source:
 
 ## Reasoning models
 
+-   Chain of Thought (CoT) prompting
+    -   Kojima, T. et al. (2022). [Large language models are zero-shot reasoners](https://arxiv.org/abs/2205.11916).
 -   Augmented language models
     -   Mialon, G. et al. (2023). [Augmented language models: A survey](https://arxiv.org/abs/2302.07842).
     -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444).
