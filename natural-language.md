@@ -209,20 +209,18 @@ See also:
 
 -   GPT is decoder-only
 -   Causal attention
-
-
-
-
-![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
-
+-   Self-supervised pretraining
 -   GPT: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). [Improving language understanding by generative pre-training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf).
 -   GPT-2: Radford, A. et al. (2019). [Language models are unsupervised multitask learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 -   GPT-3: Brown, T.B. et al. (2020). [Language models are few-shot learners](https://arxiv.org/abs/2005.14165).
 -   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
--   Instruction finetuning
--   Reinforcement Learning from Human Feedback (RLHF)
+    -   Instruction finetuning
+    -   Reinforcement Learning from Human Feedback (RLHF)
 -   ChatGPT based on GPT-3 initially released by OpenAI on November 30, 2022
 -   GPT-4: OpenAI. (2023). [GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf).
+
+![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
+
 -   Direct Preference Optimization (DPO)
     -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
     -   SuperAnnotate. (2024). [Direct preference optimization (DPO): Complete overview](https://www.superannotate.com/blog/direct-preference-optimization-dpo).
