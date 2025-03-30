@@ -261,7 +261,6 @@ Open source:
     -   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
 -   Qwen (Alibaba)
     -   Qwen. (2024). [Qwen2.5 technical report](https://arxiv.org/abs/2412.15115).
-    -   Qwen. (2025). [QwQ-32B: Embracing the power of reinforcement learning](https://qwenlm.github.io/blog/qwq-32b/).
 -   Gemma (Google)
     -   Google. (2025). [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/).
 -   Command A (Cohere)
@@ -312,6 +311,7 @@ Open source:
 -   s1 (Stanford)
     -   Muennighoff, N. et al. (2025). [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393).
 -   QwQ-32B (Alibaba)
+    -   Qwen. (2025). [QwQ-32B: Embracing the power of reinforcement learning](https://qwenlm.github.io/blog/qwq-32b/).
 
 
 ## Conclusion
