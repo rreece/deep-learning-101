@@ -159,9 +159,10 @@ Research:
 
 ### AMD
 
-Products: TODO
+Products:
 
--   [tinybox](https://tinygrad.org/#tinybox), red uses 6x 7900XTX (2024)
+-   MI300X
+-   [tinybox red](https://tinygrad.org/#tinybox) uses 6x Radeon RX 7900XTX (2024)
 
 TODO: Whitepapers, Media, Research
 
