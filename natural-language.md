@@ -11,9 +11,12 @@
 6.  [BERT](#bert)
 7.  [T5](#t5)
 8.  [GPT](#gpt)
-9.  [What comes after transformer?](#what-comes-after-transformer)
-10.  [Reasoning models](#reasoning-models)
-11.  [Conclusion](#conclusion)
+9.  [Computational complexity of transformers](#computational-complexity-of-transformers)
+10. [Efficient transformers: Inference optimizations](#efficient-transformers-inference-optimizations)
+11. [Efficient transformers: Architecture modifications](#efficient-transformers-architecture-modifications)
+12. [What comes after transformer?](#what-comes-after-transformer)
+13. [Reasoning models](#reasoning-models)
+14. [Conclusion](#conclusion)
 
 
 ## Tokenization
@@ -265,6 +268,51 @@ Open source:
     -   Google. (2025). [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/).
 -   Command A (Cohere)
     -   Cohere. (2025). [Command A: An enterprise-ready large language model](https://cohere.com/research/papers/command-a-technical-report.pdf).
+
+
+## Computational complexity of transformers
+
+-   Chen, C. (2022). [Transformer inference arithmetic](https://kipp.ly/transformer-inference-arithmetic/).
+-   Bahdanau, D. (2022). [The FLOPs calculus of language model training](https://medium.com/@dzmitrybahdanau/the-flops-calculus-of-language-model-training-3b19c1f025e4).
+-   Sanger, A. (2023). [Inference characteristics of Llama-2](https://cursor.sh/blog/llama-inference). 
+-   Shenoy, V. & Kiely, P. (2023). [A guide to LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/).
+-   Anthony, Q., Biderman, S., & Schoelkopf, H. (2023). [Transformer math 101](https://blog.eleuther.ai/transformer-math/).
+-   Ouyang, A. (2023). [*Understanding the Performance of Transformer*](https://dspace.mit.edu/handle/1721.1/151543). (MS thesis)
+-   Casson, A. (2023). [Transformer FLOPs](https://www.adamcasson.com/posts/transformer-flops).
+
+```
+FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model * d_ff] + d_model * vocab_size
+```
+
+
+## Efficient transformers: Inference optimizations
+
+-   Dao, T., Fu, D.Y., Ermon, S., Rudra, A., & Ré, C. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135).
+-   Pope, R. et al. (2022). [Efficiently scaling transformer inference](https://arxiv.org/abs/2211.05102). - *KV cache*
+-   Leviathan, Y., Kalman, M., & Matias, Y. (2022). [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192).
+-   Dao, T. (2023). [FlashAttention-2: Faster attention with better parallelism and work partitioning](https://arxiv.org/abs/2307.08691).
+-   Kim, S. et al. (2023). [Full stack optimization of transformer inference: A survey](https://arxiv.org/abs/2302.14017).
+-   PyTorch. (2023). [Accelerating generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/).
+-   Nvidia. (2023). [Mastering LLM techniques: Inference optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization).
+-   Weng, L. (2023). [Large transformer model inference optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/).
+-   Kwon, W. et al. (2023). [Efficient memory management for large language model serving with PagedAttention](https://arxiv.org/abs/2309.06180).
+-   Zhang, L. (2023). [Dissecting the runtime performance of the training, fine-tuning, and inference of large language models](https://arxiv.org/abs/2311.03687).
+-   Fu, Y. (2023). [Towards 100x speedup: Full stack transformer inference optimization](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c#5e3b9489c0204f8c8d70d014a9e88b28).
+-   Fu, Y. (2024). [Challenges in deploying long-context transformers: A theoretical peak performance analysis](https://arxiv.org/abs/2405.08944).
+-   Fu, Y. et al. (2024). [Data engineering for scaling language models to 128K context](https://arxiv.org/abs/2402.10171).
+-   Kwon, W. et al. (2023). [Efficient memory management for large language model serving with PagedAttention](https://arxiv.org/abs/2309.06180). ([vLLM](https://github.com/vllm-project/vllm))
+-   Nvidia. (2023). [Mastering LLM techniques: Inference optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization).
+-   Chng, P. (2024). [What is the transformer KV cache?](https://peterchng.com/blog/2024/06/11/what-is-the-transformer-kv-cache/)
+-   Shah, J. et al. (2024). [FlashAttention-3: Fast and accurate attention with asynchrony and low-precision](https://arxiv.org/abs/2407.08608).
+-   Shi, L. et al. (2024). [Keep the cost down: A review on methods to optimize LLM' s KV-cache consumption](https://arxiv.org/abs/2407.18003).
+
+
+## Efficient transformers: Architecture modifications
+
+-   Shazeer, N. (2019). [Fast transformer decoding: One write-head is all you need](https://arxiv.org/abs/1911.02150).  - MQA
+-   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732).
+-   Leviathan, Y., Kalman, M., & Matias, Y. (2022). [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192).
+-   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
 
 
 ## What comes after transformer?
