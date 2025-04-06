@@ -259,7 +259,8 @@ Open source:
     -   Dubey, A. et al. (2024). [The Llama 3 herd of models](https://arxiv.org/abs/2407.21783).
     -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
     -   Zhang, B. & Sennrich, R. (2019). [Root mean square layer normalization](https://arxiv.org/abs/1910.07467). - RMSNorm
-    -  Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
+    -   Ramachandran et al. (2017). [Searching for activation functions](https://arxiv.org/abs/1710.05941). - SiLU/Swish activation function used in FFN
+    -   Meta. (2025). [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/). - First Llamas to use MoE
 -   Nemotron (Nvidia)
     -   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
 -   Qwen (Alibaba)
