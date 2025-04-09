@@ -124,13 +124,18 @@ Products: M4
 
 TODO: Whitepapers, Media, Research
 
-### Intel (Habana)
+### Intel
 
 Products: Gaudi 2
 
 Whitepapers:
 
 -   [Gaudi 2](https://habana.ai/products/gaudi2/)
+
+Acquisitions:
+
+-    Nervana Systems (2016)
+-    Habana Labs (2019)
 
 Media:
 
