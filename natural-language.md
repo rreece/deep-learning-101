@@ -352,6 +352,8 @@ Closed source:
 -   o3 (OpenAI)
     -   OpenAI. (2024). [OpenAI o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf).
     -   OpenAI. (2025). [OpenAI o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf).
+-   Claude 3.7 Sonnet (Anthropic)
+    -   Anthropic. (2025). [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet).
 
 Open source:
 
