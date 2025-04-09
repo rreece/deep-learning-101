@@ -361,6 +361,8 @@ Open source:
     -   Muennighoff, N. et al. (2025). [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393).
 -   QwQ-32B (Alibaba)
     -   Qwen. (2025). [QwQ-32B: Embracing the power of reinforcement learning](https://qwenlm.github.io/blog/qwq-32b/).
+-   Deep Cogito
+    -   Deep Cogito. (2025). [Cogito v1 Preview: Introducing IDA as a path to general superintelligence](https://www.deepcogito.com/research/cogito-v1-preview).
 
 
 ## Conclusion
