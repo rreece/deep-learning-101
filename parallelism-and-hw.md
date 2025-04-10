@@ -124,6 +124,14 @@ Products: M4
 
 TODO: Whitepapers, Media, Research
 
+### Google
+
+Products: 7th-gen TPU, Ironwood (not for sale)
+
+Whitepapers:
+
+-    Google Cloud. (2025). [Google Cloud Next 25](https://blog.google/products/google-cloud/next-2025/).
+
 ### Intel
 
 Products: Gaudi 2
