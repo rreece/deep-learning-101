@@ -241,17 +241,16 @@ See also:
 -   Eigen, D., Ranzato, M., & Sutskever, I. (2013). [Learning factored representations in a deep mixture of experts](https://arxiv.org/abs/1312.4314).
 
 
-
 ### Decoder-only models like GPT
 
-Closed source:
+#### Closed source
 
 -   GPT-4 (OpenAI)
 -   Chinchilla (DeepMind)
 -   Gemini (Google)
 -   Claude (Anthropic)
 
-Open source:
+#### Open source
 
 -   Falcon (TII)
 -   Llama (Meta)
@@ -351,7 +350,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Scaling test-time compute
     -   See talks and work by Noam Brown in poker and other games.
 
-Closed source:
+#### Closed source
 
 -   o3 (OpenAI)
     -   OpenAI. (2024). [OpenAI o1 system card](https://cdn.openai.com/o1-system-card-20241205.pdf).
@@ -359,7 +358,7 @@ Closed source:
 -   Claude 3.7 Sonnet (Anthropic)
     -   Anthropic. (2025). [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet).
 
-Open source:
+#### Open source
 
 -   R1 (DeepSeek)
     -   DeepSeek. (2025). [DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning](https://arxiv.org/abs/2501.12948).
