@@ -263,10 +263,10 @@ Open source:
     -   Meta. (2025). [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/). - First Llamas to use MoE
 -   Nemotron (Nvidia)
     -   Nvidia. (2024). [Nemotron-4 340B technical report](https://arxiv.org/abs/2406.11704).
--   OpenGPT-X (IAIS)
-    -   [Data processing for the OpenGPT-X model family](https://arxiv.org/abs/2410.08800).
-    -   [Teuken-7B-Base & Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730).
-    -   [Towards multilingual LLM evaluation for European languages](https://arxiv.org/abs/2410.08928).
+-   Teuken (OpenGPT-X, Fraunhofer IAIS, Fraunhofer IIS)
+    -   OpenGPT-X. (2024). [Data processing for the OpenGPT-X model family](https://arxiv.org/abs/2410.08800).
+    -   OpenGPT-X. (2024). [Teuken-7B-Base & Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730).
+    -   OpenGPT-X. (2024). [Towards multilingual LLM evaluation for European languages](https://arxiv.org/abs/2410.08928).
 -   Qwen (Alibaba)
     -   Qwen. (2024). [Qwen2.5 technical report](https://arxiv.org/abs/2412.15115).
 -   Gemma (Google)
