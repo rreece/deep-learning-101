@@ -247,7 +247,7 @@ Whitepapers:
 Media:
 
 -   Forbes. (2025). [Meta in talks to buy Korean AI chip startup founded by Samsung engineer](https://www.forbes.com/sites/johnkang/2025/02/11/meta-in-talks-to-buy-korean-ai-chip-startup-founded-by-samsung-engineer/). 2025/02/11.
--   CCN. (2025). [FuriosaAI turns down Meta’s $800M offer following breakthroughs in Llama 3.1 and AI inference](https://www.ccn.com/news/technology/furiosaai-meta-800m-llama31-inference/). 2025/03/24
+-   CCN. (2025). [FuriosaAI turns down Meta’s $800M offer following breakthroughs in Llama 3.1 and AI inference](https://www.ccn.com/news/technology/furiosaai-meta-800m-llama31-inference/). 2025/03/24.
 
 Research: TODO
 
