@@ -233,6 +233,7 @@ See also:
     -   Group Relative Policy Optimization (GRPO)
     -   Shao, Z. (2024). [DeepSeekMath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300).
     -   Lambert, N. (2024). [*Reinforcement Learning from Human Feedback*](https://rlhfbook.com).
+    -   Databricks. (2025). [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data).
 -   Surveys
     -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
     -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
@@ -323,6 +324,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Leviathan, Y., Kalman, M., & Matias, Y. (2022). [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192).
 -   Ainslie, J. (2023). [GQA: Training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245). - GQA
 -   DeepSeek. (2024). [DeepSeek-V2: A strong, economical, and efficient mixture-of-experts language model](https://arxiv.org/abs/2405.04434). - Multi-head Latent Attention (MLA)
+-   Meng, F., Yao, Z., & Zhang, M. (2025). [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864).
 
 
 ## What comes after transformer?
