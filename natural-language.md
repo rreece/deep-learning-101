@@ -224,10 +224,13 @@ See also:
 
 ![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
 
--   Direct Preference Optimization (DPO)
+-   Post-training
+    -   Direct Preference Optimization (DPO)
     -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
     -   SuperAnnotate. (2024). [Direct preference optimization (DPO): Complete overview](https://www.superannotate.com/blog/direct-preference-optimization-dpo).
     -   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
+    -   Group Relative Policy Optimization (GRPO)
+    -   Shao, Z. (2024). [DeepSeekMath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300).
     -   Lambert, N. (2024). [*Reinforcement Learning from Human Feedback*](https://rlhfbook.com).
 -   Surveys
     -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
