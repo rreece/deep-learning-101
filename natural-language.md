@@ -228,6 +228,7 @@ See also:
     -   Rafailov, R. (2023). [Direct Preference Optimization: Your language model is secretly a reward model](https://arxiv.org/abs/2305.18290). 
     -   SuperAnnotate. (2024). [Direct preference optimization (DPO): Complete overview](https://www.superannotate.com/blog/direct-preference-optimization-dpo).
     -   Blog: [RLHF progress: Scaling DPO to 70B](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b).
+    -   Lambert, N. (2024). [*Reinforcement Learning from Human Feedback*](https://rlhfbook.com).
 -   Surveys
     -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
     -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
