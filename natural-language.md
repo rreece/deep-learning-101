@@ -234,10 +234,6 @@ See also:
     -   Shao, Z. (2024). [DeepSeekMath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300).
     -   Lambert, N. (2024). [*Reinforcement Learning from Human Feedback*](https://rlhfbook.com).
     -   Databricks. (2025). [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data).
--   Surveys
-    -   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
-    -   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
-    -   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
 
 
 ### Mixture of Experts (MoE)
@@ -396,6 +392,9 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Mohamadi, S. et al. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1).
 -   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223).
 -   Bowman, S.R. (2023). [Eight things to know about large language models](https://arxiv.org/abs/2304.00612).
+-   Timbers, F. (2023). [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
+-   Chen, C. (2023). [Transformer taxonomy](https://kipp.ly/transformer-taxonomy/).
+-   Naveed, H. (2023). [A comprehensive overview of large language models](https://arxiv.org/abs/2307.06435).
 
 2024
 
