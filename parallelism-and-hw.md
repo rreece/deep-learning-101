@@ -308,10 +308,12 @@ Whitepapers:
 -   Tenstorrent. (2024). [One-pager: Tensix Processor PCIe Cards](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
 -   Tenstorrent. (2024). [One-pager: Wormhole Tensix Processor](https://cdn.sanity.io/files/jpb4ed5r/production/7c465635048500a3399800ab432f2e32d89d73a2.pdf).
 -   Tenstorrent. (2025). [One-pager: Tenstorrent Galaxy](https://cdn.sanity.io/files/jpb4ed5r/production/b076324de309c1290fbbc033ea7253e54d452f47.pdf).
+-   Tenstorrent. (2025). [An open future](https://openfuture.tenstorrent.com/).
 
 Media:
 
 -   corsix.org. (2024). [Tenstorrent Wormhole Series Part 1: Physicalities](https://www.corsix.org/content/tt-wh-part1).
+-   Register. (2024). [Tenstorrent's Blackhole chips boast 768 RISC-V cores and almost as many FLOPS](https://www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/). 2024/08/27.
 -   PR Newswire. (2024). [Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners](https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html). 2024/12/02.
 
 Research:
