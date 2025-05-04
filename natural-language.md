@@ -14,9 +14,10 @@
 9.  [Computational complexity of transformers](#computational-complexity-of-transformers)
 10. [Efficient transformers: Inference optimizations](#efficient-transformers-inference-optimizations)
 11. [Efficient transformers: Architecture modifications](#efficient-transformers-architecture-modifications)
-12. [What comes after transformer?](#what-comes-after-transformer)
-13. [Reasoning models](#reasoning-models)
-14. [Conclusion](#conclusion)
+12. [Scaling laws in NLP](#scaling-laws-in-nlp)
+13. [What comes after transformer?](#what-comes-after-transformer)
+14. [Reasoning models](#reasoning-models)
+15. [Conclusion](#conclusion)
 
 
 ## Tokenization
@@ -331,7 +332,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Church, K.W. & Hestness, J. (2019). [Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP]](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291).
 -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361).
 -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446).
--   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).
+-   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556). (Chinchilla)
 -   Caballero, E., Gupta, K., Rish, I., & Krueger, D. (2022). [Broken neural scaling laws](https://arxiv.org/abs/2210.14891).
 -   Constantin, S. (2023). ["Scaling Laws" for AI and some implications](https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications).
 -   Muennighoff, N. et al. (2023). [Scaling data-constrained language models](https://arxiv.org/abs/2305.16264).
