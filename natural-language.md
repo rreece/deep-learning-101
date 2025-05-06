@@ -332,13 +332,17 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Church, K.W. & Hestness, J. (2019). [Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP]](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291).
 -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361).
 -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446).
+-   Yang, G. & Hu, E.J. (2020). [Feature learning in infinite-width neural networks](https://arxiv.org/abs/2011.14522). (&mu;P)
+-   Yang, G. et al. (2022). [Tensor Programs V: Tuning large neural networks via zero-shot hyperparameter transfer](https://arxiv.org/abs/2203.03466).
 -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556). (Chinchilla)
 -   Caballero, E., Gupta, K., Rish, I., & Krueger, D. (2022). [Broken neural scaling laws](https://arxiv.org/abs/2210.14891).
 -   Constantin, S. (2023). ["Scaling Laws" for AI and some implications](https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications).
 -   Muennighoff, N. et al. (2023). [Scaling data-constrained language models](https://arxiv.org/abs/2305.16264).
 -   Pandey, R. (2024). [gzip predicts data-dependent scaling laws](https://arxiv.org/abs/2405.16684).
 -   Bach, F. (2024). [Scaling laws of optimization](https://francisbach.com/scaling-laws-of-optimization/).
+-   Dey, N., Anthony, Q., & Hestness, J. (2024). [The practitioner's guide to the maximal update parameterization](https://www.cerebras.ai/blog/the-practitioners-guide-to-the-maximal-update-parameterization).
 -   Finzi, M. et al. (2025). [Compute-optimal LLMs provably generalize better with scale](https://arxiv.org/abs/2504.15208).
+-   Dey, N. et al. (2025). [Don't be lazy: CompleteP enables compute-efficient deep transformers](https://arxiv.org/abs/2505.01618).
 
 
 ## What comes after transformer?
