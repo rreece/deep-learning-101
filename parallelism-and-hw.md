@@ -315,6 +315,7 @@ Media:
 -   corsix.org. (2024). [Tenstorrent Wormhole Series Part 1: Physicalities](https://www.corsix.org/content/tt-wh-part1).
 -   Register. (2024). [Tenstorrent's Blackhole chips boast 768 RISC-V cores and almost as many FLOPS](https://www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/). 2024/08/27.
 -   PR Newswire. (2024). [Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners](https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html). 2024/12/02.
+-   ElioVP. (2025). [MI300X vs H200 vs RX 7900 XTX vs Tenstorrent n300s with vLLM](https://eliovp.com/mi300x-vs-h200-vs-rx-7900-xtx-vs-tenstorrent-n300s-with-vllm/). 2025/05/09.
 
 Research:
 
