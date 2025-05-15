@@ -321,6 +321,7 @@ Research:
 
 -   Th&uuml;ning, M. (2024). [Attention in SRAM on Tenstorrent Grayskull](https://arxiv.org/abs/2407.13885).
 -   Brown, N. & Barton, R. (2024). [Accelerating stencils on the Tenstorrent Grayskull RISC-V accelerator](https://arxiv.org/abs/2409.18835).
+-   Cavagna, H.P., Cesarini, D., & Bartolini, A. (2025). [Assessing Tenstorrent’s RISC-V MatMul acceleration capabilities](https://www.arxiv.org/abs/2505.06085).
 
 ### Others
 
