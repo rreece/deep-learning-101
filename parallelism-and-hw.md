@@ -349,7 +349,9 @@ Research:
 
 ## Conclusion
 
-TODO
+Surveys:
+
+-   Reuther, A. et al. (2022). [AI and ML accelerator survey and trends](https://arxiv.org/abs/2210.04055).
 
 
 --------
