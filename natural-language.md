@@ -156,6 +156,10 @@ Beam search:
 
 $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q K^\intercal}{\sqrt{d_k}}\right) V $$
 
+Transformer encoder with multi-head attention:
+
+![Transformer encoder with multi-head attention. source: https://medium.com/data-science/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e](img/transformer-encoder.gif).
+
 Autoregressive decoding:
 
 ![Autoregressive decoding. source: https://hrithickcodes.medium.com/the-math-behind-the-machine-a-deep-dive-into-the-transformer-architecture-a3902333e4a4](img/transformer-autoregressive-decode.gif)
