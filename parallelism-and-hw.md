@@ -268,6 +268,7 @@ Whitepapers:
 Media:
 
 -   Linley Group. (2020). [Groq rocks neural networks](https://groq.com/wp-content/uploads/2023/05/GROQ-ROCKS-NEURAL-NETWORKS.pdf).
+-   Groq. (2025). [Groq becomes exclusive inference provider for Bell Canada’s sovereign AI network](https://groq.com/news_press/groq-becomes-exclusive-inference-provider-for-bell-canadas-sovereign-ai-network/). 2025/05/28.
 
 Research:
 
