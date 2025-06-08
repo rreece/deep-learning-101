@@ -380,6 +380,9 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
     -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444).
 -   Scaling test-time compute
     -   See talks and work by Noam Brown in poker and other games.
+-   Limitations
+    -    Shojaee, P. (2025). [The illusion of thinking: Understanding the strengths and limitations of reasoning models via the lens of problem complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf).
+
 
 #### Closed source
 
