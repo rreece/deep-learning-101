@@ -128,6 +128,7 @@ There are many additions to SGD that are used in state-of-the-art optimizers:
 -   RMSProp
 -   Adam, AdamW
 -   ...
+-   Loshchilov, I. & Hutter, F. (2017). [Decoupled weight decay regularization](https://arxiv.org/abs/1711.05101v3).
 
 Advanced optimizers add parameters that add to memory overhead.
 
