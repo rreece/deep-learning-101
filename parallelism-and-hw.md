@@ -207,6 +207,7 @@ Media:
 -   Wilhelm, A. (2024). [Inside AI chip startup Cerebras's S-1 filing](https://www.cautiousoptimism.news/p/inside-ai-chip-startup-cerebrass). 2024/10/1.
 -   Reuters. (2025). [Cerebras IPO further delayed as US national security review drags on](https://www.reuters.com/technology/cerebras-ipo-further-delayed-us-national-security-review-drags-2025-03-25/). 2025/03/25.
 -   The Register. (2025). [Nvidia challenger Cerebras says it's leaped Mid-East funding hurdle on way to IPO](https://www.theregister.com/2025/03/31/cerebras_ipo_roadblock/). 2025/03/31.
+-   TechInAsia. (2025). [US-based AI chipmaker plans 2025 IPO after UAE deal approved](https://www.techinasia.com/news/usbased-ai-chipmaker-plans-2025-ipo-uae-deal-approved). 2025/05/15.
 
 Research:
 
