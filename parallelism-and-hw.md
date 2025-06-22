@@ -118,6 +118,10 @@ Products:
 -   MI300X
 -   [tinybox red](https://tinygrad.org/#tinybox) uses 6x Radeon RX 7900XTX (2024)
 
+Acquisitions:
+
+-   Untether AI (2025)
+
 TODO: Whitepapers, Media, Research
 
 ### Apple
