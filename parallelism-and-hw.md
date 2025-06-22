@@ -345,6 +345,7 @@ Research:
     -   Ljubisa Bajic (CEO) & Lejla Bajic (COO)
 -   Untether AI
     -   Chris Walker (CEO)
+    -   CRN. (2025). [AMD acquires team behind AI chip startup Untether AI](https://www.crn.com/news/components-peripherals/2025/exclusive-amd-acquires-team-behind-ai-chip-startup-untether-ai). 2025-06-05.
 
 
 ## Scaling
