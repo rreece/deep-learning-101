@@ -3,13 +3,14 @@
 
 ### Contents
 
-1.  [Convolutions](#convolutions)
-2.  [LeNet](#lenet)
-3.  [AlexNet](#alexnet)
-4.  [ResNet](#resnet)
-5.  [UNet](#unet)
-6.  [Diffusion](#diffusion)
-7.  [Conclusion](#conclusion)
+1.  [Input tensor shape](#input-tensor-shape)
+2.  [Convolutions](#convolutions)
+3.  [LeNet](#lenet)
+4.  [AlexNet](#alexnet)
+5.  [ResNet](#resnet)
+6.  [UNet](#unet)
+7.  [Diffusion](#diffusion)
+8.  [Conclusion](#conclusion)
 
 
 ## Input tensor shape
