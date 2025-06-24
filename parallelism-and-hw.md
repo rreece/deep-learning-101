@@ -166,8 +166,8 @@ Products: MTIA v2
 
 Whitepapers:
 
--   [Meta Training and Inference Accelerator (MTIA)](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
--   [Meta’s second generation AI chip: Model-chip co-design and productionization experiences](https://aisystemcodesign.github.io/papers/MTIA-ISCA25.pdf).
+-   Meta. (2024). [Meta Training and Inference Accelerator (MTIA)](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/).
+-   Meta. (2025). [Meta’s second generation AI chip: Model-chip co-design and productionization experiences](https://aisystemcodesign.github.io/papers/MTIA-ISCA25.pdf).
 
 TODO: Media, Research
 
