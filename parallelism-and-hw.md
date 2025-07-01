@@ -246,7 +246,10 @@ Research: TODO
 
 -   June Paik (CEO)
 
-Products: TODO
+Products:
+
+-   RNGD
+-   Gen 1 Vision NPU
 
 Whitepapers:
 
@@ -264,7 +267,11 @@ Research: TODO
 -   Jonathan Ross (CEO)
 -   All-SRAM approach
 
-Products: LPU
+Products:
+
+-   LPU
+-   GroqCloud
+-   GroqRack
 
 Acquisitions:
 
@@ -300,7 +307,11 @@ TODO: Media, Research
 
 -   Rodrigo Liang (CEO)
 
-Products: SN40L-based systems
+Products:
+
+-   SN40L-based systems
+-   SambaNova Suite
+-   SambaNova DataScale
 
 Whitepapers:
 
@@ -313,7 +324,10 @@ TODO: Media, Research
 
 -   Jim Keller (CEO)
 
-Products: n150 and n300-based systems
+Products:
+
+-   Wormhole-based systems (n150, n300, Galaxy)
+-   Blackhole-based systems (p150, p300, Galaxy)
 
 Acquisitions:
 
