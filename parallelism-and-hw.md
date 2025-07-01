@@ -264,7 +264,7 @@ Research: TODO
 -   Jonathan Ross (CEO)
 -   All-SRAM approach
 
-Products: TODO
+Products: LPU
 
 Acquisitions:
 
