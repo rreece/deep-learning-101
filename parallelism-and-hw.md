@@ -295,7 +295,7 @@ Research:
 
 -   Sunghyun Park (CEO)
 
-Products: TODO
+Products: ATOM-Max
 
 Whitepapers:
 
