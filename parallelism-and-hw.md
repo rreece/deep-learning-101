@@ -315,6 +315,10 @@ TODO: Media, Research
 
 Products: n150 and n300-based systems
 
+Acquisitions:
+
+-   [Blue Cheetah Analog Design](https://www.prnewswire.com/news-releases/tenstorrent-acquires-blue-cheetah-analog-design-302495323.html) (2025)
+
 Whitepapers:
 
 -   Tenstorrent. (2021). [Compute substrate for software 2.0](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373921).
