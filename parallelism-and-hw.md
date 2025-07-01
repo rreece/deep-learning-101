@@ -266,6 +266,10 @@ Research: TODO
 
 Products: TODO
 
+Acquisitions:
+
+-   [Definitive Intelligence](https://groq.com/news/groq-acquires-definitive-intelligence-to-launch-groqcloud) (2024)
+
 Whitepapers:
 
 -   Groq. (2020). [Think Fast: A Tensor Streaming Processor (TSP) for accelerating deep learning workloads](https://groq.com/wp-content/uploads/2020/06/ISCA-TSP.pdf).
