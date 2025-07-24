@@ -348,6 +348,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Dey, N., Anthony, Q., & Hestness, J. (2024). [The practitioner's guide to the maximal update parameterization](https://www.cerebras.ai/blog/the-practitioners-guide-to-the-maximal-update-parameterization).
 -   Finzi, M. et al. (2025). [Compute-optimal LLMs provably generalize better with scale](https://arxiv.org/abs/2504.15208).
 -   Dey, N. et al. (2025). [Don't be lazy: CompleteP enables compute-efficient deep transformers](https://arxiv.org/abs/2505.01618).
+-   Qiu, S. et al. (2025). [Scaling collapse reveals universal dynamics in compute-optimally trained neural networks](https://arxiv.org/abs/2507.02119).
 
 
 ## What comes after transformer?
