@@ -364,7 +364,7 @@ Research:
     -   Gavin Uberti (CEO)
 -   Graphcore
     -   Nigel Toon (CEO)
-    -   In July 2024, Softbank Group agreed to acquire Graphcore for around $500 million. The deal is under review by the UK's Business Department's investment security unit. [Wikipedia]
+    -   In July 2024, [Softbank Group acquired Graphcore](https://www.graphcore.ai/posts/graphcore-joins-softbank-group-to-build-next-generation-of-ai-compute) for around [$400 million](https://www.eetimes.com/ai-chip-startup-graphcore-acquired-by-softbank/).
 -   Lightmatter
     -   Nick Harris (CEO)
     -   Photonics
@@ -389,7 +389,7 @@ Research:
 Surveys:
 
 -   Reuther, A. et al. (2022). [AI and ML accelerator survey and trends](https://arxiv.org/abs/2210.04055).
-
+-   techannouncer.com. (2025). [AI chip market share by company: A deep dive into 2025's top players](https://techannouncer.com/ai-chip-market-share-by-company-a-deep-dive-into-2025s-top-players/).
 
 --------
 
