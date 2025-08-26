@@ -39,8 +39,8 @@
     -   Wang, Y. (2024). [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574).
 -   [artificialanalysis.ai](https://artificialanalysis.ai)
 -   [Chatbot Arena LLM Leaderboard](https://lmarena.ai)
--   Phan, L. et al. (2025). [Humanity's Last Exam](https://arxiv.org/abs/2501.14249).
-
+-   Phan, L. et al. (2025). [Humanity's last exam](https://arxiv.org/abs/2501.14249).
+-   Ni, S. et al. (2025). [A survey on large language model benchmarks](https://arxiv.org/abs/2508.15361).
 
 ## Normalization
 
