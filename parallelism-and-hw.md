@@ -213,6 +213,7 @@ Media:
 -   Reuters. (2025). [Cerebras IPO further delayed as US national security review drags on](https://www.reuters.com/technology/cerebras-ipo-further-delayed-us-national-security-review-drags-2025-03-25/). 2025/03/25.
 -   The Register. (2025). [Nvidia challenger Cerebras says it's leaped Mid-East funding hurdle on way to IPO](https://www.theregister.com/2025/03/31/cerebras_ipo_roadblock/). 2025/03/31.
 -   TechInAsia. (2025). [US-based AI chipmaker plans 2025 IPO after UAE deal approved](https://www.techinasia.com/news/usbased-ai-chipmaker-plans-2025-ipo-uae-deal-approved). 2025/05/15.
+-   techstartups.com. (2025). [Cerebras seeks $1B in private funding to battle Nvidia, delays IPO over security scrutiny](https://techstartups.com/2025/07/29/cerebras-seeks-1b-in-private-funding-to-battle-nvidia-delays-ipo-over-security-scrutiny/). 2025/07/29.
 
 Research:
 
@@ -360,11 +361,14 @@ Research:
 
 ### Others
 
+-   Esperanto
+    -   Art Swift (CEO)
+    -   July 2025: [AI startup Esperanto winds down silicon business](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/).
 -   Etched
     -   Gavin Uberti (CEO)
 -   Graphcore
     -   Nigel Toon (CEO)
-    -   In July 2024, [Softbank Group acquired Graphcore](https://www.graphcore.ai/posts/graphcore-joins-softbank-group-to-build-next-generation-of-ai-compute) for around [$400 million](https://www.eetimes.com/ai-chip-startup-graphcore-acquired-by-softbank/).
+    -   July 2024: [Softbank Group acquired Graphcore](https://www.graphcore.ai/posts/graphcore-joins-softbank-group-to-build-next-generation-of-ai-compute) for around [$400 million](https://www.eetimes.com/ai-chip-startup-graphcore-acquired-by-softbank/).
 -   Lightmatter
     -   Nick Harris (CEO)
     -   Photonics
