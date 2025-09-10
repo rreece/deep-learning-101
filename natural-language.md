@@ -407,8 +407,6 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   MoonshotAI
     -   MoonshotAI. (2025). [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/).
 
-![DeepSeek V3 vs Kimi K2 from Sebastian Raschka (source: [LinkedIn](https://www.linkedin.com/posts/sebastianraschka_the-newly-released-1-trillion-parameter-kimi-activity-7349829221013180416-sIOh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)).](img/deepseek-vs-kimi.jpg)
-
 
 ## Conclusion
 
@@ -436,6 +434,13 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 -   [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 -   Willison, S. (2024). [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/).
+
+2025
+
+-   Raschka, S. (2025). [Understanding large language models](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison).
+-   Raschka, S. (2025). Video: [The big LLM architecture comparison](https://www.youtube.com/watch?v=rNlULI-zGcw).
+
+![DeepSeek V3 vs Kimi K2 from Sebastian Raschka (source: [LinkedIn](https://www.linkedin.com/posts/sebastianraschka_the-newly-released-1-trillion-parameter-kimi-activity-7349829221013180416-sIOh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)).](img/deepseek-vs-kimi.jpg)
 
 
 ### Misc
