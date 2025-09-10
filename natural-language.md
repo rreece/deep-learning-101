@@ -277,6 +277,8 @@ See also:
     -   OpenGPT-X. (2024). [Towards multilingual LLM evaluation for European languages](https://arxiv.org/abs/2410.08928).
 -   Qwen (Alibaba)
     -   Qwen. (2024). [Qwen2.5 technical report](https://arxiv.org/abs/2412.15115).
+-   OLMo
+    -   Team OLMo. (2025). [2 OLMo 2 Furious](https://arxiv.org/abs/2501.00656).
 -   Gemma (Google)
     -   Google. (2025). [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/).
 -   Command A (Cohere)
