@@ -241,6 +241,7 @@ See also:
 -   Shao, Z. (2024). [DeepSeekMath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300).
 -   Lambert, N. (2024). [*Reinforcement Learning from Human Feedback*](https://rlhfbook.com).
 -   Databricks. (2025). [TAO: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data).
+-   Bereket, M. & Leskovec, J. (2025). [Uncalibrated reasoning: GRPO induces overconfidence for stochastic outcomes](https://arxiv.org/abs/2508.11800).
 
 
 ### Mixture of Experts (MoE)
