@@ -46,6 +46,7 @@ Roofline plots:
 -   Yuan, Z. et al. (2024). [LLM inference unveiled: Survey and roofline model insights](https://arxiv.org/abs/2402.16363).
     -   <https://github.com/hahnyuan/LLM-Viewer>
     -   <http://llm-viewer.com>
+-   Yun, S. et al. (2025). [The new LLM bottleneck: A systems perspective on latent attention and mixture-of-experts](https://arxiv.org/abs/2507.15465).
 
 ![Example of a Roofline plot from Databricks. source: https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices](img/databricks-roofline.png)
 
