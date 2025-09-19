@@ -83,7 +83,7 @@ Roofline plots:
 
 Products: 
 
--    ..., A100, H100, B100, GB200-based systems (DGX)
+-    ..., V100, A100, H100, B100, GB200-based systems (DGX)
 -    GB200 NVL72: 1 rack, 1 exaFLOP, 120 kW
 
 Whitepapers:
@@ -155,8 +155,8 @@ Acquisitions:
 Media:
 
 -   Lam, C. & Cozma, G. (2023). [Intel’s Ponte Vecchio: Chiplets gone crazy](https://chipsandcheese.com/p/intels-ponte-vecchio-chiplets-gone-crazy).
--   Hotz, G. (2025). [The tragic case of Intel AI](https://geohot.github.io/blog/jekyll/update/2025/03/24/tragic-intel.html).
--   Intel. (2025). [Intel and Trump Administration reach historic agreement to accelerate American technology and manufacturing leadership](https://www.intc.com/news-events/press-releases/detail/1748/intel-and-trump-administration-reach-historic-agreement-to).
+-   Hotz, G. (2025). [The tragic case of Intel AI](https://geohot.github.io/blog/jekyll/update/2025/03/24/tragic-intel.html). 2025/03/24.
+-   Intel. (2025). [Intel and Trump Administration reach historic agreement to accelerate American technology and manufacturing leadership](https://www.intc.com/news-events/press-releases/detail/1748/intel-and-trump-administration-reach-historic-agreement-to). 2025/08/22.
 -   Intel. (2025). [Intel and NVIDIA to jointly develop AI infrastructure and personal computing products](https://newsroom.intel.com/artificial-intelligence/intel-and-nvidia-to-jointly-develop-ai-infrastructure-and-personal-computing-products). 2025/09/18.
 
 Research:
