@@ -343,6 +343,7 @@ Whitepapers:
 -   Tenstorrent. (2021). [Compute substrate for software 2.0](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373921).
 -   Tenstorrent. (2024). [One-pager: Tensix Processor PCIe Cards](https://cdn.sanity.io/files/jpb4ed5r/production/eefe2b42c1423b693c3a8eaf66c0015157e930a1.pdf).
 -   Tenstorrent. (2024). [One-pager: Wormhole Tensix Processor](https://cdn.sanity.io/files/jpb4ed5r/production/7c465635048500a3399800ab432f2e32d89d73a2.pdf).
+-   Glagovich, C. (2024). [FlashAttention on Tenstorrent’s Wormhole architecture](https://github.com/tenstorrent/tt-metal/blob/main/tech_reports/FlashAttention/FlashAttention.md).
 -   Tenstorrent. (2025). [One-pager: Tenstorrent Galaxy](https://cdn.sanity.io/files/jpb4ed5r/production/b076324de309c1290fbbc033ea7253e54d452f47.pdf).
 -   Tenstorrent. (2025). [An open future](https://openfuture.tenstorrent.com/).
 
@@ -352,6 +353,8 @@ Media:
 -   Register. (2024). [Tenstorrent's Blackhole chips boast 768 RISC-V cores and almost as many FLOPS](https://www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/). 2024/08/27.
 -   corsix.org. (2024). [Tenstorrent Wormhole Series Part 1: Physicalities](https://www.corsix.org/content/tt-wh-part1). 2024/09/06.
 -   PR Newswire. (2024). [Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners](https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html). 2024/12/02.
+-   Chang, M. (2025). [Memory on Tenstorrent](https://clehaxze.tw/gemlog/2025/03-17-memory-on-tenstorrent.gmi). 2025-03-17.
+-   Chang, M. (2025). [Programming Tenstorrent processors](https://clehaxze.tw/gemlog/2025/04-21-programming-tensotrrent-processors.gmi). 2025-04-21.
 -   Turtle's AI. (2025). [Tenstorrent launches Blackhole™ line: Scalable AI solutions with RISC-V cores and developer support](https://www.turtlesai.com/en/pages-2635/tenstorrent-launches-blackhole-line-scalable-ai). 2025/04/04.
 -   ElioVP. (2025). [MI300X vs H200 vs RX 7900 XTX vs Tenstorrent n300s with vLLM](https://eliovp.com/mi300x-vs-h200-vs-rx-7900-xtx-vs-tenstorrent-n300s-with-vllm/). 2025/05/09.
 
@@ -361,6 +364,8 @@ Research:
 -   Brown, N. & Barton, R. (2024). [Accelerating stencils on the Tenstorrent Grayskull RISC-V accelerator](https://arxiv.org/abs/2409.18835).
 -   Cavagna, H.P., Cesarini, D., & Bartolini, A. (2025). [Assessing Tenstorrent’s RISC-V MatMul acceleration capabilities](https://www.arxiv.org/abs/2505.06085).
 -   Cai, J., Vora, A., Zhang, R., O'Conner, M., & Jeffrey, M.C. (2025). [Attention-Level Speculation](https://github.com/mcj-group/alspec).
+-   Almerol, J.L., Boella, E., Spera, M. & Gregori, D. (2025). [Accelerating gravitational n-body simulations using the RISC-V-based Tenstorrent Wormhole](https://arxiv.org/abs/2509.19294).
+-   Brown, N., Davies, J., & LeClair, F. (2025). [Exploring fast Fourier transforms on the Tenstorrent Wormhole](https://arxiv.org/abs/2506.15437).
 
 
 ### Others
