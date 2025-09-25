@@ -37,6 +37,7 @@
     -   Srivastava, A. (2022). [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615).
     -   Suzgun, M. (2022). [Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them](https://arxiv.org/abs/2210.09261).
     -   Wang, Y. (2024). [MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark](https://arxiv.org/abs/2406.01574).
+-   Hsieh, C.P. et al. (2024). [RULER: What's the Real Context Size of Your Long-Context Language Models?](https://arxiv.org/abs/2404.06654)
 -   [artificialanalysis.ai](https://artificialanalysis.ai)
 -   [Chatbot Arena LLM Leaderboard](https://lmarena.ai)
 -   Phan, L. et al. (2025). [Humanity's last exam](https://arxiv.org/abs/2501.14249).
