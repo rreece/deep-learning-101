@@ -167,6 +167,10 @@ Research:
 
 Products: MTIA v2
 
+Acquisitions:
+
+-   [Rivos](https://www.reuters.com/business/meta-buy-chip-startup-rivos-ai-effort-source-says-2025-09-30/) (2025)
+
 Whitepapers:
 
 -   Meta. (2024). [Meta Training and Inference Accelerator (MTIA)](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/).
