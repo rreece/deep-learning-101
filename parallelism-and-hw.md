@@ -371,6 +371,8 @@ Research:
 -   Cai, J., Vora, A., Zhang, R., O'Conner, M., & Jeffrey, M.C. (2025). [Attention-Level Speculation](https://github.com/mcj-group/alspec).
 -   Brown, N., Davies, J., & LeClair, F. (2025). [Exploring fast Fourier transforms on the Tenstorrent Wormhole](https://arxiv.org/abs/2506.15437).
 -   Almerol, J.L., Boella, E., Spera, M. & Gregori, D. (2025). [Accelerating gravitational n-body simulations using the RISC-V-based Tenstorrent Wormhole](https://arxiv.org/abs/2509.19294).
+-   Braun, L. (2025). [From lock-in to leverage – How RISC-V diffusion could rebalance AI hardware geopolitics](https://zenodo.org/records/17260577).
+
 
 
 ### Others
