@@ -406,6 +406,7 @@ Research:
 -   Huawei. (2025). [Serving large language models on Huawei CloudMatrix384](https://arxiv.org/abs/2506.12708).
 -   Johson, J. (2025). [Lecture: Large scale distributed training](https://www.youtube.com/watch?v=9MvD-XsowsE).
 -   Moreh. (2025). [Distributed inference on heterogeneous accelerators including GPUs, Rubin CPX, and AI accelerators](https://moreh.io/blog/distributed-inference-on-heterogeneous-accelerators-including-gpus-rubin-cpx-and-ai-accelerators-250923/).
+-   Thinking Machines Lab. (2025). [Tinker is a training API](https://thinkingmachines.ai/tinker/).
 
 
 ## Conclusion
