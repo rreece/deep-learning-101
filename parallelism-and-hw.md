@@ -180,6 +180,13 @@ TODO: Media, Research
 
 ## Accelerators - Startups
 
+### Axelera
+
+-   Fabrizio Del Maffeo (CEO)
+-   Eindhoven, Netherlands
+
+Products: Metis, Europa
+
 ### Blaize
 
 -   Dinakar Munagala (CEO)
