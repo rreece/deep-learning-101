@@ -224,7 +224,7 @@ See also:
 -   InstructGPT: Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155).
     -   Instruction finetuning
     -   Reinforcement Learning from Human Feedback (RLHF)
--   ChatGPT based on GPT-3 initially released by OpenAI on November 30, 2022
+-   ChatGPT based on GPT-3.5 initially released by OpenAI on November 30, 2022
 -   GPT-4: OpenAI. (2023). [GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf).
 
 ![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
