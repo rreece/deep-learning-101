@@ -229,6 +229,9 @@ Media:
 -   TechInAsia. (2025). [US-based AI chipmaker plans 2025 IPO after UAE deal approved](https://www.techinasia.com/news/usbased-ai-chipmaker-plans-2025-ipo-uae-deal-approved). 2025/05/15.
 -   techstartups.com. (2025). [Cerebras seeks $1B in private funding to battle Nvidia, delays IPO over security scrutiny](https://techstartups.com/2025/07/29/cerebras-seeks-1b-in-private-funding-to-battle-nvidia-delays-ipo-over-security-scrutiny/). 2025/07/29.
 -   TechCrunch. (2025). [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/). 2025/09/30. -- Series G
+-   Freund, K. (2025). [Cerebras, Groq And SambaNova line up to compete with Nvidia](https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia). 2025/10/21.
+
+![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
 
 Research:
 
