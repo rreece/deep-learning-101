@@ -409,6 +409,15 @@ Research:
     -   CRN. (2025). [AMD acquires team behind AI chip startup Untether AI](https://www.crn.com/news/components-peripherals/2025/exclusive-amd-acquires-team-behind-ai-chip-startup-untether-ai). 2025-06-05.
 
 
+## Benchmarking
+
+Here we focus on measuring performance, TTFT, TPS, FLOPs, FLOPs/W, etc.
+
+For accuracy measurements, see [Evaluation methods](https://github.com/rreece/deep-learning-101/blob/main/misc.md#evaluation-methods).
+
+-   [InferenceMAX: Open source inference benchmarking](https://newsletter.semianalysis.com/p/inferencemax-open-source-inference)
+
+
 ## Scaling
 
 -   Tazi, N. et al. (2025). [The ultra-scale playbook: Training LLMs on GPU clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook).
