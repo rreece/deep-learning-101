@@ -452,6 +452,9 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746).
 
 
+![source: https://www.globenewswire.com/news-release/2025/07/31/3125037/0/en/Enterprise-LLM-Spend-Reaches-8-4B-as-Anthropic-Overtakes-OpenAI-According-to-New-Menlo-Ventures-Report-on-LLM-Market.html](img/llm-api-market-share-change-2025-07-30.png)
+
+
 --------
 
 -   Up next: [Parallelism and hardware](parallelism-and-hw.md)
