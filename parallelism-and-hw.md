@@ -9,8 +9,9 @@
 4.  [Kernel programming](#kernel-programming)
 5.  [Accelerators - Big Tech](#accelerators---big-tech)
 6.  [Accelerators - Startups](#accelerators---startups)
-7.  [Scaling](#scaling)
-8.  [Conclusion](#conclusion)
+7.  [Benchmarking](#benchmarking)
+8.  [Scaling](#scaling)
+9.  [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -416,6 +417,7 @@ Here we focus on measuring performance, TTFT, TPS, FLOPs, FLOPs/W, etc.
 For accuracy measurements, see [Evaluation methods](https://github.com/rreece/deep-learning-101/blob/main/misc.md#evaluation-methods).
 
 -   [InferenceMAX: Open source inference benchmarking](https://newsletter.semianalysis.com/p/inferencemax-open-source-inference)
+-   [artificialanalysis.ai](https://artificialanalysis.ai)
 
 
 ## Scaling
