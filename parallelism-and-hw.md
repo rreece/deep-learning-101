@@ -373,6 +373,7 @@ Media:
 -   Chang, M. (2025). [Programming Tenstorrent processors](https://clehaxze.tw/gemlog/2025/04-21-programming-tensotrrent-processors.gmi). 2025-04-21.
 -   Turtle's AI. (2025). [Tenstorrent launches Blackhole™ line: Scalable AI solutions with RISC-V cores and developer support](https://www.turtlesai.com/en/pages-2635/tenstorrent-launches-blackhole-line-scalable-ai). 2025/04/04.
 -   ElioVP. (2025). [MI300X vs H200 vs RX 7900 XTX vs Tenstorrent n300s with vLLM](https://eliovp.com/mi300x-vs-h200-vs-rx-7900-xtx-vs-tenstorrent-n300s-with-vllm/). 2025/05/09.
+-   Ward-Foxton, S. (2025): [Jim Keller: Whatever Nvidia does, we'll do the opposite](https://www.eetimes.com/jim-keller-whatever-nvidia-does-well-do-the-opposite/). 2025/06/05.
 
 Research:
 
@@ -383,6 +384,7 @@ Research:
 -   Brown, N., Davies, J., & LeClair, F. (2025). [Exploring fast Fourier transforms on the Tenstorrent Wormhole](https://arxiv.org/abs/2506.15437).
 -   Almerol, J.L., Boella, E., Spera, M. & Gregori, D. (2025). [Accelerating gravitational n-body simulations using the RISC-V-based Tenstorrent Wormhole](https://arxiv.org/abs/2509.19294).
 -   Braun, L. (2025). [From lock-in to leverage – How RISC-V diffusion could rebalance AI hardware geopolitics](https://zenodo.org/records/17260577).
+-   Hegde, K. (2025). [How Tenstorrent accelerates chip development with ChipStack's AI tools running on its own AI chips](https://www.chipstack.ai/blog/how-tenstorrent-accelerates-chip-development-with-chipstack-s-ai-tools-running-on-its-own-ai-chips).
 
 
 
