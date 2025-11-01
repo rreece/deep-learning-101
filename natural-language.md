@@ -410,9 +410,9 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
     -   Muennighoff, N. et al. (2025). [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393).
 -   QwQ-32B (Alibaba)
     -   Qwen. (2025). [QwQ-32B: Embracing the power of reinforcement learning](https://qwenlm.github.io/blog/qwq-32b/).
--   Deep Cogito
+-   Cogito v1 (Deep Cogito)
     -   Deep Cogito. (2025). [Cogito v1 Preview: Introducing IDA as a path to general superintelligence](https://www.deepcogito.com/research/cogito-v1-preview).
--   MoonshotAI
+-   Kimi K2 (MoonshotAI)
     -   MoonshotAI. (2025). [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/).
 
 
