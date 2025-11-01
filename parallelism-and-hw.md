@@ -362,6 +362,7 @@ Whitepapers:
 -   Glagovich, C. (2024). [FlashAttention on Tenstorrent’s Wormhole architecture](https://github.com/tenstorrent/tt-metal/blob/main/tech_reports/FlashAttention/FlashAttention.md).
 -   Tenstorrent. (2025). [One-pager: Tenstorrent Galaxy](https://cdn.sanity.io/files/jpb4ed5r/production/b076324de309c1290fbbc033ea7253e54d452f47.pdf).
 -   Tenstorrent. (2025). [An open future](https://openfuture.tenstorrent.com/).
+-   Tenstorrent. (2025). [Tenstorrent announces Open Chiplet Atlas Ecosystem](https://tenstorrent.com/vision/tenstorrent-announces-open-chiplet-atlas-ecosystem).
 
 Media:
 
