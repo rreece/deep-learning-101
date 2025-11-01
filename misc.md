@@ -90,6 +90,7 @@
 
 -   [Insights from Kaggle Grandmasters and Experts on Competitive AI and LLM Frontiers](https://www.youtube.com/watch?v=k2EcIX0HgzA). *GTC, 2024*.
 -   Horwitz, E. et al. (2025). [Charting and navigating Hugging Face's model atlas](https://arxiv.org/abs/2503.10633).
+-   Bain. (2025). [AI data center forecast: From scramble to strategy](https://www.bain.com/insights/ai-data-center-forecast-from-scramble-to-strategy-snap-chart/).
 
 
 --------
