@@ -425,12 +425,15 @@ For accuracy measurements, see [Evaluation methods](https://github.com/rreece/de
 
 ## Scaling
 
+-   Rosso, J., Lander, R., Brand, A., & Harris, J. (2021). *Production Kubernetes: Building Successful Application Platforms*.
 -   Tazi, N. et al. (2025). [The ultra-scale playbook: Training LLMs on GPU clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook).
 -   Nvidia. (2025). [Dynamo architecture and key features](https://github.com/ai-dynamo/dynamo/blob/main/docs/architecture.md).
 -   Huawei. (2025). [Serving large language models on Huawei CloudMatrix384](https://arxiv.org/abs/2506.12708).
 -   Johson, J. (2025). [Lecture: Large scale distributed training](https://www.youtube.com/watch?v=9MvD-XsowsE).
 -   Moreh. (2025). [Distributed inference on heterogeneous accelerators including GPUs, Rubin CPX, and AI accelerators](https://moreh.io/blog/distributed-inference-on-heterogeneous-accelerators-including-gpus-rubin-cpx-and-ai-accelerators-250923/).
 -   Thinking Machines Lab. (2025). [Tinker is a training API](https://thinkingmachines.ai/tinker/).
+-   Huyen, C. (2025). *AI Engineering: Building Applications with Foundation Models*.
+-   Fregly, C. (2025). [*AI Systems Performance Engineering: Optimizing Model Training and Inference Workloads with GPUs, CUDA, and PyTorch*](https://a.co/d/6wIO3ab).
 
 
 ## Conclusion
