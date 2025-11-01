@@ -414,6 +414,9 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   MoonshotAI
     -   MoonshotAI. (2025). [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/).
 
+## Agents
+
+-   Gullí, A. (2025). [*Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems*](https://a.co/d/7Pa0Kvc).
 
 ## Conclusion
 
