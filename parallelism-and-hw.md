@@ -363,6 +363,7 @@ Whitepapers:
 -   Tenstorrent. (2025). [One-pager: Tenstorrent Galaxy](https://cdn.sanity.io/files/jpb4ed5r/production/b076324de309c1290fbbc033ea7253e54d452f47.pdf).
 -   Tenstorrent. (2025). [An open future](https://openfuture.tenstorrent.com/).
 -   Tenstorrent. (2025). [Tenstorrent announces Open Chiplet Atlas Ecosystem](https://tenstorrent.com/vision/tenstorrent-announces-open-chiplet-atlas-ecosystem).
+-   Moreh. (2025). [Moreh-Tenstorrent AI data center solution system architecture](https://moreh.io/technical-report/moreh-tenstorrent-ai-data-center-solution-system-architecture-251030/).
 
 Media:
 
