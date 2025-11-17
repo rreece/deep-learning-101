@@ -452,6 +452,8 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 -   Raschka, S. (2025). [Understanding large language models](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison).
 -   Raschka, S. (2025). Video: [The big LLM architecture comparison](https://www.youtube.com/watch?v=rNlULI-zGcw).
+-   Hu, M. et al. (2025). [A survey of scientific large language models: From data foundations to agent frontiers](https://arxiv.org/abs/2508.21148).
+
 
 ![DeepSeek V3 vs Kimi K2 from Sebastian Raschka (source: [LinkedIn](https://www.linkedin.com/posts/sebastianraschka_the-newly-released-1-trillion-parameter-kimi-activity-7349829221013180416-sIOh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)).](img/deepseek-vs-kimi.jpg)
 
