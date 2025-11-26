@@ -262,6 +262,7 @@ See also:
 -   GPT-4 (OpenAI)
 -   Chinchilla (DeepMind)
 -   Gemini (Google)
+    -   gemini-3-pro makes first place in text leaderboard of LMArena - Nov 2025
 -   Claude (Anthropic)
 
 #### Open source
