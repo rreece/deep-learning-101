@@ -368,7 +368,7 @@ Whitepapers:
 Media:
 
 -   AnandTech. (2024). [Tenstorrent launches Wormhole AI processors: 466 FP8 TFLOPS at 300W](https://www.anandtech.com/show/21482/tenstorrent-launches-wormhole-ai-processors-466-fp8-tflops-at-300w). 2024/07/19.
--   Register. (2024). [Tenstorrent's Blackhole chips boast 768 RISC-V cores and almost as many FLOPS](https://www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/). 2024/08/27.
+-   The Register. (2024). [Tenstorrent's Blackhole chips boast 768 RISC-V cores and almost as many FLOPS](https://www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/). 2024/08/27.
 -   corsix.org. (2024). [Tenstorrent Wormhole Series Part 1: Physicalities](https://www.corsix.org/content/tt-wh-part1). 2024/09/06.
 -   PR Newswire. (2024). [Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners](https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html). 2024/12/02.
 -   Chang, M. (2025). [Memory on Tenstorrent](https://clehaxze.tw/gemlog/2025/03-17-memory-on-tenstorrent.gmi). 2025-03-17.
@@ -376,6 +376,7 @@ Media:
 -   Turtle's AI. (2025). [Tenstorrent launches Blackhole™ line: Scalable AI solutions with RISC-V cores and developer support](https://www.turtlesai.com/en/pages-2635/tenstorrent-launches-blackhole-line-scalable-ai). 2025/04/04.
 -   ElioVP. (2025). [MI300X vs H200 vs RX 7900 XTX vs Tenstorrent n300s with vLLM](https://eliovp.com/mi300x-vs-h200-vs-rx-7900-xtx-vs-tenstorrent-n300s-with-vllm/). 2025/05/09.
 -   Ward-Foxton, S. (2025): [Jim Keller: Whatever Nvidia does, we'll do the opposite](https://www.eetimes.com/jim-keller-whatever-nvidia-does-well-do-the-opposite/). 2025/06/05.
+-   The Register. (2025). [Tenstorrent QuietBox tested: A high-performance RISC-V AI workstation trapped in a software blackhole](https://www.theregister.com/2025/11/27/tenstorrent_quietbox_review/). 2025/11/27.
 
 Research:
 
