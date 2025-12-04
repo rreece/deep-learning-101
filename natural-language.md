@@ -263,6 +263,7 @@ See also:
 -   Chinchilla (DeepMind)
 -   Gemini (Google)
     -   gemini-3-pro makes first place in text leaderboard of LMArena - Nov 2025
+    -   Bridgewater Associates. (2025). [Google’s Gemini 3 means AI’s "resource grab" phase is on](https://www.bridgewater.com/research-and-insights/googles-gemini-3-means-ais-resource-grab-phase-is-on).
 -   Claude (Anthropic)
 
 #### Open source
