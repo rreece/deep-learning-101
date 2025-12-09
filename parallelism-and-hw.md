@@ -376,6 +376,7 @@ Media:
 -   Turtle's AI. (2025). [Tenstorrent launches Blackhole™ line: Scalable AI solutions with RISC-V cores and developer support](https://www.turtlesai.com/en/pages-2635/tenstorrent-launches-blackhole-line-scalable-ai). 2025/04/04.
 -   ElioVP. (2025). [MI300X vs H200 vs RX 7900 XTX vs Tenstorrent n300s with vLLM](https://eliovp.com/mi300x-vs-h200-vs-rx-7900-xtx-vs-tenstorrent-n300s-with-vllm/). 2025/05/09.
 -   Ward-Foxton, S. (2025): [Jim Keller: Whatever Nvidia does, we'll do the opposite](https://www.eetimes.com/jim-keller-whatever-nvidia-does-well-do-the-opposite/). 2025/06/05.
+-   Ventureburn. (2025). [Tenstorrent eyes $800M funding at $3.2B valuation, led by Fidelity](https://ventureburn.com/tenstorrent-ai-funding-800m/). 2025/11/19.
 -   The Register. (2025). [Tenstorrent QuietBox tested: A high-performance RISC-V AI workstation trapped in a software blackhole](https://www.theregister.com/2025/11/27/tenstorrent_quietbox_review/). 2025/11/27.
 
 Research:
