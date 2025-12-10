@@ -378,7 +378,7 @@ Media:
 -   Ward-Foxton, S. (2025). [Jim Keller: Whatever Nvidia does, we'll do the opposite](https://www.eetimes.com/jim-keller-whatever-nvidia-does-well-do-the-opposite/). 2025/06/05.
 -   Ventureburn. (2025). [Tenstorrent eyes $800M funding at $3.2B valuation, led by Fidelity](https://ventureburn.com/tenstorrent-ai-funding-800m/). 2025/11/19.
 -   The Register. (2025). [Tenstorrent QuietBox tested: A high-performance RISC-V AI workstation trapped in a software blackhole](https://www.theregister.com/2025/11/27/tenstorrent_quietbox_review/). 2025/11/27.
--   Ward-Foxton, S. (2025). Layoffs at Tenstorrent as startup pivots towards developer sales](https://www.eetimes.com/layoffs-at-tenstorrent-as-startup-pivots-towards-developer-sales/). 2025/12/09.
+-   Ward-Foxton, S. (2025). [Layoffs at Tenstorrent as startup pivots towards developer sales](https://www.eetimes.com/layoffs-at-tenstorrent-as-startup-pivots-towards-developer-sales/). 2025/12/09.
 
 Research:
 
