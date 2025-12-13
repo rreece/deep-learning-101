@@ -259,6 +259,7 @@ Media:
 -   Belateche, Z. (2024). [Most AI chips aren’t cost-effective](https://www.zach.be/p/most-ai-chips-arent-cost-effective). 2024/11/26.
 -   techradar. (2024). [Microsoft backed, a tiny hardware startup that just launched its first AI processor that does inference without GPU or expensive HBM memory, and a key Nvidia partner, Micron Technology, is collaborating with it](https://www.techradar.com/pro/microsoft-backed-a-tiny-hardware-startup-that-just-launched-its-first-ai-processor-that-does-inference-without-gpu-or-expensive-hbm-memory-and-a-key-nvidia-partner-is-collaborating-with-it). 2024/12/28.
 -   EETimes. (2025). [d-Matrix targets fast LLM inference for 'real world scenarios’](https://www.eetimes.com/d-matrix-targets-fast-llm-inference-for-real-world-scenarios/). 2025/01/13.
+-   Sekar, V. (2025). [How d-Matrix's in-memory compute tackles AI inference economics](https://www.viksnewsletter.com/p/d-matrix-in-memory-compute). 2025/12/09.
 
 Research: TODO
 
