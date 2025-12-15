@@ -81,6 +81,8 @@ A neural network that uses ReLU acivations is a piecewise linear function.
 
 &rArr; Neural networks are *universal function approximators*.
 
+-   Cybenko, G. (1989). [Approximation by superposition of a sigmoidal function](https://web.njit.edu/~usman/courses/cs675_fall18/10.1.1.441.7873.pdf). *Mathematics
+of Control, Signals, and Systems*, 2, 303--314.
 -   Hornik, K., Stinchcombe, M., & White, H. (1989). [Multilayer feedforward networks are universal approximators](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf).
 -   Prince, S.J.D. (2023). [*Understanding Deep Learning*](https://udlbook.github.io/udlbook/).
 
