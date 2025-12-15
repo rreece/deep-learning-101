@@ -38,6 +38,10 @@ In the setting of *supervized learning*, then we have a training dataset
 that has pairs of input samples, $\vec{x}$, and the true *label*
 of what the prediction should be, $\tilde{y}$.
 
+"Deep learning" was coined by Rina Dechter (1986).
+
+-   Dechter, R. (1986). Learning while searching in constraint-satisfaction problems. *AAAI-86 Proceedings*.
+
 
 ## Layers of a network are matrix-function sandwiches
 
