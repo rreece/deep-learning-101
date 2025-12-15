@@ -87,6 +87,10 @@ Products:
 -    ..., V100, A100, H100, B100, GB200-based systems (DGX)
 -    GB200 NVL72: 1 rack, 1 exaFLOP, 120 kW
 
+Acquisitions:
+
+-   [NVIDIA acquires open-source workload management provider SchedMD](https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/). 2025/12/15.
+
 Whitepapers:
 
 -   Nvidia. (2023). [GPU performance background user's guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html).
