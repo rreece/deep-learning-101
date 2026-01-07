@@ -91,8 +91,8 @@ Acquisitions:
 
 -   SchedMD (2025)
     -   [Nvidia acquires open-source workload management provider SchedMD](https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/). 2025/12/15.
-    -   [Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html). 2025/12/24.
 -   Groq (2025)
+    -   [Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html). 2025/12/24.
     -   [Groq and Nvidia enter non-exclusive inference technology licensing agreement to accelerate AI inference at global scale](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale). 2025/12/24.
 
 Whitepapers:
