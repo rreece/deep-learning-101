@@ -176,7 +176,7 @@ Products: MTIA v2
 
 Acquisitions:
 
--   [Rivos](https://www.reuters.com/business/meta-buy-chip-startup-rivos-ai-effort-source-says-2025-09-30/). 2025-09-30.
+-   [Meta plans to buy chip startup Rivos to boost semiconductor efforts](https://www.reuters.com/business/meta-buy-chip-startup-rivos-ai-effort-source-says-2025-09-30/). 2025-09-30.
     -   [Meta is acquiring chip startup Rivos for a reported ~$2B](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/). 2025/10/08.
 -   [Meta buys Manus for $2B](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/). 2025/12/29.
 
