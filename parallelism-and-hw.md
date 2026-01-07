@@ -156,15 +156,18 @@ Whitepapers:
 
 Acquisitions:
 
--    Nervana Systems (2016)
--    Habana Labs (2019)
+-   Nervana Systems (2016)
+-   Habana Labs (2019)
+-   SambaNova (2026?)
+    -   [Intel takes major step in plan to acquire chip startup SambaNova](https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/). 2025-12-09.
+    -   [Intel nears $1.6 billion deal for AI chip startup SambaNova](https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova). 2025-12-12.
 
 Media:
 
 -   Lam, C. & Cozma, G. (2023). [Intel’s Ponte Vecchio: Chiplets gone crazy](https://chipsandcheese.com/p/intels-ponte-vecchio-chiplets-gone-crazy).
 -   Hotz, G. (2025). [The tragic case of Intel AI](https://geohot.github.io/blog/jekyll/update/2025/03/24/tragic-intel.html). 2025/03/24.
 -   Intel. (2025). [Intel and Trump Administration reach historic agreement to accelerate American technology and manufacturing leadership](https://www.intc.com/news-events/press-releases/detail/1748/intel-and-trump-administration-reach-historic-agreement-to). 2025/08/22.
--   Intel. (2025). [Intel and NVIDIA to jointly develop AI infrastructure and personal computing products](https://newsroom.intel.com/artificial-intelligence/intel-and-nvidia-to-jointly-develop-ai-infrastructure-and-personal-computing-products). 2025/09/18.
+-   Intel. (2025). [Intel and Nvidia to jointly develop AI infrastructure and personal computing products](https://newsroom.intel.com/artificial-intelligence/intel-and-nvidia-to-jointly-develop-ai-infrastructure-and-personal-computing-products). 2025/09/18.
 
 Research:
 
@@ -296,6 +299,7 @@ Research: TODO
 -   Jonathan Ross (CEO)
     -   Became Chief Software Architect at Nvidia (Dec 2025)
 -   Simon Edwards became new CEO of Groq (Dec 2025)
+-   Licensing agreement with Nvidia in Dec 2025
 -   All-SRAM approach
 
 Products:
@@ -338,6 +342,7 @@ TODO: Media, Research
 ### SambaNova
 
 -   Rodrigo Liang (CEO)
+-   To be acquired by Intel in 2026?
 
 Products:
 
