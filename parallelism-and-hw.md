@@ -290,6 +290,7 @@ Research: TODO
 ### Groq
 
 -   Jonathan Ross (CEO)
+    -   Became Chief Software Architect at Nvidia (Dec 2025)
 -   All-SRAM approach
 
 Products:
