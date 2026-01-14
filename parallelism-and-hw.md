@@ -132,7 +132,14 @@ Acquisitions:
 
 -   Untether AI (2025)
 
-TODO: Whitepapers, Media, Research
+TODO: Whitepapers
+
+Media:
+
+-   deepchip.com. (2025). [Jensen cleverly injects $2B into SNPS to thwart AMD/Cerebras/Intel's AI chips](https://www.deepchip.com/items/0600-01.html). 2025-12-05.
+    -   Lists AMD as #1, Cerebras as #2 threats to Nvidia in 2026.
+
+Research: TODO
 
 ### Apple
 
