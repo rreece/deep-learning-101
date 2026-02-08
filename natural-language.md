@@ -328,6 +328,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Shah, J. et al. (2024). [FlashAttention-3: Fast and accurate attention with asynchrony and low-precision](https://arxiv.org/abs/2407.08608).
 -   Shi, L. et al. (2024). [Keep the cost down: A review on methods to optimize LLM' s KV-cache consumption](https://arxiv.org/abs/2407.18003).
 -   Fleetwood, C. (2025). [Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures).
+-   Isztld, D. (2026). [Online softmax demystified: From PyTorch to FlashAttention in Triton](https://isztld.com/posts/online-softmax.html).
 
 
 ## Efficient transformers: Architecture modifications
