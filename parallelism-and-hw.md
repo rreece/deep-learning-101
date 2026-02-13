@@ -256,6 +256,7 @@ Media:
 -   SeekingAlpha. (2026). [Cerebras in talks to raise $1B in new funding, could unveil new customer soon](https://seekingalpha.com/news/4539055-cerebras-in-talks-to-raise-1b-in-new-funding-could-unveil-new-customer-soon-report). 2026-01-14.
 -   WPN. (2026). [Cerebras Targets $1B Funding at $22B Valuation to Challenge Nvidia in AI Chips ](https://www.webpronews.com/cerebras-targets-1b-funding-at-22b-valuation-to-challenge-nvidia-in-ai-chips/). 2026-01-14.
 -   OpenAI. (2026). [OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/). 2026-01-14.
+-   fnex.com. (2026). [Cerebras raises $1 billion Series H at $23B valuation](https://fnex.com/cerebras-raises-1-billion-series-h-at-23b-valuation/). 2026-02-10. -- Series H
 
 ![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
 
