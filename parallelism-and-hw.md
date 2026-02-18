@@ -372,7 +372,13 @@ Whitepapers:
 -   SambaNova. (2024). [SambaNova SN40L: Scaling the AI memory wall with dataflow and composition of experts](https://arxiv.org/abs/2405.07518).
 -   SambaNova. (2024). [Why SambaNova's SN40L chip is the best for inference](https://sambanova.ai/blog/sn40l-chip-best-inference-solution).
 
-TODO: Media, Research
+Media:
+
+-   Belateche, Z. (2025). [Why is SambaNova giving up on AI training?](https://www.zach.be/p/why-is-sambanova-giving-up-on-ai). 2025/05/05.
+
+Research
+
+-   TODO
 
 ### Tenstorrent
 
@@ -426,7 +432,6 @@ Research:
 -   Almerol, J.L., Boella, E., Spera, M. & Gregori, D. (2025). [Accelerating gravitational n-body simulations using the RISC-V-based Tenstorrent Wormhole](https://arxiv.org/abs/2509.19294).
 -   Braun, L. (2025). [From lock-in to leverage – How RISC-V diffusion could rebalance AI hardware geopolitics](https://zenodo.org/records/17260577).
 -   Hegde, K. (2025). [How Tenstorrent accelerates chip development with ChipStack's AI tools running on its own AI chips](https://www.chipstack.ai/blog/how-tenstorrent-accelerates-chip-development-with-chipstack-s-ai-tools-running-on-its-own-ai-chips).
-
 
 
 ### Others
