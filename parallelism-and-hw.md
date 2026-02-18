@@ -376,9 +376,7 @@ Media:
 
 -   Belateche, Z. (2025). [Why is SambaNova giving up on AI training?](https://www.zach.be/p/why-is-sambanova-giving-up-on-ai). 2025/05/05.
 
-Research
-
--   TODO
+TODO: Research
 
 ### Tenstorrent
 
