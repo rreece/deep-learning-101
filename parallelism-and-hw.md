@@ -477,7 +477,8 @@ For accuracy measurements, see [Evaluation methods](https://github.com/rreece/de
 -   Thinking Machines Lab. (2025). [Tinker is a training API](https://thinkingmachines.ai/tinker/).
 -   Huyen, C. (2025). *AI Engineering: Building Applications with Foundation Models*.
 -   Fregly, C. (2025). [*AI Systems Performance Engineering: Optimizing Model Training and Inference Workloads with GPUs, CUDA, and PyTorch*](https://a.co/d/6wIO3ab).
-- Debnath, S. (2025). [From single GPU to clusters: A practical journey into distributed training with PyTorch and Ray](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/).
+-   Debnath, S. (2025). [From single GPU to clusters: A practical journey into distributed training with PyTorch and Ray](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/).
+-   Wodecki, B. (2026). [AI inference crisis: Google engineers on why network latency and memory trump compute](https://www.sdxcentral.com/news/ai-inference-crisis-google-engineers-on-why-network-latency-and-memory-trump-compute/). 2026/01/13.
 
 
 ## Conclusion
