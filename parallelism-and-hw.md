@@ -487,6 +487,11 @@ Surveys:
 
 -   Reuther, A. et al. (2022). [AI and ML accelerator survey and trends](https://arxiv.org/abs/2210.04055).
 -   techannouncer.com. (2025). [AI chip market share by company: A deep dive into 2025's top players](https://techannouncer.com/ai-chip-market-share-by-company-a-deep-dive-into-2025s-top-players/).
+-   Emilio Andere. (2026). [Deep dives on 6 Nvidia competitors](https://www.linkedin.com/posts/emi-andere_i-wrote-deep-dives-on-6-nvidia-competitors-activity-7429975000507449344-DHPE).
+    -   [tenstorrent](https://tinyurl.com/tenstorrent-post)
+    -   [google tpu](https://tinyurl.com/tpu-post)
+    -   [sambanova](https://tinyurl.com/sambanova-postt)
+    -   [furiosa](https://tinyurl.com/furiosa-ai-emi)
 
 --------
 
