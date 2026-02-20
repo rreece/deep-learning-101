@@ -449,6 +449,7 @@ Research:
     -   Reiner Pope (CEO)
 -   Taalas
     -   Ljubisa Bajic (CEO) & Lejla Bajic (COO)
+    -   Bajic, L. (2026). [The path to ubiquitous AI](https://taalas.com/the-path-to-ubiquitous-ai/). 2026/02/19.
 -   Unconventional
     -   Naveen Rao (CEO)
 -   Untether AI
