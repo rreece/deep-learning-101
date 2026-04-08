@@ -430,6 +430,8 @@ Research:
 -   Almerol, J.L., Boella, E., Spera, M. & Gregori, D. (2025). [Accelerating gravitational n-body simulations using the RISC-V-based Tenstorrent Wormhole](https://arxiv.org/abs/2509.19294).
 -   Braun, L. (2025). [From lock-in to leverage – How RISC-V diffusion could rebalance AI hardware geopolitics](https://zenodo.org/records/17260577).
 -   Hegde, K. (2025). [How Tenstorrent accelerates chip development with ChipStack's AI tools running on its own AI chips](https://www.chipstack.ai/blog/how-tenstorrent-accelerates-chip-development-with-chipstack-s-ai-tools-running-on-its-own-ai-chips).
+-   Taylor, M. et al. (2026). [Numerical kernels on a spatial accelerator: A study of Tenstorrent Wormhole](https://arxiv.org/abs/2603.23343). (Sandia)
+-   Ranjith, M.S., Mandloi, A., & Kamath, S. (2026). [Rewriting TTS inference economics: Lightning V2 on Tenstorrent achieves 4x lower cost than NVIDIA L40S](https://arxiv.org/abs/2604.03279).
 
 
 ### Others
