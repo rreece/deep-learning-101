@@ -259,6 +259,7 @@ Media:
 -   fnex.com. (2026). [Cerebras raises $1 billion Series H at $23B valuation](https://fnex.com/cerebras-raises-1-billion-series-h-at-23b-valuation/). 2026-02-10. -- Series H
 -   Cerebras. (2026). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2026/04/17.
 -   CNBC. (2026). [AI chipmaker Cerebras files to go public after scrapping IPO plans last year](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html). 2026/04/17.
+-   Tech Insider. (2026). [Cerebras IPO filing: Inside the $510M revenue, $10B OpenAI deal, and $23B valuation reshaping the AI chip market](https://tech-insider.org/cerebras-ipo-filing-510m-revenue-openai-deal-23b-valuation-2026/). 2026/04/19.
 
 ![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
 
