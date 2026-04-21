@@ -423,6 +423,7 @@ Media:
 -   Ward-Foxton, S. (2025). [Layoffs at Tenstorrent as startup pivots towards developer sales](https://www.eetimes.com/layoffs-at-tenstorrent-as-startup-pivots-towards-developer-sales/). 2025/12/09.
 -   Coreteks. (2025). Video: [AMD and INTEL’s biggest nightmare is now coming true](https://www.youtube.com/watch?v=wx2Q7nwczIw). 2025-12-02.
 -   Smith, M.S. (2026). [These AI workstations look like PCs but pack a stronger punch](https://spectrum.ieee.org/ai-workstation-looks-like-pcs). 2026-03-24.
+-   Ward-Foxton, S. (2026). [Tenstorrent previews large compute cluster, generates video faster than real time](https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/). 2026-04-21.
 
 Research:
 
