@@ -136,7 +136,7 @@ TODO: Whitepapers
 
 Media:
 
--   deepchip.com. (2025). [Jensen cleverly injects $2B into SNPS to thwart AMD/Cerebras/Intel's AI chips](https://www.deepchip.com/items/0600-01.html). 2025-12-05.
+-   deepchip.com. (2025). [Jensen cleverly injects $2B into SNPS to thwart AMD/Cerebras/Intel's AI chips](https://www.deepchip.com/items/0600-01.html). 2025/12/05.
     -   Lists AMD as #1, Cerebras as #2 threats to Nvidia in 2026.
 
 Research: TODO
@@ -168,8 +168,8 @@ Acquisitions:
 -   Nervana Systems (2016)
 -   Habana Labs (2019)
 -   SambaNova (2026?)
-    -   [Intel takes major step in plan to acquire chip startup SambaNova](https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/). 2025-12-09.
-    -   [Intel nears $1.6 billion deal for AI chip startup SambaNova](https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova). 2025-12-12.
+    -   [Intel takes major step in plan to acquire chip startup SambaNova](https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/). 2025/12/09.
+    -   [Intel nears $1.6 billion deal for AI chip startup SambaNova](https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova). 2025/12/12.
 
 Media:
 
@@ -189,7 +189,7 @@ Products: MTIA v2
 Acquisitions:
 
 -   Rivos (2025)
-    -   [Meta plans to buy chip startup Rivos to boost semiconductor efforts](https://www.reuters.com/business/meta-buy-chip-startup-rivos-ai-effort-source-says-2025-09-30/). 2025-09-30.
+    -   [Meta plans to buy chip startup Rivos to boost semiconductor efforts](https://www.reuters.com/business/meta-buy-chip-startup-rivos-ai-effort-source-says-2025-09-30/). 2025/09/30.
     -   [Meta is acquiring chip startup Rivos for a reported ~$2B](https://semiwiki.com/forum/threads/meta-is-acquiring-chip-startup-rivos-for-a-reported-2b-to-turbocharge-its-in-house-ai-chips-mtia-and-cut-its-heavy-reliance-on-nvidia.23756/). 2025/10/08.
 -   Manus (2025)
     -   [Meta buys Manus for $2B](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/). 2025/12/29.
@@ -253,10 +253,10 @@ Media:
 -   techstartups.com. (2025). [Cerebras seeks $1B in private funding to battle Nvidia, delays IPO over security scrutiny](https://techstartups.com/2025/07/29/cerebras-seeks-1b-in-private-funding-to-battle-nvidia-delays-ipo-over-security-scrutiny/). 2025/07/29.
 -   TechCrunch. (2025). [A year after filing to IPO, still-private Cerebras Systems raises $1.1B](https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/). 2025/09/30. -- Series G
 -   Freund, K. (2025). [Cerebras, Groq And SambaNova line up to compete with Nvidia](https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia). 2025/10/21.
--   SeekingAlpha. (2026). [Cerebras in talks to raise $1B in new funding, could unveil new customer soon](https://seekingalpha.com/news/4539055-cerebras-in-talks-to-raise-1b-in-new-funding-could-unveil-new-customer-soon-report). 2026-01-14.
--   WPN. (2026). [Cerebras Targets $1B Funding at $22B Valuation to Challenge Nvidia in AI Chips ](https://www.webpronews.com/cerebras-targets-1b-funding-at-22b-valuation-to-challenge-nvidia-in-ai-chips/). 2026-01-14.
--   OpenAI. (2026). [OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/). 2026-01-14.
--   fnex.com. (2026). [Cerebras raises $1 billion Series H at $23B valuation](https://fnex.com/cerebras-raises-1-billion-series-h-at-23b-valuation/). 2026-02-10. -- Series H
+-   SeekingAlpha. (2026). [Cerebras in talks to raise $1B in new funding, could unveil new customer soon](https://seekingalpha.com/news/4539055-cerebras-in-talks-to-raise-1b-in-new-funding-could-unveil-new-customer-soon-report). 2026/01/14.
+-   WPN. (2026). [Cerebras Targets $1B Funding at $22B Valuation to Challenge Nvidia in AI Chips ](https://www.webpronews.com/cerebras-targets-1b-funding-at-22b-valuation-to-challenge-nvidia-in-ai-chips/). 2026/01/14.
+-   OpenAI. (2026). [OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/). 2026/01/14.
+-   fnex.com. (2026). [Cerebras raises $1 billion Series H at $23B valuation](https://fnex.com/cerebras-raises-1-billion-series-h-at-23b-valuation/). 2026/02/10. -- Series H
 -   Cerebras. (2026). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2026/04/17.
 -   CNBC. (2026). [AI chipmaker Cerebras files to go public after scrapping IPO plans last year](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html). 2026/04/17.
 -   Tech Insider. (2026). [Cerebras IPO filing: Inside the $510M revenue, $10B OpenAI deal, and $23B valuation reshaping the AI chip market](https://tech-insider.org/cerebras-ipo-filing-510m-revenue-openai-deal-23b-valuation-2026/). 2026/04/19.
@@ -417,16 +417,16 @@ Media:
 -   The Register. (2024). [Tenstorrent's Blackhole chips boast 768 RISC-V cores and almost as many FLOPS](https://www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/). 2024/08/27.
 -   corsix.org. (2024). [Tenstorrent Wormhole Series Part 1: Physicalities](https://www.corsix.org/content/tt-wh-part1). 2024/09/06.
 -   PR Newswire. (2024). [Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners](https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html). 2024/12/02.
--   Chang, M. (2025). [Memory on Tenstorrent](https://clehaxze.tw/gemlog/2025/03-17-memory-on-tenstorrent.gmi). 2025-03-17.
--   Chang, M. (2025). [Programming Tenstorrent processors](https://clehaxze.tw/gemlog/2025/04-21-programming-tensotrrent-processors.gmi). 2025-04-21.
+-   Chang, M. (2025). [Memory on Tenstorrent](https://clehaxze.tw/gemlog/2025/03-17-memory-on-tenstorrent.gmi). 2025/03/17.
+-   Chang, M. (2025). [Programming Tenstorrent processors](https://clehaxze.tw/gemlog/2025/04-21-programming-tensotrrent-processors.gmi). 2025/04/21.
 -   Turtle's AI. (2025). [Tenstorrent launches Blackhole™ line: Scalable AI solutions with RISC-V cores and developer support](https://www.turtlesai.com/en/pages-2635/tenstorrent-launches-blackhole-line-scalable-ai). 2025/04/04.
 -   ElioVP. (2025). [MI300X vs H200 vs RX 7900 XTX vs Tenstorrent n300s with vLLM](https://eliovp.com/mi300x-vs-h200-vs-rx-7900-xtx-vs-tenstorrent-n300s-with-vllm/). 2025/05/09.
 -   Ward-Foxton, S. (2025). [Jim Keller: Whatever Nvidia does, we'll do the opposite](https://www.eetimes.com/jim-keller-whatever-nvidia-does-well-do-the-opposite/). 2025/06/05.
 -   Ventureburn. (2025). [Tenstorrent eyes $800M funding at $3.2B valuation, led by Fidelity](https://ventureburn.com/tenstorrent-ai-funding-800m/). 2025/11/19.
 -   The Register. (2025). [Tenstorrent QuietBox tested: A high-performance RISC-V AI workstation trapped in a software blackhole](https://www.theregister.com/2025/11/27/tenstorrent_quietbox_review/). 2025/11/27.
 -   Ward-Foxton, S. (2025). [Layoffs at Tenstorrent as startup pivots towards developer sales](https://www.eetimes.com/layoffs-at-tenstorrent-as-startup-pivots-towards-developer-sales/). 2025/12/09.
--   Coreteks. (2025). Video: [AMD and INTEL’s biggest nightmare is now coming true](https://www.youtube.com/watch?v=wx2Q7nwczIw). 2025-12-02.
--   Smith, M.S. (2026). [These AI workstations look like PCs but pack a stronger punch](https://spectrum.ieee.org/ai-workstation-looks-like-pcs). 2026-03-24.
+-   Coreteks. (2025). Video: [AMD and INTEL’s biggest nightmare is now coming true](https://www.youtube.com/watch?v=wx2Q7nwczIw). 2025/12/02.
+-   Smith, M.S. (2026). [These AI workstations look like PCs but pack a stronger punch](https://spectrum.ieee.org/ai-workstation-looks-like-pcs). 2026/03/24.
 -   Ward-Foxton, S. (2026). [Tenstorrent previews large compute cluster, generates video faster than real time](https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/). 2026/04/21.
 -   Ward-Foxton, S. (2026). [Tenstorrent unveils next-gen servers for fast tokens, no disaggregation needed](https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed/). 2026/04/28.
 -   Bloomberg. (2026). [AI chip startup Tenstorrent draws takeover interest from Intel, Qualcomm](https://www.msn.com/en-us/money/technology/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm/ar-AA23vmF4). 2026/05/18.
@@ -469,7 +469,7 @@ Research:
     -   Naveen Rao (CEO)
 -   Untether AI
     -   Chris Walker (CEO)
-    -   CRN. (2025). [AMD acquires team behind AI chip startup Untether AI](https://www.crn.com/news/components-peripherals/2025/exclusive-amd-acquires-team-behind-ai-chip-startup-untether-ai). 2025-06-05.
+    -   CRN. (2025). [AMD acquires team behind AI chip startup Untether AI](https://www.crn.com/news/components-peripherals/2025/exclusive-amd-acquires-team-behind-ai-chip-startup-untether-ai). 2025/06/05.
 
 
 ## Benchmarking
