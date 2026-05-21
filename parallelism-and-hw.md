@@ -260,6 +260,9 @@ Media:
 -   Cerebras. (2026). [S-1 filing with the SEC](https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm). 2026/04/17.
 -   CNBC. (2026). [AI chipmaker Cerebras files to go public after scrapping IPO plans last year](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html). 2026/04/17.
 -   Tech Insider. (2026). [Cerebras IPO filing: Inside the $510M revenue, $10B OpenAI deal, and $23B valuation reshaping the AI chip market](https://tech-insider.org/cerebras-ipo-filing-510m-revenue-openai-deal-23b-valuation-2026/). 2026/04/19.
+-   CNBC. (2026). [Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker’s market cap to $95 billion](https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html). 2026/05/14.
+-   Cerebras. (2026). [Cerebras Systems announces closing of Initial Public Offering](https://www.cerebras.ai/press-release/cerebras-systems-announces-closing-of-initial-public-offering). 2026/05/15.
+-   Nasdaq. (2026). [Cerebras IPO: Ushering in a new era of AI hardware](https://www.nasdaq.com/newsroom/cerebras-ipo-ushering-new-era-ai-hardware). 2026/05/15.
 
 ![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
 
@@ -423,7 +426,12 @@ Media:
 -   Ward-Foxton, S. (2025). [Layoffs at Tenstorrent as startup pivots towards developer sales](https://www.eetimes.com/layoffs-at-tenstorrent-as-startup-pivots-towards-developer-sales/). 2025/12/09.
 -   Coreteks. (2025). Video: [AMD and INTEL’s biggest nightmare is now coming true](https://www.youtube.com/watch?v=wx2Q7nwczIw). 2025-12-02.
 -   Smith, M.S. (2026). [These AI workstations look like PCs but pack a stronger punch](https://spectrum.ieee.org/ai-workstation-looks-like-pcs). 2026-03-24.
--   Ward-Foxton, S. (2026). [Tenstorrent previews large compute cluster, generates video faster than real time](https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/). 2026-04-21.
+-   Ward-Foxton, S. (2026). [Tenstorrent previews large compute cluster, generates video faster than real time](https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/). 2026/04/21.
+-   Ward-Foxton, S. (2026). [Tenstorrent unveils next-gen servers for fast tokens, no disaggregation needed](https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed/). 2026/04/28.
+-   Tenstorrent. (2026). [TT-Deploy](https://tenstorrent.com/deploy). 2026/05/01.
+-   Bloomberg. (2026). [AI chip startup Tenstorrent draws takeover interest from Intel, Qualcomm](https://www.msn.com/en-us/money/technology/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm/ar-AA23vmF4). 2026/05/18.
+-   The Next Web. (2026). [Intel and Qualcomm circle Tenstorrent as the NVIDIA-alternative trade comes due](https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v). 2026/05/19.
+-   Yahoo Finance. (2026). [Intel shares rise on reports of Tenstorrent acquisition talks](https://finance.yahoo.com/markets/stocks/articles/qualcomm-tenstorrent-interest-puts-ai-151735800.html). 2026/05/20.
 
 Research:
 
