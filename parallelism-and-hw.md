@@ -409,6 +409,7 @@ Whitepapers:
 -   OCA. (2025). [Open Chiplet Architecture](https://cdn.sanity.io/files/jpb4ed5r/production/bf1d903cec88d24280ede976e5f0e173ac31e95d.pdf).
 -   Moreh. (2025). [Distributed inference on heterogeneous accelerators including GPUs, Rubin CPX, and AI accelerators](https://moreh.io/blog/distributed-inference-on-heterogeneous-accelerators-including-gpus-rubin-cpx-and-ai-accelerators-250923/).
 -   Moreh. (2025). [Moreh-Tenstorrent AI data center solution system architecture](https://moreh.io/technical-report/moreh-tenstorrent-ai-data-center-solution-system-architecture-251118/).
+-   Tenstorrent. (2026). [TT-Deploy](https://tenstorrent.com/deploy). 2026/05/01.
 
 Media:
 
@@ -428,7 +429,6 @@ Media:
 -   Smith, M.S. (2026). [These AI workstations look like PCs but pack a stronger punch](https://spectrum.ieee.org/ai-workstation-looks-like-pcs). 2026-03-24.
 -   Ward-Foxton, S. (2026). [Tenstorrent previews large compute cluster, generates video faster than real time](https://www.eetimes.com/tenstorrent-previews-large-compute-cluster-generates-video-faster-than-real-time/). 2026/04/21.
 -   Ward-Foxton, S. (2026). [Tenstorrent unveils next-gen servers for fast tokens, no disaggregation needed](https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed/). 2026/04/28.
--   Tenstorrent. (2026). [TT-Deploy](https://tenstorrent.com/deploy). 2026/05/01.
 -   Bloomberg. (2026). [AI chip startup Tenstorrent draws takeover interest from Intel, Qualcomm](https://www.msn.com/en-us/money/technology/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm/ar-AA23vmF4). 2026/05/18.
 -   The Next Web. (2026). [Intel and Qualcomm circle Tenstorrent as the NVIDIA-alternative trade comes due](https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v). 2026/05/19.
 -   Yahoo Finance. (2026). [Intel shares rise on reports of Tenstorrent acquisition talks](https://finance.yahoo.com/markets/stocks/articles/qualcomm-tenstorrent-interest-puts-ai-151735800.html). 2026/05/20.
