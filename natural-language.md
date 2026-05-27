@@ -464,12 +464,20 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 ![DeepSeek V3 vs Kimi K2 from Sebastian Raschka (source: [LinkedIn](https://www.linkedin.com/posts/sebastianraschka_the-newly-released-1-trillion-parameter-kimi-activity-7349829221013180416-sIOh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)).](img/deepseek-vs-kimi.jpg)
 
 
+### Market share
+
+![source: https://www.globenewswire.com/news-release/2025/07/31/3125037/0/en/Enterprise-LLM-Spend-Reaches-8-4B-as-Anthropic-Overtakes-OpenAI-According-to-New-Menlo-Ventures-Report-on-LLM-Market.html](img/llm-api-market-share-change-2025-07-30.png)
+
+source: [globenewswire.com](https://www.globenewswire.com/news-release/2025/07/31/3125037/0/en/Enterprise-LLM-Spend-Reaches-8-4B-as-Anthropic-Overtakes-OpenAI-According-to-New-Menlo-Ventures-Report-on-LLM-Market.html) 2025/07/31
+
+![source: https://x.com/GergelyOrosz/status/2059619322947834271](img/anthropic-vs-openai-revenue-2026.jpeg)
+
+source: [The Information](https://x.com/GergelyOrosz/status/2059619322947834271) 2026/05/27
+
+
 ### Misc
 
 -   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746).
-
-
-![source: https://www.globenewswire.com/news-release/2025/07/31/3125037/0/en/Enterprise-LLM-Spend-Reaches-8-4B-as-Anthropic-Overtakes-OpenAI-According-to-New-Menlo-Ventures-Report-on-LLM-Market.html](img/llm-api-market-share-change-2025-07-30.png)
 
 
 --------
