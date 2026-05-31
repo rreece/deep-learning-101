@@ -182,6 +182,15 @@ the normalization layers. Most transformers now user "pre-layer-norm" unlike the
 
 Some transformer models (e.g., llama3) use RMSNorm instead of LayerNorm.
 
+### Positional encodings
+
+-   The original Vaswani paper uses Absolute Positional Encodings based on sinusoids.
+-   Most now use Rotary Position Embedding (RoPE)
+    -   Su, J. et al. (2021). [RoFormer: Enhanced transformer with rotary position embedding](https://arxiv.org/abs/2104.09864).
+-   Zhang, Y. (2025). [Group Representational Position Encoding](https://arxiv.org/abs/2512.07805).
+-   Puranik, A. (2026). [Using group theory to explore the space of positional encodings for attention](). - Jane Street Blog
+
+
 See also:
 
 -   Alammar, J. (2018). [The illustrated transformer](https://jalammar.github.io/illustrated-transformer/).
