@@ -445,6 +445,7 @@ Research:
 -   Hegde, K. (2025). [How Tenstorrent accelerates chip development with ChipStack's AI tools running on its own AI chips](https://www.chipstack.ai/blog/how-tenstorrent-accelerates-chip-development-with-chipstack-s-ai-tools-running-on-its-own-ai-chips).
 -   Taylor, M. et al. (2026). [Numerical kernels on a spatial accelerator: A study of Tenstorrent Wormhole](https://arxiv.org/abs/2603.23343). (Sandia)
 -   Ranjith, M.S., Mandloi, A., & Kamath, S. (2026). [Rewriting TTS inference economics: Lightning V2 on Tenstorrent achieves 4x lower cost than NVIDIA L40S](https://arxiv.org/abs/2604.03279).
+-   Wu, Q. et al. (2026). [Operator fusion for LLM inference on the Tensix architecture](https://arxiv.org/abs/2606.09879).
 
 
 ### Others
