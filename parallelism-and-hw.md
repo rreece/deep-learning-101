@@ -201,6 +201,15 @@ Whitepapers:
 
 TODO: Media, Research
 
+### OpenAI
+
+Products: Jalapeño
+
+Media:
+
+-   OpenAI. (2026). [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/). 2026/06/24.
+
+
 ## Accelerators - Startups
 
 ### Axelera
