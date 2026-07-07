@@ -419,6 +419,7 @@ Whitepapers:
 -   Moreh. (2025). [Distributed inference on heterogeneous accelerators including GPUs, Rubin CPX, and AI accelerators](https://moreh.io/blog/distributed-inference-on-heterogeneous-accelerators-including-gpus-rubin-cpx-and-ai-accelerators-250923/).
 -   Moreh. (2025). [Moreh-Tenstorrent AI data center solution system architecture](https://moreh.io/technical-report/moreh-tenstorrent-ai-data-center-solution-system-architecture-251118/).
 -   Tenstorrent. (2026). [TT-Deploy](https://tenstorrent.com/deploy). 2026/05/01.
+-   Tenstorrent. (2026). [Tenstorrent sets new performance records, launches TT-Ascalon S, and expands across Japan](https://tenstorrent.com/newsroom/tenstorrent-sets-new-performance-records-launches-tt--ascalon-s). 2026/06/30.
 
 Media:
 
