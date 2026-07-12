@@ -272,6 +272,7 @@ Media:
 -   CNBC. (2026). [Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker’s market cap to $95 billion](https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html). 2026/05/14.
 -   Cerebras. (2026). [Cerebras Systems announces closing of Initial Public Offering](https://www.cerebras.ai/press-release/cerebras-systems-announces-closing-of-initial-public-offering). 2026/05/15.
 -   Nasdaq. (2026). [Cerebras IPO: Ushering in a new era of AI hardware](https://www.nasdaq.com/newsroom/cerebras-ipo-ushering-new-era-ai-hardware). 2026/05/15.
+-   EuroNews. (2026). [Cerebras targets Europe with multibillion-dollar AI expansion, challenging Nvidia](https://www.euronews.com/business/2026/07/09/cerebras-targets-europe-with-multibillion-dollar-ai-expansion-challenging-nvidia). 2026/07/09.
 
 ![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
 
