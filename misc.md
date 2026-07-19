@@ -82,6 +82,8 @@
 -   Lewis, P. et al. (2020). [Retrieval-Augmented Generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf).
 -   Requires a large context size to hold the retrieved documents
 -   Jin, B., Yoon, J., Han, J., & Arik, S.O. (2024). [Long-context LLMs meet RAG: Overcoming challenges for long inputs in RAG](https://arxiv.org/abs/2410.05983).
+-   Anthropic. (2024). [Introducing contextual retrieval](https://www.anthropic.com/engineering/contextual-retrieval).
+-   Cerebras. (2026). [How we built our knowledge base](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base).
 
 ![RAG explained.](img/rag-explained-clarifai.png)
 
