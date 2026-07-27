@@ -212,7 +212,7 @@ Media:
 
 ## Accelerators - Startups
 
-![source: [Deedy Das[(https://www.linkedin.com/posts/debarghyadas_every-single-startup-working-on-next-gen-share-7486797473802244096-WAW_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)](img/Deedy-Das-2026-07-25.jpeg)
+![source: [Deedy Das](https://www.linkedin.com/posts/debarghyadas_every-single-startup-working-on-next-gen-share-7486797473802244096-WAW_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)](img/Deedy-Das-2026-07-25.jpeg)
 
 
 ### Axelera
