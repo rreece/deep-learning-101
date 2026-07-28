@@ -474,6 +474,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 2026
 
+-   Modular. (2026). [*LLM Inference Handbook*](https://handbook.modular.com/).
 -   [Open Weights and American AI Leadership](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf). 2026/07/24.
 
 
