@@ -210,6 +210,13 @@ Media:
 -   OpenAI. (2026). [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/). 2026/06/24.
 
 
+### Qualcomm
+
+Acquisitions:
+
+-   Modular. (2026). [Qualcomm completes acquisition of Modular](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular). 2026/07/29.
+
+
 ## Accelerators - Startups
 
 ![source: [Deedy Das](https://www.linkedin.com/posts/debarghyadas_every-single-startup-working-on-next-gen-share-7486797473802244096-WAW_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOWvz4BEGsl2E-RMs6Y4C6BxCvMkWS8AYY)](img/Deedy-Das-2026-07-25.jpeg)
