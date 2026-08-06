@@ -131,6 +131,7 @@ Products:
 Acquisitions:
 
 -   Untether AI (2025)
+-   Taalas (2026)
 
 TODO: Whitepapers
 
@@ -492,6 +493,7 @@ Research:
 -   Taalas
     -   Ljubisa Bajic (CEO) & Lejla Bajic (COO)
     -   Bajic, L. (2026). [The path to ubiquitous AI](https://taalas.com/the-path-to-ubiquitous-ai/). 2026/02/19.
+    -   Ward-Foxton, S. (2026). [AI chip startup Taalas acquired by AMD](https://www.eetimes.com/ai-chip-startup-taalas-acquired-by-amd/). 2026/08/06.
 -   Unconventional
     -   Naveen Rao (CEO)
 -   Untether AI
