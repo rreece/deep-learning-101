@@ -305,6 +305,10 @@ Research:
 
 Products: Corsair
 
+Acquisitions:
+
+-   d-Matrix. (2026). [d-Matrix acquires Wallaroo.ai to speed up deployment of heterogeneous AI inference workloads](https://www.d-matrix.ai/announcements/d-matrix-acquires-wallaroo/). 2026/08/03.
+
 Whitepapers:
 
 -   d-Matrix. (2023). [d-Matrix total cost of ownership white paper](https://www.d-matrix.ai/wp-content/uploads/2023/09/d-Matrix-WhitePaper-Approved-w-cover.pdf).
