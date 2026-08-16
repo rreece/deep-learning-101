@@ -532,7 +532,7 @@ For accuracy measurements, see [Evaluation methods](https://github.com/rreece/de
 
 ## Conclusion
 
-Surveys:
+### Surveys
 
 -   Reuther, A. et al. (2022). [AI and ML accelerator survey and trends](https://arxiv.org/abs/2210.04055).
 -   techannouncer.com. (2025). [AI chip market share by company: A deep dive into 2025's top players](https://techannouncer.com/ai-chip-market-share-by-company-a-deep-dive-into-2025s-top-players/).
@@ -541,6 +541,18 @@ Surveys:
     -   [google tpu](https://tinyurl.com/tpu-post)
     -   [sambanova](https://tinyurl.com/sambanova-postt)
     -   [furiosa](https://tinyurl.com/furiosa-ai-emi)
+
+
+### Market share
+
+![source: https://epoch.ai/data-insights/ai-datacenter-share-gdp](img/ai-datacenter-share-gdp.png)
+
+source: [Epoch AI](https://epoch.ai/data-insights/ai-datacenter-share-gdp) 2026/06/05
+
+![source: https://www.coatue.com/c/takes/chart-of-the-day-2026-08-14](img/hyperscaler_capex_vs_defense.png) 
+
+source: [Coatue](https://www.coatue.com/c/takes/chart-of-the-day-2026-08-14) 2026/08/14
+
 
 --------
 

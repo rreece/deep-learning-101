@@ -488,10 +488,6 @@ source: [globenewswire.com](https://www.globenewswire.com/news-release/2025/07/3
 
 source: [The Information](https://x.com/GergelyOrosz/status/2059619322947834271) 2026/05/27
 
-![source: https://www.coatue.com/c/takes/chart-of-the-day-2026-08-14](img/hyperscaler_capex_vs_defense.png) 
-
-source: [Coatue](https://www.coatue.com/c/takes/chart-of-the-day-2026-08-14) 2026/08/14
-
 
 ### Misc
 
