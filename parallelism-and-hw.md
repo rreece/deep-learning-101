@@ -286,6 +286,9 @@ Media:
 -   EuroNews. (2026). [Cerebras targets Europe with multibillion-dollar AI expansion, challenging Nvidia](https://www.euronews.com/business/2026/07/09/cerebras-targets-europe-with-multibillion-dollar-ai-expansion-challenging-nvidia). 2026/07/09.
 -   AMD. (2026). [AMD and Cerebras announce industry-leading ultra-low-latency and high throughput AI inference solution](https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution). 2026/07/23.
 -   CNBC. (2026). [Cerebras stock gains on AMD partnership](https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html). 2026/07/27.
+-   Cerebras. (2026). Video: [Cerebras Supernova 2026](https://www.youtube.com/watch?v=JTNk__O4poU) - CS-4 announcement event. 2026/08/18.
+-   Cerebras. (2026). [Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia](https://www.cerebras.ai/blog/introducing-cerebras-cs-4). 2026/08/18.
+-   Yahoo Finance. (2026). [Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia](https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html). 2026/08/19.
 
 ![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
 
