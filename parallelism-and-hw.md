@@ -206,9 +206,14 @@ TODO: Media, Research
 
 Products: Jalapeño
 
+Whitepapers:
+
+-   OpenAI. (2026). [Jalapeño's first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/). 2026/08/25.
+
 Media:
 
 -   OpenAI. (2026). [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/). 2026/06/24.
+-   Yahoo Tech. (2026). [OpenAI's Jalapeño chip is outperforming Nvidia, AMD, and Google chips, SemiAnalysis says](https://tech.yahoo.com/ai/articles/openais-jalapeno-chip-outperforming-nvidia-175933888.html). 2026/08/25.
 
 
 ### Qualcomm
