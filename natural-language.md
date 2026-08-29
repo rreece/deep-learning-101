@@ -488,6 +488,8 @@ source: [globenewswire.com](https://www.globenewswire.com/news-release/2025/07/3
 
 source: [The Information](https://x.com/GergelyOrosz/status/2059619322947834271) 2026/05/27
 
+-    Fortune. (2026). [Anthropic wants investors to believe its 'total addressable market' is worth $30 trillion--nearly the size of the entire US economy](https://fortune.com/2026/08/26/anthropic-wants-investors-to-believe-its-market-is-worth-30-trillion-nearly-40-of-the-entire-us-stock-market/). 2026/08/26.
+
 
 ### Misc
 
