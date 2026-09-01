@@ -421,6 +421,12 @@ Media:
 
 TODO: Research
 
+### Syntiant
+
+Media:
+
+-   Yahoo Finance. (2026). [Intel-backed Syntiant, maker of AI chips for earbuds and cars, files for IPO on Nasdaq](https://finance.yahoo.com/technology/ai/articles/intel-backed-syntiant-maker-ai-022835503.html). 2026/07/06.
+
 ### Tenstorrent
 
 -   Jim Keller (CEO)
