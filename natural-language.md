@@ -476,6 +476,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 
 -   Modular. (2026). [*LLM Inference Handbook*](https://handbook.modular.com/).
 -   [Open Weights and American AI Leadership](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf). 2026/07/24.
+-   MIT. (2026). [AI and education: A watershed moment for MIT](https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit). 2026/08/25.
 
 
 ### Market share
