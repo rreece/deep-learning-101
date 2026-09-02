@@ -501,6 +501,7 @@ Research:
     -   July 2025: [AI startup Esperanto winds down silicon business](https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/).
 -   Etched
     -   Gavin Uberti (CEO)
+    -   Robert Wachen (COO)
 -   Graphcore
     -   Nigel Toon (CEO)
     -   July 2024: [Softbank Group acquired Graphcore](https://www.graphcore.ai/posts/graphcore-joins-softbank-group-to-build-next-generation-of-ai-compute) for around [$400 million](https://www.eetimes.com/ai-chip-startup-graphcore-acquired-by-softbank/).
