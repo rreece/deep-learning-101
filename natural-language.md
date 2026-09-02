@@ -413,6 +413,10 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
     -   OpenAI. (2025). [OpenAI o3-mini system card](https://cdn.openai.com/o3-mini-system-card-feb10.pdf).
 -   Claude 3.7 Sonnet (Anthropic)
     -   Anthropic. (2025). [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet).
+-   GPT-5.6 Sol (OpenAI)
+    -   OpenAI. (2026). [GPT-5.6 Sol: Frontier intellegence that scales with your ambition](https://openai.com/index/gpt-5-6/). 2026/07/09.
+-   Muse Spark 1.3 (Meta)
+    -   Meta. (2026). [Introducing Muse Spark 1.3](https://research.meta.ai/blog/introducing-muse-spark-1-3). 2026/09/02.
 
 #### Open source
 
