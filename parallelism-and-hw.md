@@ -478,6 +478,7 @@ Media:
 -   Yahoo Finance. (2026). [Intel shares rise on reports of Tenstorrent acquisition talks](https://finance.yahoo.com/markets/stocks/articles/qualcomm-tenstorrent-interest-puts-ai-151735800.html). 2026/05/20.
 -   TechTimes. (2026). [Qualcomm bets $14 billion on cracking Nvidia's AI monopoly with RISC-V and an open compiler: Tenstorrent provides the RISC-V accelerator; Modular provides the CUDA-alternative compiler](https://www.techtimes.com/articles/319017/20260624/qualcomm-bets-14-billion-cracking-nvidias-ai-monopoly-risc-v-open-compiler.htm). 2026/06/24.
 -   Ward-Foxton, S. (2026). [Jim Keller: 'AI still obeys the old laws of compute'](https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/). 2026/06/25.
+-   Cutress, I. (2026). [Deploying the newest AI hardware in datacenters: Beyond NVIDIA and AMD](https://morethanmoore.substack.com/p/deploying-the-newest-ai-hardware). 2026/09/12.
 
 Research:
 
