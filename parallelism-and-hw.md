@@ -94,6 +94,8 @@ Acquisitions:
 -   Groq (2025)
     -   [Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html). 2025/12/24.
     -   [Groq and Nvidia enter non-exclusive inference technology licensing agreement to accelerate AI inference at global scale](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale). 2025/12/24.
+-   Hugging Face (2026)
+    -   Nvidia. (2026). [NVIDIA to acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/). 2026/09/03. - $12.9B
 
 Whitepapers:
 
@@ -132,6 +134,8 @@ Acquisitions:
 
 -   Untether AI (2025)
 -   Taalas (2026)
+-   World Labs (2026)
+    -   AMD. (2026). [AMD to acquire World Labs to advance the future of AI compute](https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute). 2026/09/28. - $8.2B
 
 TODO: Whitepapers
 
