@@ -136,6 +136,7 @@ Acquisitions:
 -   Taalas (2026)
 -   World Labs (2026)
     -   AMD. (2026). [AMD to acquire World Labs to advance the future of AI compute](https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute). 2026/09/28. - $8.2B
+    -   Fei-Fei Li, co-founder of World Labs, will join AMD as Chief Scientist.
 
 TODO: Whitepapers
 
