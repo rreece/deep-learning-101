@@ -370,6 +370,7 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 -   Bergsma, S. et al. (2025). [Power Lines: Scaling Laws for Weight Decay and Batch Size in LLM Pre-training](https://arxiv.org/abs/2505.13738).
 -   Qiu, S. et al. (2025). [Scaling collapse reveals universal dynamics in compute-optimally trained neural networks](https://arxiv.org/abs/2507.02119).
 -   Hooker, S. (2025). [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662).
+-   Weng, L. (2026). [Scaling laws, carefully](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/).
 
 
 ## What comes after transformer?
