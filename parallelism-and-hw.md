@@ -484,6 +484,7 @@ Media:
 -   TechTimes. (2026). [Qualcomm bets $14 billion on cracking Nvidia's AI monopoly with RISC-V and an open compiler: Tenstorrent provides the RISC-V accelerator; Modular provides the CUDA-alternative compiler](https://www.techtimes.com/articles/319017/20260624/qualcomm-bets-14-billion-cracking-nvidias-ai-monopoly-risc-v-open-compiler.htm). 2026/06/24.
 -   Ward-Foxton, S. (2026). [Jim Keller: 'AI still obeys the old laws of compute'](https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/). 2026/06/25.
 -   Cutress, I. (2026). [Deploying the newest AI hardware in datacenters: Beyond NVIDIA and AMD](https://morethanmoore.substack.com/p/deploying-the-newest-ai-hardware). 2026/09/12.
+-   Tenstorrent. (2026). [Tenstorrent announces a $1.5B Series E at a $6.2B valuation](https://tenstorrent.com/newsroom/tenstorrent-announces-series-e). 2026/10/19.
 
 Research:
 
