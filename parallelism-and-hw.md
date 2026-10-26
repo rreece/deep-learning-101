@@ -552,6 +552,7 @@ For accuracy measurements, see [Evaluation methods](https://github.com/rreece/de
 -   Fregly, C. (2025). [*AI Systems Performance Engineering: Optimizing Model Training and Inference Workloads with GPUs, CUDA, and PyTorch*](https://a.co/d/6wIO3ab).
 -   Debnath, S. (2025). [From single GPU to clusters: A practical journey into distributed training with PyTorch and Ray](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/).
 -   Wodecki, B. (2026). [AI inference crisis: Google engineers on why network latency and memory trump compute](https://www.sdxcentral.com/news/ai-inference-crisis-google-engineers-on-why-network-latency-and-memory-trump-compute/). 2026/01/13.
+-   Torres, J. (2026). [*Supercomputing for Artificial Intelligence*](https://jorditorresbcn.github.io/supercomputing-for-ai-book/).
 
 
 ## Conclusion
