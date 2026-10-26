@@ -28,7 +28,7 @@ Another convention is to use `NCHW`, referred to as "channels first".
 
 ## Convolutions
 
--   The most import operation in computer vision is a convolution.
+-   The most important operation in computer vision is a convolution.
 -   It is a matrix multiply that respects spacial symmetry; the same matrix is applied everywhere.
 
 ![2D convolution with padding (source: https://github.com/vdumoulin/conv_arithmetic)](img/conv2d-with-pad.gif)
