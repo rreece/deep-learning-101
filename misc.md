@@ -84,6 +84,8 @@
 -   Jin, B., Yoon, J., Han, J., & Arik, S.O. (2024). [Long-context LLMs meet RAG: Overcoming challenges for long inputs in RAG](https://arxiv.org/abs/2410.05983).
 -   Anthropic. (2024). [Introducing contextual retrieval](https://www.anthropic.com/engineering/contextual-retrieval).
 -   Cerebras. (2026). [How we built our knowledge base](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base).
+-   Egan, J. et al. [chATLAS: A retrieval-augmented conversational assistant for the ATLAS Experiment](https://arxiv.org/abs/2610.37697).
+
 
 ![RAG explained.](img/rag-explained-clarifai.png)
 
