@@ -300,6 +300,12 @@ Media:
 -   Cerebras. (2026). [Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia](https://www.cerebras.ai/blog/introducing-cerebras-cs-4). 2026/08/18.
 -   Yahoo Finance. (2026). [Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia](https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html). 2026/08/19.
 -   Seeking Alpha. (2026). [Cerebras Systems: Beaten to a pulp on irrational fears (rating upgrade)](https://seekingalpha.com/article/4955056-cerebras-systems-beaten-to-pulp-on-irrational-fears-rating-upgrade). 2026/10/19.
+-   Irrational Analysis. (2026). [Culper Research vs Cerebras: A neutral engineering-driven view](https://irrationalanalysis.substack.com/p/culper-research-vs-cerebras-a-neutral). 2026/10/28.       
+    Threats:       
+    1.  Nvidia+Groq
+    2.  AMD high-SRAM CPU + souped-up AVX-512
+    3.  LPU-style Google TPU in partnership with Marvell
+    4.  OpenAI Jalapenjo (no prefill-decode disagg)
 -   Cerebras. (2026). [What it took to build wafer-scale, and why it lasts](https://www.cerebras.ai/blog/what-it-took-to-build-wafer-scale-and-why-it-lasts). 2026/11/05.
 
 ![source: https://www.forbes.com/sites/karlfreund/2025/10/21/cerebras-groq-and-sambanova-line-up-to-compete-with-nvidia](img/cerebras-is-far-faster.png)
