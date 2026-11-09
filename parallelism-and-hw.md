@@ -581,6 +581,8 @@ For accuracy measurements, see [Evaluation methods](https://github.com/rreece/de
 
 ### Market share
 
+-   [computemarketprice.com](https://computemarketprice.com/)
+
 ![source: https://epoch.ai/data-insights/ai-datacenter-share-gdp](img/ai-datacenter-share-gdp.png)
 
 source: [Epoch AI](https://epoch.ai/data-insights/ai-datacenter-share-gdp) 2026/06/05
