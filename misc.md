@@ -42,6 +42,7 @@
 -   [Chatbot Arena LLM Leaderboard](https://lmarena.ai)
 -   Phan, L. et al. (2025). [Humanity's last exam](https://arxiv.org/abs/2501.14249).
 -   Ni, S. et al. (2025). [A survey on large language model benchmarks](https://arxiv.org/abs/2508.15361).
+-   [github.com/METR/hawk](https://github.com/METR/hawk)
 
 ## Normalization
 
@@ -88,6 +89,11 @@
 
 
 ![RAG explained.](img/rag-explained-clarifai.png)
+
+
+## Cloud
+
+-   [github.com/cozystack/cozystack](https://github.com/cozystack/cozystack)
 
 
 ## More
