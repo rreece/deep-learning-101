@@ -440,6 +440,8 @@ FLOPs ~ n_layers * [4 * d_model**2 + 2 * sequence_length * d_model + 2 * d_model
 ## Agents
 
 -   Gullí, A. (2025). [*Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems*](https://a.co/d/7Pa0Kvc).
+-   [Mechanize, Inc.](https://www.mechanize.work/)
+-   [OpenClaw](https://openclaw.ai/)
 
 
 ## Conclusion
