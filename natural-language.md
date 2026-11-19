@@ -242,6 +242,10 @@ See also:
 
 ![Development of ChatGPT (source: [2302.10724](https://arxiv.org/abs/2302.10724)).](img/development-of-chatgpt.png)
 
+### Pre-training
+
+-   Gao, T., Wettig, A., Yen, H., & Chen, D. (2024). [How to train long-context language models (effectively)](https://arxiv.org/abs/2410.02660).
+-   Liu, E., Neubig, G., & Xiong, C. (2025). [Midtraining bridges pretraining and posttraining distributions](https://arxiv.org/abs/2510.14865).
 
 ### Post-training
 
