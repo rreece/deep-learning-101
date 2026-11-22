@@ -496,6 +496,7 @@ Media:
 -   Ward-Foxton, S. (2026). [Jim Keller: 'AI still obeys the old laws of compute'](https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/). 2026/06/25.
 -   Cutress, I. (2026). [Deploying the newest AI hardware in datacenters: Beyond NVIDIA and AMD](https://morethanmoore.substack.com/p/deploying-the-newest-ai-hardware). 2026/09/12.
 -   Tenstorrent. (2026). [Tenstorrent announces a $1.5B Series E at a $6.2B valuation](https://tenstorrent.com/newsroom/tenstorrent-announces-series-e). 2026/10/19.
+-   Tenstorrent. (2026). [Tenstorrent’s Galaxy Blackhole reaches industry-leading 5,300 tokens/sec/user decode speed on gpt-oss-120b](https://tenstorrent.com/en/newsroom/tenstorrents-galaxy-blackhole-gpt-oss-12). 2026/11/16.
 
 Research:
 
