@@ -45,6 +45,9 @@
 -   [inferencex.semianalysis.com/infx/agentx](https://inferencex.semianalysis.com/infx/agentx)
 -   [github.com/METR/hawk](https://github.com/METR/hawk)
 
+![Figure from [METR](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/).](img/metr-aeci-anthropic-oct-2026.png)
+
+
 ## Normalization
 
 -   BatchNorm
