@@ -540,6 +540,11 @@ Research:
     -   CRN. (2025). [AMD acquires team behind AI chip startup Untether AI](https://www.crn.com/news/components-peripherals/2025/exclusive-amd-acquires-team-behind-ai-chip-startup-untether-ai). 2025/06/05.
 
 
+## Neoclouds
+
+-   AI Brief. (2026). [AI inference providers](https://dailyaibrief.com/lists/ai-model-apis-inference-providers). 2026/11.
+
+
 ## Benchmarking
 
 Here we focus on measuring performance, TTFT, TPS, FLOPs, FLOPs/W, etc.
